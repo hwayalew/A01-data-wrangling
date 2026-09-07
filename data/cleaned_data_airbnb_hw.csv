@@ -100,7 +100,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8440,2/23/2009,Luxe 1BD apartment by Prospect Park,Brooklyn,Apartment,95.0,Entire home/apt,11218.0,1.0,1,4,150,95.0
 8425,2/23/2009,Charming W.Village Apt. 8/25-9/15,Manhattan,Apartment,100.0,Entire home/apt,10014.0,1.0,1,1,175,100.0
 8605,2/25/2009,Sunny 1BR East Harlem Apartment,Manhattan,Apartment,90.0,Entire home/apt,10035.0,2.0,1,11,109,91.0
-8730,2/27/2009,Comfort & Convenience,Manhattan,Condominium,100.0,Entire home/apt,10003.0,6.0,1,4,"1,990",100.0
+8730,2/27/2009,Comfort & Convenience,Manhattan,Condominium,100.0,Entire home/apt,10003.0,6.0,1,4,1990,100.0
 8703,2/27/2009,"Clean, Safe, Convenient, Comfy",Manhattan,Apartment,100.0,Shared room,10027.0,1.0,1,3,80,100.0
 8967,3/3/2009,Large Furnished Room Near B'way,Manhattan,Apartment,85.0,Private room,10019.0,1.0,1,242,73,85.0
 9744,3/10/2009,"Beautiful Apt, Garden #3 Best Area",Brooklyn,Apartment,95.0,Entire home/apt,11215.0,3.0,1,67,135,97.0
@@ -262,7 +262,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 33279,8/23/2009,Room in DOORMAN/ELEVATOR LOFT BLDG,Brooklyn,Apartment,80.0,Private room,11205.0,1.0,1,31,89,84.0
 34128,8/26/2009,Designer loft in hip Williamsburg,Brooklyn,Apartment,95.0,Entire home/apt,11211.0,1.0,1,21,170,99.0
 35017,8/30/2009,Sunny Artistic East Village Apt,Manhattan,Apartment,95.0,Entire home/apt,10003.0,1.0,1,20,160,96.0
-34915,8/30/2009,Luxurious 2-Floor Manhattan Mansion,Manhattan,Apartment,,Entire home/apt,10075.0,2.0,1,0,"1,000",
+34915,8/30/2009,Luxurious 2-Floor Manhattan Mansion,Manhattan,Apartment,,Entire home/apt,10075.0,2.0,1,0,1000,
 35271,8/31/2009,Manhattan studio Apartment,Manhattan,Apartment,90.0,Entire home/apt,10021.0,2.0,1,31,150,94.0
 35271,8/31/2009,Manhattan City 1 Bed Room Apartment,Manhattan,Apartment,60.0,Entire home/apt,10029.0,2.0,1,1,110,60.0
 35271,8/31/2009,Manhattan large 1 Bed Rm Apartment,Manhattan,Apartment,80.0,Entire home/apt,10029.0,3.0,1,48,110,84.0
@@ -763,7 +763,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 111837,4/21/2010,Private Room in Williamsburg Apt,Brooklyn,Apartment,100.0,Private room,11211.0,1.0,1,1,78,100.0
 111908,4/21/2010,Large Bright Private Room on UWS,Manhattan,Apartment,95.0,Private room,10025.0,1.0,1,26,95,96.0
 111908,4/21/2010,Large Sunny Private Bedroom,Manhattan,Apartment,100.0,Private room,10025.0,4.0,1,1,95,100.0
-112879,4/23/2010,Modern Luxury Meets Old Money Charm,Brooklyn,Apartment,,Entire home/apt,11206.0,5.0,1,0,"1,200",
+112879,4/23/2010,Modern Luxury Meets Old Money Charm,Brooklyn,Apartment,,Entire home/apt,11206.0,5.0,1,0,1200,
 112983,4/24/2010,2br Child Friendly Duplex.,Brooklyn,Apartment,90.0,Entire home/apt,11231.0,2.0,1,10,205,94.0
 113659,4/25/2010,Huge room w/private bath+entrance,Brooklyn,Apartment,,Private room,11237.0,2.0,1,0,65,
 113919,4/26/2010,"Serene, Artsy Loft Retreat",Brooklyn,Apartment,90.0,Entire home/apt,11238.0,2.0,1,11,150,91.0
@@ -1271,10 +1271,10 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 212738,8/25/2010,Brooklyn Retreat,Brooklyn,Apartment,90.0,Private room,11221.0,1.0,1,20,59,91.0
 212722,8/25/2010,N.Y.C. CHARMING 1 BDRM.(GREAT AREA),Manhattan,Apartment,95.0,Private room,10021.0,1.0,1,85,90,97.0
 213020,8/25/2010,"1st floor of a two floor duplex,",Manhattan,Apartment,80.0,Private room,10025.0,1.0,1,13,75,83.0
-214148,8/26/2010,"LARGE, COMFY 1BDR W/CHARACTER!!!",Brooklyn,Apartment,90.0,Entire home/apt,11216.0,1.0,1,30,"1,000",92.0
+214148,8/26/2010,"LARGE, COMFY 1BDR W/CHARACTER!!!",Brooklyn,Apartment,90.0,Entire home/apt,11216.0,1.0,1,30,1000,92.0
 213645,8/26/2010,Spacious sunny 2 bedroom/E. Village,Manhattan,Apartment,90.0,Entire home/apt,10009.0,2.0,1,14,330,91.0
 214287,8/26/2010,Chelsea Studio Great location,Manhattan,Apartment,90.0,Entire home/apt,10011.0,1.0,1,3,175,90.0
-213266,8/26/2010,Beautiful 1 Bedroom in Nolita/Soho,Manhattan,Apartment,75.0,Entire home/apt,10012.0,2.0,1,2,"5,000",76.0
+213266,8/26/2010,Beautiful 1 Bedroom in Nolita/Soho,Manhattan,Apartment,75.0,Entire home/apt,10012.0,2.0,1,2,5000,76.0
 214871,8/27/2010,2BR Apt in Modern NYC Brownstone,Brooklyn,House,90.0,Entire home/apt,11233.0,4.0,1,24,179,94.0
 214871,8/27/2010,"3BR in Modern, Classic Brownstone",Brooklyn,House,100.0,Entire home/apt,11233.0,2.0,1,2,150,100.0
 214794,8/27/2010,"Cute, comfy 1 bed apt UES/E Harlem",Manhattan,Apartment,90.0,Entire home/apt,10029.0,1.0,1,20,155,90.0
@@ -1475,7 +1475,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 256161,10/7/2010,City Room - Private Luxury Suite,Manhattan,House,95.0,Private room,10027.0,1.0,1,84,120,95.0
 255583,10/7/2010,MIDTOWN WEST - Large alcove studio,Manhattan,Apartment,90.0,Shared room,10019.0,1.0,1,10,105,90.0
 256441,10/8/2010,Sunny WBurg 2BR with Skyline Views,Brooklyn,Apartment,,Entire home/apt,11211.0,2.0,1,0,800,
-256239,10/8/2010,Beautiful 3 bedroom in Manhattan,Manhattan,Apartment,,Private room,10025.0,,1,0,"3,000",
+256239,10/8/2010,Beautiful 3 bedroom in Manhattan,Manhattan,Apartment,,Private room,10025.0,,1,0,3000,
 257306,10/9/2010,SUNNY 1BDRM. APT. EAST VILLAGE,Manhattan,Apartment,85.0,Entire home/apt,10009.0,2.0,1,35,169,88.0
 257315,10/9/2010,Designer Flat in East village,Manhattan,Apartment,90.0,Entire home/apt,10016.0,2.0,1,8,325,93.0
 257479,10/9/2010,Feel at Home in the Big Apple,Manhattan,Apartment,100.0,Entire home/apt,10024.0,2.0,1,1,250,100.0
@@ -1845,7 +1845,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 318398,12/14/2010,Charming 1BR Prospect Heights Apt,Brooklyn,Apartment,95.0,Entire home/apt,11238.0,1.0,1,11,95,96.0
 318967,12/14/2010,Cozy & bright studio in Brooklyn,Brooklyn,Apartment,95.0,Entire home/apt,11238.0,1.0,1,19,99,96.0
 319077,12/14/2010,Authentic 4000 sqft  4 bedroom Loft,Brooklyn,Loft,95.0,Entire home/apt,11238.0,4.0,1,31,550,95.0
-319077,12/14/2010,HUGE loft for film & photoshoots,Brooklyn,Loft,95.0,Entire home/apt,11238.0,4.0,1,6,"1,500",97.0
+319077,12/14/2010,HUGE loft for film & photoshoots,Brooklyn,Loft,95.0,Entire home/apt,11238.0,4.0,1,6,1500,97.0
 318998,12/14/2010,Beautiful Large Manhattan Apartment,Manhattan,Apartment,90.0,Entire home/apt,10011.0,2.0,1,17,169,91.0
 319077,12/14/2010,Lovely Room in HUGE 4000 sqft Loft!,Brooklyn,Apartment,95.0,Private room,11238.0,1.0,1,11,95,98.0
 319077,12/14/2010,"Lovely Room, HUGE 4000 sqft Loft 2",Brooklyn,Apartment,95.0,Private room,11238.0,1.0,1,9,95,98.0
@@ -1972,11 +1972,11 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 346854,1/14/2011,Duplex in Soho with private terrace,Manhattan,Apartment,80.0,Private room,10012.0,1.0,1,13,125,82.0
 348474,1/15/2011,Top Floor 2+ BR w/ Private Roofdeck,Brooklyn,Apartment,95.0,Entire home/apt,11215.0,2.0,1,2,260,97.0
 349357,1/16/2011,The perfect room Close to US Open!,Queens,Apartment,90.0,Private room,11368.0,1.0,1,11,65,90.0
-351384,1/17/2011,"For Walter, King Size Bed",Brooklyn,Other,,Entire home/apt,11211.0,1.0,1,0,"1,200",
+351384,1/17/2011,"For Walter, King Size Bed",Brooklyn,Other,,Entire home/apt,11211.0,1.0,1,0,1200,
 350553,1/17/2011,Large sunny room 10 min to Midtown!,Manhattan,Apartment,65.0,Private room,10027.0,1.0,1,4,100,65.0
 351947,1/18/2011,wonderful 2 bed loft w city views,Brooklyn,Apartment,95.0,Entire home/apt,11211.0,2.0,1,48,300,97.0
 351650,1/18/2011,Brooklyn at its finest,Brooklyn,Apartment,,Entire home/apt,11249.0,1.0,1,0,225,
-351938,1/18/2011,All Star/Fashion weekend/VDAY Pad,Brooklyn,Loft,,Entire home/apt,11231.0,1.0,1,0,"1,800",
+351938,1/18/2011,All Star/Fashion weekend/VDAY Pad,Brooklyn,Loft,,Entire home/apt,11231.0,1.0,1,0,1800,
 352771,1/18/2011,Soho/Tribeca Loft Gem,Manhattan,Apartment,100.0,Entire home/apt,10013.0,1.0,1,4,250,100.0
 352168,1/18/2011,"Nice renovated apt, prime location!",Manhattan,Apartment,95.0,Entire home/apt,10023.0,1.0,1,22,160,98.0
 352230,1/18/2011,XLarge 3 br 2 baths sleeps 8+,Manhattan,Apartment,90.0,Entire home/apt,10031.0,6.0,1,25,280,91.0
@@ -2094,7 +2094,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 390117,2/13/2011,West Village Room with Garden View,Manhattan,Loft,,Private room,10014.0,1.0,1,0,200,
 391612,2/14/2011,Victorian Home 1 & Express Train,Brooklyn,House,80.0,Entire home/apt,11226.0,5.0,1,8,740,84.0
 391612,2/14/2011,Victorian Home 2 & Express Train!,Brooklyn,House,95.0,Entire home/apt,11226.0,3.0,1,10,640,98.0
-391612,2/14/2011,"Victorian House, Express + More!",Brooklyn,House,95.0,Entire home/apt,11226.0,8.0,1,6,"1,300",97.0
+391612,2/14/2011,"Victorian House, Express + More!",Brooklyn,House,95.0,Entire home/apt,11226.0,8.0,1,6,1300,97.0
 392361,2/14/2011,Charming Manhattan Studio,Manhattan,Apartment,,Entire home/apt,10021.0,1.0,1,1,190,
 390844,2/14/2011,SoHo Apartment with Washer/Dryer,Manhattan,Apartment,80.0,Private room,10013.0,1.0,1,6,89,80.0
 392541,2/15/2011,Sunny and Cozy Gramercy Apartment,Manhattan,Apartment,100.0,Entire home/apt,10010.0,1.0,1,2,190,100.0
@@ -2148,7 +2148,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 411916,2/26/2011,Beautiful Victorian Apartment,Brooklyn,Apartment,80.0,Entire home/apt,11216.0,1.0,1,1,80,80.0
 411489,2/26/2011,Park Slope/Prospect Hghts 2 bedroom,Brooklyn,Apartment,85.0,Entire home/apt,11217.0,2.0,1,69,150,86.0
 411489,2/26/2011,Prospect Heights/Park Slope Beauty,Brooklyn,Apartment,90.0,Entire home/apt,11217.0,2.0,1,55,187,93.0
-410711,2/26/2011,"4 beds·3.5 baths·2,665 sqft",Manhattan,Apartment,,Entire home/apt,10011.0,6.0,1,0,"1,000",
+410711,2/26/2011,"4 beds·3.5 baths·2,665 sqft",Manhattan,Apartment,,Entire home/apt,10011.0,6.0,1,0,1000,
 410711,2/26/2011,"Flatiron/ 2 beds/ 2 baths/2,200 ft²",Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,0,440,
 410962,2/26/2011,Beautiful 1 BD apartment,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,320,
 410711,2/26/2011,Luxury condominium,Manhattan,Loft,,Entire home/apt,10022.0,2.0,1,0,700,
@@ -2336,7 +2336,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 462379,3/25/2011,"  3 bedroom DUPLEX, great location!",Brooklyn,Apartment,85.0,Entire home/apt,11217.0,4.0,1,38,395,89.0
 462379,3/25/2011,"ECO-APT, free YOGA, 2 new bedrooms.",Brooklyn,Apartment,90.0,Entire home/apt,11231.0,4.0,1,45,350,94.0
 461947,3/25/2011,Beautiful Williamsburg Apartment,Brooklyn,Apartment,100.0,Entire home/apt,11249.0,1.0,1,1,225,100.0
-462379,3/25/2011,Beautiful eco triplex w/ green roof,Brooklyn,House,90.0,Entire home/apt,11231.0,5.0,1,30,"1,239",94.0
+462379,3/25/2011,Beautiful eco triplex w/ green roof,Brooklyn,House,90.0,Entire home/apt,11231.0,5.0,1,30,1239,94.0
 462429,3/25/2011,"STUNNING, HUGE, RUSTIC OPEN LOFT",Brooklyn,Loft,90.0,Entire home/apt,11222.0,1.0,1,52,210,94.0
 462776,3/25/2011,Large Studio--Heart of East Village,Manhattan,Apartment,90.0,Entire home/apt,10003.0,1.0,1,153,159,93.0
 462291,3/25/2011,2 Bed East Village Apartment,Manhattan,Apartment,,Entire home/apt,10009.0,3.0,1,0,325,
@@ -2404,7 +2404,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 491079,4/7/2011,Cozy Bedroom in nice Apartment,Manhattan,Apartment,90.0,Private room,10029.0,1.0,1,39,80,90.0
 493545,4/8/2011,Spacious New York Apartment - 2BR,Brooklyn,Apartment,,Entire home/apt,11238.0,2.0,1,0,160,
 493545,4/8/2011,Spacious King Bed - Brooklyn Museum,Brooklyn,Apartment,100.0,Private room,11238.0,1.0,1,1,132,100.0
-496780,4/9/2011,test listing which is not real,Brooklyn,Apartment,,Entire home/apt,11249.0,5.0,1,0,"5,999",
+496780,4/9/2011,test listing which is not real,Brooklyn,Apartment,,Entire home/apt,11249.0,5.0,1,0,5999,
 496667,4/9/2011,Gorgeous West Village apartment,Manhattan,Apartment,85.0,Entire home/apt,10014.0,1.0,1,13,210,87.0
 496863,4/9/2011,Greenwich Village Home own entrance,Manhattan,Apartment,95.0,Entire home/apt,10014.0,1.0,1,29,225,98.0
 496426,4/9/2011,Sunny Stylish 2 BR Apt Times Square,Manhattan,Apartment,85.0,Entire home/apt,10019.0,4.0,1,21,225,89.0
@@ -2440,7 +2440,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 511175,4/15/2011,Room in Spacious East Village Apt.,Manhattan,Apartment,95.0,Private room,10009.0,,1,2,80,99.0
 510998,4/15/2011,Charm & Quiet in Harlem,Manhattan,Apartment,,Private room,10030.0,1.0,1,1,82,
 514178,4/16/2011,Fort Greene Brooklyn Studio Apt,Brooklyn,Apartment,85.0,Entire home/apt,11238.0,1.0,1,2,140,88.0
-513011,4/16/2011,1 Bedroom Midtown East Apartment,Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,"1,500",
+513011,4/16/2011,1 Bedroom Midtown East Apartment,Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,1500,
 512878,4/16/2011,"Huge, Classy & Clean NYC 3Bdrm Apt",Manhattan,Apartment,90.0,Entire home/apt,10032.0,6.0,1,10,219,93.0
 513405,4/16/2011,Williamsburg Central - Mansion,Brooklyn,Apartment,,Private room,11211.0,1.0,1,0,150,
 514261,4/16/2011,2BR Nantucket-style Haven w/Bckyard,Brooklyn,Apartment,100.0,Private room,11215.0,2.0,1,3,150,100.0
@@ -2715,7 +2715,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 605463,5/19/2011,Landmark 2 Bedroom West Village NYC,Manhattan,Apartment,90.0,Entire home/apt,10014.0,2.0,1,62,300,90.0
 605463,5/19/2011,Landmark 4 BDRM Village Townhouse!,Manhattan,Apartment,85.0,Entire home/apt,10014.0,4.0,1,52,700,89.0
 602224,5/19/2011,Upper East Side Apartment,Manhattan,Apartment,85.0,Entire home/apt,10028.0,2.0,1,43,175,87.0
-605463,5/19/2011,HUGE 6 bedroom Landmark house NYC,Manhattan,House,85.0,Entire home/apt,10014.0,6.0,1,19,"1,300",88.0
+605463,5/19/2011,HUGE 6 bedroom Landmark house NYC,Manhattan,House,85.0,Entire home/apt,10014.0,6.0,1,19,1300,88.0
 607823,5/20/2011,Experience Ultimate Brooklyn Living,Brooklyn,Apartment,,Entire home/apt,11216.0,2.0,1,0,170,
 607632,5/20/2011,Modern Apartment in Trendy Chelsea!,Manhattan,Apartment,90.0,Entire home/apt,10001.0,1.0,1,24,350,94.0
 607632,5/20/2011,Cool 2-Bedroom Apartment in Chelsea,Manhattan,Apartment,90.0,Entire home/apt,10011.0,3.0,1,112,205,90.0
@@ -2911,7 +2911,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 672510,6/6/2011,"Cute, comfortable room in Gramercy",Manhattan,Apartment,90.0,Private room,10010.0,1.0,1,48,55,93.0
 672489,6/6/2011,Sunny Studio Central Park/Columbia,Manhattan,Apartment,90.0,Private room,10026.0,1.0,1,2,110,90.0
 670703,6/6/2011,Clean & cozy 1 stop to GrandCentral,Queens,Apartment,100.0,Private room,11101.0,1.0,1,2,80,100.0
-673406,6/7/2011,A Little Palace in a Brooklyn Loft!,Brooklyn,Loft,95.0,Entire home/apt,11237.0,3.0,1,26,"1,500",99.0
+673406,6/7/2011,A Little Palace in a Brooklyn Loft!,Brooklyn,Loft,95.0,Entire home/apt,11237.0,3.0,1,26,1500,99.0
 674581,6/7/2011,Huge Open Loft / Amazing Sunlight,Brooklyn,Loft,95.0,Entire home/apt,11249.0,1.0,1,12,200,96.0
 676480,6/7/2011,Luxury designer loft in the sky.,Manhattan,Apartment,100.0,Entire home/apt,10005.0,1.0,1,2,225,100.0
 676997,6/7/2011,BRIGHT & COZY ROOM June 2015,Bronx,Apartment,,Private room,10454.0,1.0,1,0,38,
@@ -3481,8 +3481,8 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 904833,8/1/2011,Comfort at Crossroads of Downtown,Manhattan,Apartment,100.0,Entire home/apt,10011.0,3.0,1,1,250,100.0
 906163,8/1/2011,Chelsea Studio w/ Private Garden,Manhattan,Apartment,95.0,Entire home/apt,10011.0,1.0,1,9,195,97.0
 901957,8/1/2011,Comfortable Village Apartment!,Manhattan,Apartment,95.0,Entire home/apt,10012.0,1.0,1,12,189,98.0
-904192,8/1/2011,"FAMOUS SOHO ""MERCER ST."" PENTHOUSE!",Manhattan,Apartment,95.0,Entire home/apt,10012.0,6.0,1,17,"2,750",95.0
-904192,8/1/2011,SOHO PENTHOUSE W/ PRIVATE ROOFDECK,Manhattan,Apartment,,Entire home/apt,10012.0,3.0,1,0,"4,750",
+904192,8/1/2011,"FAMOUS SOHO ""MERCER ST."" PENTHOUSE!",Manhattan,Apartment,95.0,Entire home/apt,10012.0,6.0,1,17,2750,95.0
+904192,8/1/2011,SOHO PENTHOUSE W/ PRIVATE ROOFDECK,Manhattan,Apartment,,Entire home/apt,10012.0,3.0,1,0,4750,
 904944,8/1/2011,The Soho Dream,Manhattan,Apartment,85.0,Entire home/apt,10012.0,1.0,1,81,179,86.0
 905708,8/1/2011,Full floor SOHO Loft 1600ft2- brick,Manhattan,Loft,90.0,Entire home/apt,10013.0,2.0,1,46,432,90.0
 903686,8/1/2011,Great place in THE area to stay in!,Brooklyn,Apartment,100.0,Private room,11206.0,1.0,1,7,100,100.0
@@ -3993,7 +3993,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1169604,9/16/2011,Cozy room in a big city Brooklyn,Brooklyn,Apartment,85.0,Private room,11207.0,2.0,1,70,60,85.0
 1169604,9/16/2011,Master bathroom in room. 2 beds.,Brooklyn,Apartment,90.0,Private room,11207.0,2.0,1,30,65,91.0
 1169314,9/16/2011,Large Bedroom in Harlem,Manhattan,Apartment,90.0,Private room,10031.0,1.0,1,2,28,90.0
-1173398,9/17/2011,2 BED 1.5 BATH 5TH AVE LUXURY APT!,Manhattan,Apartment,,Entire home/apt,10021.0,2.0,1,0,"1,000",
+1173398,9/17/2011,2 BED 1.5 BATH 5TH AVE LUXURY APT!,Manhattan,Apartment,,Entire home/apt,10021.0,2.0,1,0,1000,
 1172109,9/17/2011,Sunny Room in Prime Bedstuy,Brooklyn,Apartment,85.0,Private room,11233.0,1.0,1,9,62,87.0
 1171707,9/17/2011,Spacious Bedroom in Bushwick w/AC,Brooklyn,Apartment,,Private room,11237.0,1.0,1,0,67,
 1172202,9/17/2011,20 min to Manhattan / Astoria House,Queens,House,85.0,Private room,11105.0,1.0,1,29,60,85.0
@@ -4001,8 +4001,8 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1172202,9/17/2011,20minToManhattan Small Room Astoria,Queens,House,85.0,Private room,11105.0,1.0,1,26,55,88.0
 1177040,9/18/2011,"Quiet, sunny, private apartment",Brooklyn,Apartment,85.0,Entire home/apt,11211.0,1.0,1,16,125,89.0
 1174963,9/18/2011,Quintessential Brooklyn...!!,Brooklyn,Apartment,95.0,Entire home/apt,11217.0,1.0,1,12,128,95.0
-1177497,9/18/2011,Film Location,Brooklyn,House,,Entire home/apt,11205.0,5.0,1,0,"8,000",
-1177497,9/18/2011,Photography Location,Brooklyn,House,100.0,Entire home/apt,11205.0,5.0,1,3,"4,500",100.0
+1177497,9/18/2011,Film Location,Brooklyn,House,,Entire home/apt,11205.0,5.0,1,0,8000,
+1177497,9/18/2011,Photography Location,Brooklyn,House,100.0,Entire home/apt,11205.0,5.0,1,3,4500,100.0
 1177947,9/18/2011,Sunny cozy multilevelled apartment!,Staten Island,Apartment,90.0,Entire home/apt,10305.0,1.0,1,37,75,91.0
 1177497,9/18/2011,The Notorious B.N.B  { Biggie },Brooklyn,House,95.0,Private room,11205.0,2.0,1,28,459,99.0
 1177497,9/18/2011,The Notorious B.N.B { Swoon },Brooklyn,House,95.0,Private room,11205.0,1.0,1,36,279,97.0
@@ -4334,7 +4334,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1300054,10/16/2011,brooklyn artist loft,Brooklyn,Loft,,Entire home/apt,11206.0,1.0,1,0,275,
 1297201,10/16/2011,Cozy Private Studio in Chelsea,Manhattan,Apartment,90.0,Entire home/apt,10011.0,1.0,1,8,105,90.0
 1300049,10/16/2011,Perfect NYC Couples Get Away Spot!,Manhattan,Apartment,95.0,Entire home/apt,10019.0,1.0,1,10,150,95.0
-1299252,10/16/2011,Event Space in Flatiron,Manhattan,Loft,,Entire home/apt,10010.0,1.0,1,0,"1,000",
+1299252,10/16/2011,Event Space in Flatiron,Manhattan,Loft,,Entire home/apt,10010.0,1.0,1,0,1000,
 1297675,10/16/2011,Private BR + BR in modern Brkln apt,Brooklyn,Apartment,95.0,Private room,11217.0,1.0,1,13,128,97.0
 1299679,10/16/2011,Private rm in charming Brooklyn apt,Brooklyn,Apartment,,Private room,11221.0,1.0,1,0,88,
 1296938,10/16/2011,Master Suite with a great view!,Manhattan,Apartment,90.0,Private room,10002.0,1.0,1,27,115,93.0
@@ -4427,7 +4427,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1326955,10/23/2011,Large Whole apt. Columbia area chic,Manhattan,Apartment,90.0,Entire home/apt,10025.0,1.0,1,14,145,91.0
 1325961,10/23/2011,Perfect Spot while visiting NYC,Manhattan,Apartment,100.0,Entire home/apt,10029.0,3.0,1,2,100,100.0
 1330961,10/24/2011,Prime Wburg renovated 2 bedroom,Brooklyn,Apartment,,Entire home/apt,11249.0,1.0,1,0,220,
-1331566,10/24/2011,GORGEOUS 4 FLOOR BROWNSTONE,Brooklyn,House,,Entire home/apt,11217.0,6.0,1,0,"1,000",
+1331566,10/24/2011,GORGEOUS 4 FLOOR BROWNSTONE,Brooklyn,House,,Entire home/apt,11217.0,6.0,1,0,1000,
 1331566,10/24/2011,HUGE full floor loft on The Bowery!,Manhattan,Apartment,90.0,Entire home/apt,10002.0,3.0,1,25,650,91.0
 1329114,10/24/2011,Bright West Chelsea Studio,Manhattan,Apartment,90.0,Entire home/apt,10011.0,1.0,1,6,170,93.0
 1331832,10/24/2011,Clean/Convenient w/Discount offer!,Manhattan,Apartment,95.0,Entire home/apt,10011.0,1.0,1,20,170,98.0
@@ -4615,7 +4615,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1393246,11/10/2011,One Bedroom in the East Village,Manhattan,Apartment,100.0,Entire home/apt,10009.0,1.0,1,1,150,100.0
 1394190,11/10/2011,Sunny elegant Soho apartment,Manhattan,Apartment,100.0,Entire home/apt,10012.0,1.0,1,3,295,100.0
 1392974,11/10/2011,EVERYTHING...in walking distance.,Manhattan,Apartment,85.0,Entire home/apt,10013.0,1.0,1,42,185,85.0
-1394678,11/10/2011,CENTRAL PARK WEST PENTHOUSE,Manhattan,Apartment,,Entire home/apt,10023.0,3.0,1,0,"2,500",
+1394678,11/10/2011,CENTRAL PARK WEST PENTHOUSE,Manhattan,Apartment,,Entire home/apt,10023.0,3.0,1,0,2500,
 1394569,11/10/2011,The Apartment of Natural History,Manhattan,Apartment,95.0,Entire home/apt,10024.0,2.0,1,11,250,98.0
 1393172,11/10/2011,Private room in Brooklyn,Brooklyn,Apartment,,Private room,11219.0,1.0,1,1,39,
 1394049,11/10/2011,PRIVATE BATH & ROOM,Manhattan,Apartment,85.0,Private room,,2.0,1,113,85,89.0
@@ -4754,8 +4754,8 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1420448,11/18/2011,Private 1 Bedroom Apartment,Brooklyn,Apartment,,Entire home/apt,11201.0,1.0,1,0,165,
 1421199,11/18/2011,Charming Brownstone Apt on the Park,Brooklyn,Apartment,80.0,Entire home/apt,11215.0,1.0,1,5,125,84.0
 1419809,11/18/2011,Charming & Sunny Prewar Apartment!,Brooklyn,Apartment,90.0,Entire home/apt,11222.0,1.0,1,55,130,93.0
-1420300,11/18/2011,5 Bathrooms 8 Bedrooms 24 Real Beds,Brooklyn,House,95.0,Entire home/apt,11216.0,16.0,1,19,"1,000",98.0
-1420300,11/18/2011,8 Bedrooms 5 Baths 20 mnts to SOHO,Brooklyn,House,90.0,Entire home/apt,11216.0,16.0,1,36,"1,000",92.0
+1420300,11/18/2011,5 Bathrooms 8 Bedrooms 24 Real Beds,Brooklyn,House,95.0,Entire home/apt,11216.0,16.0,1,19,1000,98.0
+1420300,11/18/2011,8 Bedrooms 5 Baths 20 mnts to SOHO,Brooklyn,House,90.0,Entire home/apt,11216.0,16.0,1,36,1000,92.0
 1420434,11/18/2011,Huge Gorgeous Artists Loft,Brooklyn,Loft,100.0,Entire home/apt,11237.0,4.0,1,6,375,100.0
 1420603,11/18/2011,Sun drenched apt in Lower East Side,Manhattan,Apartment,85.0,Entire home/apt,10002.0,1.0,1,3,118,87.0
 1420603,11/18/2011,Stylish East Village 2 bedroom Apt,Manhattan,Apartment,85.0,Entire home/apt,10009.0,2.0,1,4,239,87.0
@@ -4780,7 +4780,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1425705,11/20/2011,"Large 1BR in Cobble Hill, Brooklyn",Brooklyn,Apartment,95.0,Entire home/apt,11231.0,1.0,1,15,155,99.0
 1426084,11/20/2011,Huge 3BD 2BA Brooklyn loft + deck,Brooklyn,Loft,95.0,Entire home/apt,11238.0,6.0,1,4,220,97.0
 1426080,11/20/2011,Large Studio tall ceilings in SOHO,Manhattan,Apartment,100.0,Entire home/apt,10002.0,1.0,1,4,130,100.0
-1427243,11/20/2011,Prime NYC Location for Super Bowl,Manhattan,Apartment,,Entire home/apt,10003.0,4.0,1,0,"3,750",
+1427243,11/20/2011,Prime NYC Location for Super Bowl,Manhattan,Apartment,,Entire home/apt,10003.0,4.0,1,0,3750,
 1425449,11/20/2011,Heart of NYC Gramercy E.20s- 1 Bdrm,Manhattan,Apartment,90.0,Entire home/apt,10016.0,1.0,1,86,229,93.0
 1427381,11/20/2011,Guest Room in Hip Williamsburg Loft,Brooklyn,Apartment,90.0,Private room,11211.0,1.0,1,15,80,90.0
 1424983,11/20/2011,Private bed & bath in East Village.,Manhattan,Apartment,95.0,Private room,10009.0,1.0,1,6,180,97.0
@@ -5087,7 +5087,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1507558,12/15/2011,The CLEAN YOGI HOME in LowEast NYC,Manhattan,Apartment,95.0,Entire home/apt,10002.0,3.0,1,31,263,95.0
 1508444,12/15/2011,Cozy studio in the East Village!!,Manhattan,Apartment,100.0,Entire home/apt,10003.0,1.0,1,2,160,100.0
 1509017,12/15/2011,Brand new large furnished studio!,Manhattan,Apartment,100.0,Entire home/apt,10005.0,2.0,1,1,180,100.0
-1508360,12/15/2011,West Village Penthouse,Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,0,"1,000",
+1508360,12/15/2011,West Village Penthouse,Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,0,1000,
 1508957,12/15/2011,Charming Chelsea Apartment,Manhattan,Apartment,95.0,Entire home/apt,10011.0,1.0,1,4,200,95.0
 1508439,12/15/2011,One bedroom near Grand Central,Manhattan,Apartment,80.0,Entire home/apt,10017.0,1.0,1,13,200,84.0
 1507558,12/15/2011,CLEAN YOGI ROOM- NYC L.E.S,Manhattan,Apartment,95.0,Private room,10002.0,1.0,1,10,125,96.0
@@ -5293,7 +5293,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1581860,1/8/2012,One bedroom apartment West Village,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,165,
 1583226,1/8/2012,HUGE 1BR BALCONY NR CENTRAL PARK!,Manhattan,Apartment,100.0,Entire home/apt,10025.0,1.0,1,6,125,100.0
 1583586,1/8/2012,"True 1Br - Entire Apt, Top Location",Manhattan,Apartment,,Entire home/apt,10128.0,1.0,1,0,222,
-1581845,1/8/2012,SOHO GALLERY,Manhattan,Loft,,Entire home/apt,10013.0,1.0,1,0,"1,500",
+1581845,1/8/2012,SOHO GALLERY,Manhattan,Loft,,Entire home/apt,10013.0,1.0,1,0,1500,
 1580862,1/8/2012,Garden Level Private Apartment,Brooklyn,Apartment,90.0,Private room,11210.0,3.0,1,2,135,90.0
 1580862,1/8/2012,Garden Level Studio,Brooklyn,Bed & Breakfast,90.0,Private room,11210.0,1.0,1,9,110,93.0
 1580862,1/8/2012,Upper Level Joni Mitchell Bedroom,Brooklyn,Bed & Breakfast,90.0,Private room,11210.0,2.0,1,7,85,93.0
@@ -5403,10 +5403,10 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1617817,1/17/2012,Share in NYC's trendy East Village,Manhattan,Apartment,95.0,Private room,10003.0,1.0,1,74,116,95.0
 1616425,1/17/2012,20th floor high-rise luxury condo,Manhattan,Apartment,70.0,Private room,10019.0,2.0,1,5,110,70.0
 1618027,1/17/2012,"Historical NY neighborhood, Sunnysi",Queens,Apartment,,Private room,11104.0,1.0,1,0,78,
-1621363,1/18/2012,Modern Townhouse Duplex -best area!,Brooklyn,Apartment,,Entire home/apt,11201.0,5.0,1,0,"1,000",
+1621363,1/18/2012,Modern Townhouse Duplex -best area!,Brooklyn,Apartment,,Entire home/apt,11201.0,5.0,1,0,1000,
 1624222,1/18/2012,Ft. Greene Apt,Brooklyn,Apartment,,Entire home/apt,11217.0,1.0,1,0,350,
 1621363,1/18/2012,Beautiful garden home in top area!,Brooklyn,House,100.0,Entire home/apt,11201.0,2.0,1,16,400,100.0
-1621363,1/18/2012,Garden Townhouse in BoCoCa!,Brooklyn,House,95.0,Entire home/apt,11201.0,6.0,1,4,"1,000",98.0
+1621363,1/18/2012,Garden Townhouse in BoCoCa!,Brooklyn,House,95.0,Entire home/apt,11201.0,6.0,1,4,1000,98.0
 1621363,1/18/2012,Lovely Townhouse in BoCoCa,Brooklyn,House,95.0,Entire home/apt,11201.0,3.0,1,30,400,98.0
 1623069,1/18/2012,LES Studio Apartment - All yours!,Manhattan,Apartment,80.0,Entire home/apt,10002.0,1.0,1,31,150,83.0
 1621363,1/18/2012,SunDrenched & Serene (East Village),Manhattan,Apartment,95.0,Entire home/apt,10009.0,2.0,1,9,500,98.0
@@ -5622,7 +5622,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 1716532,2/7/2012,GREAT CLEAN 1BR-TIMES SQ/MTWN WEST,Manhattan,Apartment,95.0,Entire home/apt,10018.0,1.0,1,65,175,97.0
 1716532,2/7/2012,GREAT CLEAN 2BR-TIMES SQ/MTWN WEST,Manhattan,Apartment,90.0,Entire home/apt,10018.0,3.0,1,78,250,94.0
 1716004,2/7/2012,Bright Modern Miami-esque Penthouse,Manhattan,Apartment,95.0,Entire home/apt,10035.0,2.0,1,12,415,95.0
-1715301,2/7/2012,Luxury Ocean front Modern,Staten Island,House,,Entire home/apt,10305.0,4.0,1,0,"1,500",
+1715301,2/7/2012,Luxury Ocean front Modern,Staten Island,House,,Entire home/apt,10305.0,4.0,1,0,1500,
 1717520,2/7/2012,Large Sunny Room in Williamsburg,Brooklyn,Apartment,,Private room,11206.0,1.0,1,0,100,
 1711182,2/7/2012,BEAUTIFUL PRIVATE ROOM IN BROOKLYN,Brooklyn,Apartment,85.0,Private room,11211.0,1.0,1,7,70,86.0
 1714147,2/7/2012,1 private bedroom in cool BK hood!!,Brooklyn,Apartment,,Private room,11216.0,1.0,1,0,44,
@@ -6335,7 +6335,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2066705,4/4/2012,4 Bed/2 BA Bright & Airy Townhouse,Brooklyn,Apartment,95.0,Entire home/apt,11238.0,4.0,1,12,257,98.0
 2071644,4/4/2012,Stylish 1BR in Lower East Side,Manhattan,Apartment,90.0,Entire home/apt,10002.0,1.0,1,21,140,91.0
 2071647,4/4/2012,PERFECT DOWNTOWN APARTMENT!,Manhattan,Apartment,95.0,Entire home/apt,10003.0,1.0,1,38,300,96.0
-2068923,4/4/2012,The Ultimate Luxury in Tribeca,Manhattan,Apartment,95.0,Entire home/apt,10013.0,3.0,1,12,"1,000",96.0
+2068923,4/4/2012,The Ultimate Luxury in Tribeca,Manhattan,Apartment,95.0,Entire home/apt,10013.0,3.0,1,12,1000,96.0
 2069207,4/4/2012,SPECIAL SEPT ON WHOLE APT MANHATTAN,Manhattan,Apartment,90.0,Entire home/apt,10016.0,1.0,1,1,193,91.0
 2069821,4/4/2012,1 BR on UWS next to Central Park,Manhattan,Apartment,100.0,Entire home/apt,10024.0,3.0,1,2,195,100.0
 2068365,4/4/2012,Best Apartment by Central Park,Manhattan,Apartment,,Entire home/apt,10026.0,1.0,1,1,150,
@@ -6466,7 +6466,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2134501,4/13/2012,Great 1bd Apt Close to Manhattan,Queens,Apartment,,Entire home/apt,11102.0,2.0,1,0,120,
 2132052,4/13/2012,Amazing Sunny Huge Greenpoint Room!,Brooklyn,Apartment,70.0,Private room,11222.0,2.0,1,4,65,70.0
 2134536,4/13/2012,Harlem room for short term rental,Manhattan,Apartment,90.0,Private room,10026.0,1.0,1,2,85,90.0
-2134900,4/13/2012,River View Sublet April 20 - May 20,Manhattan,Apartment,,Private room,10036.0,1.0,1,0,"2,000",
+2134900,4/13/2012,River View Sublet April 20 - May 20,Manhattan,Apartment,,Private room,10036.0,1.0,1,0,2000,
 2135229,4/13/2012,Artzy Home UES NYC Near All Actions,Manhattan,Apartment,,Private room,10128.0,1.0,1,0,90,
 2135229,4/13/2012,? Quiet Room On Upper East Side NYC,Manhattan,Apartment,95.0,Private room,10128.0,2.0,1,102,90,95.0
 2134501,4/13/2012,Traveler's Retreat in New York City,Queens,Apartment,90.0,Private room,11102.0,1.0,1,16,60,93.0
@@ -6787,7 +6787,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2279300,5/3/2012,"Sunny, quiet and  Fully renovated",Manhattan,Apartment,100.0,Entire home/apt,10012.0,2.0,1,1,295,100.0
 2285974,5/3/2012,Cozy Vilage apartment  near NYU,Manhattan,Apartment,90.0,Entire home/apt,10012.0,1.0,1,7,200,94.0
 2286821,5/3/2012,Beautifully Designed Studio in Soho,Manhattan,Apartment,95.0,Entire home/apt,10012.0,1.0,1,6,189,97.0
-2281926,5/3/2012,$1000/2br - for Superbowl: sleeps 6,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,"1,000",
+2281926,5/3/2012,$1000/2br - for Superbowl: sleeps 6,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,1000,
 2282450,5/3/2012,Amazing luxury garden two bedroom,Manhattan,Apartment,90.0,Entire home/apt,10014.0,3.0,1,2,400,90.0
 2282450,5/3/2012,Luxerious Village 1 bed!,Manhattan,Apartment,85.0,Entire home/apt,10014.0,1.0,1,6,225,87.0
 2282450,5/3/2012,Sunny luxurious loft Studio,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,255,
@@ -7017,7 +7017,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2398606,5/17/2012,A Charming Brooklyn Townhouse,Brooklyn,House,85.0,Entire home/apt,11217.0,5.0,1,11,325,88.0
 2396348,5/17/2012,Classic and Comfortable Manhattan,Manhattan,Apartment,70.0,Entire home/apt,10010.0,1.0,1,6,230,72.0
 2399919,5/17/2012,MANHATTAN MODERN ECLECTIC GLAM,Manhattan,Apartment,90.0,Entire home/apt,10016.0,2.0,1,39,179,93.0
-2394987,5/17/2012,Magnificent 3 Bedroom Penthouse,Manhattan,Apartment,100.0,Entire home/apt,10018.0,3.0,1,3,"1,500",100.0
+2394987,5/17/2012,Magnificent 3 Bedroom Penthouse,Manhattan,Apartment,100.0,Entire home/apt,10018.0,3.0,1,3,1500,100.0
 2399129,5/17/2012,Beautiful furnished apt - sleeps 4,Manhattan,Apartment,,Entire home/apt,10036.0,2.0,1,0,299,
 2394642,5/17/2012,Beyond the ordinary 1250 sqft !!!,Queens,Apartment,90.0,Entire home/apt,11101.0,6.0,1,35,330,93.0
 2394642,5/17/2012,Modern/Rustic Private Garden Apt,Queens,Apartment,85.0,Entire home/apt,11101.0,4.0,1,27,305,85.0
@@ -7117,7 +7117,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2450605,5/23/2012,Sunny in the Heart of Williamsburg,Brooklyn,Apartment,,Entire home/apt,11211.0,2.0,1,0,225,
 2444022,5/23/2012,Brooklyn Hospitality.,Brooklyn,Apartment,90.0,Entire home/apt,11238.0,1.0,1,20,110,93.0
 2450665,5/23/2012,Amazing 4 BR Park Slope Brownstone,Brooklyn,House,,Entire home/apt,11215.0,6.0,1,0,600,
-2446371,5/23/2012,East Village 2 bed Apt with Terrace,Manhattan,Apartment,,Entire home/apt,10003.0,2.0,1,0,"1,750",
+2446371,5/23/2012,East Village 2 bed Apt with Terrace,Manhattan,Apartment,,Entire home/apt,10003.0,2.0,1,0,1750,
 2448090,5/23/2012,Large Apt! Sleeps 5 in Union Sq/ EV,Manhattan,Apartment,100.0,Entire home/apt,10009.0,3.0,1,3,235,100.0
 2444711,5/23/2012,Cozy Near Columbia,Manhattan,Apartment,80.0,Entire home/apt,10025.0,2.0,1,33,155,84.0
 2446016,5/23/2012,Lovely apartment on Upper West Side,Manhattan,Apartment,95.0,Entire home/apt,10025.0,1.0,1,13,175,97.0
@@ -7148,7 +7148,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2461535,5/25/2012,The Brooklyn Public House,Brooklyn,Apartment,90.0,Entire home/apt,11205.0,4.0,1,22,400,90.0
 2460789,5/25/2012,"Bright, Spacious & Fun Apartment",Brooklyn,Apartment,,Entire home/apt,11225.0,2.0,1,0,120,
 2462260,5/25/2012,"NYC 30 min by Subway, Brooklyn 2",Brooklyn,Apartment,90.0,Entire home/apt,11235.0,5.0,1,5,150,92.0
-2462965,5/25/2012,"Spacious Midtown Luxury 1BR, 1.5BA",Manhattan,Apartment,,Entire home/apt,10022.0,1.0,1,0,"1,000",
+2462965,5/25/2012,"Spacious Midtown Luxury 1BR, 1.5BA",Manhattan,Apartment,,Entire home/apt,10022.0,1.0,1,0,1000,
 2464000,5/25/2012,UWS 1 Bedroom,Manhattan,Apartment,95.0,Entire home/apt,10023.0,1.0,1,15,185,95.0
 2459696,5/25/2012,Amazing 1BR at Central Park West,Manhattan,Apartment,90.0,Entire home/apt,10025.0,1.0,1,28,195,91.0
 2465391,5/25/2012,Roomy UES Studio,Manhattan,Apartment,80.0,Entire home/apt,10028.0,1.0,1,1,120,80.0
@@ -7207,7 +7207,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2492126,5/29/2012,Spacious and Contemporary 1-Bedroom,Brooklyn,Apartment,90.0,Entire home/apt,11216.0,1.0,1,43,125,91.0
 2491939,5/29/2012,Sunny Apartment + Terrace,Brooklyn,Apartment,,Entire home/apt,11238.0,1.0,1,0,225,
 2496464,5/29/2012,Unique NYDesigner apt min from all!,Brooklyn,House,90.0,Entire home/apt,,2.0,1,27,160,93.0
-2491300,5/29/2012,NYC Studio on SUPER BOWL BOULEVARD!,Manhattan,Apartment,,Entire home/apt,10001.0,1.0,1,0,"1,500",
+2491300,5/29/2012,NYC Studio on SUPER BOWL BOULEVARD!,Manhattan,Apartment,,Entire home/apt,10001.0,1.0,1,0,1500,
 2496955,5/29/2012,Central 1bd on the lower east side,Manhattan,Apartment,100.0,Entire home/apt,10002.0,1.0,1,3,150,100.0
 2493164,5/29/2012,FULL SERVICE WALL STREET CONDO,Manhattan,Apartment,90.0,Entire home/apt,10005.0,3.0,1,52,165,93.0
 2490471,5/29/2012,Elegant E. Village Artist's Loft,Manhattan,Apartment,100.0,Entire home/apt,10009.0,1.0,1,5,175,100.0
@@ -7367,13 +7367,13 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2577135,6/7/2012,1BR LUXURY PENTHOUSE MODERN CONDO,Manhattan,Apartment,85.0,Entire home/apt,10005.0,1.0,1,11,239,85.0
 2577328,6/7/2012,Fantastic Chelsea Apartment!,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,225,
 2572082,6/7/2012,Large Alcove Studio - Murray Hill,Manhattan,Apartment,100.0,Entire home/apt,10016.0,2.0,1,1,155,100.0
-2570750,6/7/2012,NEW YORK CENTRAL PARK AMAZING VIEWS,Manhattan,Apartment,90.0,Entire home/apt,10019.0,2.0,1,7,"1,495",93.0
+2570750,6/7/2012,NEW YORK CENTRAL PARK AMAZING VIEWS,Manhattan,Apartment,90.0,Entire home/apt,10019.0,2.0,1,7,1495,93.0
 2572552,6/7/2012,Private 1BR 15 Min from Times Sq!,Queens,Apartment,95.0,Entire home/apt,11106.0,2.0,1,3,110,97.0
 2572689,6/7/2012,Comfy & Central East Village Room,Manhattan,Apartment,95.0,Private room,10003.0,1.0,1,3,121,96.0
 2572689,6/7/2012,Comfy and Central East Village Room,Manhattan,Apartment,80.0,Private room,10003.0,1.0,1,38,141,82.0
 2572689,6/7/2012,"Comfy, Central East Village Room",Manhattan,Apartment,65.0,Private room,10003.0,1.0,1,3,94,67.0
 2577070,6/7/2012,Cozy bedroom in Manhattan. Village!,Manhattan,Apartment,80.0,Private room,10009.0,1.0,1,2,90,80.0
-2571928,6/7/2012,Gorgeous breath taking river view,Manhattan,Apartment,,Private room,10016.0,,1,0,"1,700",
+2571928,6/7/2012,Gorgeous breath taking river view,Manhattan,Apartment,,Private room,10016.0,,1,0,1700,
 2574452,6/7/2012,Beautiful Master BR in spacious apt,Queens,Apartment,100.0,Private room,11372.0,1.0,1,2,90,100.0
 2584368,6/8/2012,Mid-Century Modern on Main sleeps 5,Brooklyn,Apartment,90.0,Entire home/apt,11201.0,3.0,1,72,275,90.0
 2582893,6/8/2012,Sunny & Cozy Williamsburg Apartment,Brooklyn,Apartment,100.0,Entire home/apt,11211.0,1.0,1,2,195,100.0
@@ -7543,13 +7543,13 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2672349,6/18/2012,#2 Midtown West Hell's Time Square,Manhattan,Apartment,85.0,Entire home/apt,10036.0,2.0,1,22,198,88.0
 2675843,6/18/2012,1 Bedroom Near Times Square,Manhattan,Apartment,95.0,Entire home/apt,10036.0,2.0,1,57,175,97.0
 2675843,6/18/2012,"Modern Apt, Times Sq./Hells Kitchen",Manhattan,Apartment,95.0,Entire home/apt,10036.0,2.0,1,12,175,97.0
-2675913,6/18/2012,Super Bowl Wknd! 3-Bedroom Apt UWS,Manhattan,House,,Entire home/apt,10024.0,3.0,1,0,"1,000",
+2675913,6/18/2012,Super Bowl Wknd! 3-Bedroom Apt UWS,Manhattan,House,,Entire home/apt,10024.0,3.0,1,0,1000,
 2666654,6/18/2012,Bright 1BR within a block of Train!,Queens,Apartment,95.0,Entire home/apt,11105.0,1.0,1,36,120,97.0
 2675998,6/18/2012,Bushwick/Ridgwood apartmt w parking,Queens,House,90.0,Entire home/apt,11385.0,2.0,1,32,110,91.0
 2675644,6/18/2012,"Walk to ferry,into Manhattan in 20!",Staten Island,Apartment,75.0,Entire home/apt,10301.0,3.0,1,62,89,79.0
 2675644,6/18/2012,Famous Victorian Mansion~,Staten Island,House,90.0,Entire home/apt,10301.0,16.0,1,6,750,93.0
 2675644,6/18/2012,Historic Home~Into Manhattan in 20~,Staten Island,House,85.0,Entire home/apt,10301.0,6.0,1,14,350,85.0
-2675644,6/18/2012,Turn of the Century Film Location,Staten Island,House,40.0,Entire home/apt,10301.0,12.0,1,1,"5,000",40.0
+2675644,6/18/2012,Turn of the Century Film Location,Staten Island,House,40.0,Entire home/apt,10301.0,12.0,1,1,5000,40.0
 2674119,6/18/2012,"Spacious, sunny room in large apt!",Brooklyn,Apartment,100.0,Private room,11216.0,1.0,1,5,75,100.0
 2672181,6/18/2012,Beautiful naturally lit apartment,Brooklyn,Apartment,100.0,Private room,11221.0,1.0,1,1,80,100.0
 2672825,6/18/2012,"Sunny Private Room, 20 min to NYC",Brooklyn,Apartment,90.0,Private room,11225.0,1.0,1,25,85,94.0
@@ -7628,7 +7628,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2701094,6/21/2012,Hamilton Heights 1 Bedroom Apt.,Manhattan,Apartment,,Entire home/apt,10031.0,2.0,1,0,139,
 2707126,6/21/2012,Doll house with private backyard,Manhattan,Apartment,90.0,Entire home/apt,10031.0,1.0,1,7,75,94.0
 2707468,6/21/2012,BEAUTIFUL LOFT IN LOWER MANHATTAN,Manhattan,Loft,100.0,Entire home/apt,10007.0,4.0,1,9,199,100.0
-2707468,6/21/2012,Designer Soho Event Space,Manhattan,Loft,,Entire home/apt,10013.0,1.0,1,0,"1,999",
+2707468,6/21/2012,Designer Soho Event Space,Manhattan,Loft,,Entire home/apt,10013.0,1.0,1,0,1999,
 2703305,6/21/2012,"Private, well-lit room in Bed-Stuy!",Brooklyn,Apartment,90.0,Private room,11205.0,1.0,1,11,60,92.0
 2702080,6/21/2012,Beautiful Views from True Brooklyn,Brooklyn,Apartment,90.0,Private room,11206.0,1.0,1,41,77,93.0
 2702777,6/21/2012,Habitación muy soleada en Bushwick!,Brooklyn,Apartment,,Private room,11237.0,1.0,1,0,55,
@@ -7779,7 +7779,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2770375,6/28/2012,Beautiful garden Room for rent!!!!,Brooklyn,House,,Private room,11225.0,1.0,1,0,95,
 2776709,6/28/2012,SUNNY DOWNTOWN STUDIO (LADIES ONLY),Manhattan,Apartment,100.0,Shared room,10006.0,1.0,1,6,109,100.0
 2771119,6/28/2012,Comfy Couch in Lovely Soho apt!,Manhattan,Apartment,95.0,Shared room,10013.0,1.0,1,3,60,98.0
-2782890,6/29/2012,Historic Ditmas Park 20 min to City,Brooklyn,Apartment,90.0,Entire home/apt,11226.0,2.0,1,2,"1,000",90.0
+2782890,6/29/2012,Historic Ditmas Park 20 min to City,Brooklyn,Apartment,90.0,Entire home/apt,11226.0,2.0,1,2,1000,90.0
 2779415,6/29/2012,Pre-War 1br in historic Ditmas Park,Brooklyn,Apartment,,Entire home/apt,11230.0,1.0,1,0,120,
 2780717,6/29/2012,Entire Railroad Apt in Bushwick.,Brooklyn,Apartment,90.0,Entire home/apt,11237.0,1.0,1,11,100,93.0
 2781267,6/29/2012,Bright Charming 2 BR apt LES,Manhattan,Apartment,90.0,Entire home/apt,10002.0,2.0,1,19,255,93.0
@@ -7852,7 +7852,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2821792,7/3/2012,Beautiful Bright Studio Apartment!,Brooklyn,Apartment,90.0,Entire home/apt,11226.0,1.0,1,7,65,91.0
 2818232,7/3/2012,Garden Appartment in Clinton Hill,Brooklyn,Apartment,100.0,Entire home/apt,11238.0,1.0,1,4,195,100.0
 2813848,7/3/2012,1br Center of Williamsburg,Brooklyn,Apartment,80.0,Entire home/apt,11249.0,1.0,1,1,190,80.0
-2813178,7/3/2012,Gorgeous space for parties!,Brooklyn,Loft,,Entire home/apt,11211.0,1.0,1,0,"1,170",
+2813178,7/3/2012,Gorgeous space for parties!,Brooklyn,Loft,,Entire home/apt,11211.0,1.0,1,0,1170,
 2819805,7/3/2012,Excellent East Village Apartment,Manhattan,Apartment,90.0,Entire home/apt,10003.0,1.0,1,16,300,92.0
 2817864,7/3/2012,Superbowl in East Village- Nice 1br,Manhattan,Apartment,,Entire home/apt,10009.0,1.0,1,0,500,
 2814128,7/3/2012,Huge real 1 bed in Chelsea,Manhattan,Apartment,95.0,Entire home/apt,10011.0,1.0,1,6,140,97.0
@@ -8140,7 +8140,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 2985590,7/19/2012,Tale of 2 Chefs: Homemade Breakfast,Queens,Apartment,,Private room,11102.0,1.0,1,0,65,
 2989617,7/19/2012,Private Room in Queens: Good Deal!,Queens,Apartment,95.0,Private room,11377.0,1.0,1,23,75,96.0
 2995610,7/19/2012,"Nice private room,beautiful closet",Queens,Apartment,,Private room,11385.0,1.0,1,0,60,
-3005234,7/20/2012,"Franny's House of rest, Saint.Lucia",Brooklyn,House,,Entire home/apt,11213.0,1.0,1,0,"1,100",
+3005234,7/20/2012,"Franny's House of rest, Saint.Lucia",Brooklyn,House,,Entire home/apt,11213.0,1.0,1,0,1100,
 2999652,7/20/2012,3+ Bedroom House - Family living!,Brooklyn,House,90.0,Entire home/apt,11218.0,4.0,1,8,205,92.0
 3000940,7/20/2012,1BR DESIGNER's LOFT FORT GREENE,Brooklyn,Loft,85.0,Entire home/apt,11201.0,1.0,1,14,185,89.0
 2996673,7/20/2012,Chelsea. One bedroom apartment.,Manhattan,Apartment,95.0,Entire home/apt,10011.0,2.0,1,17,330,96.0
@@ -8284,7 +8284,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 3073972,7/27/2012,"Charming,Quiet 2bd in Heart of E.V.",Manhattan,Apartment,60.0,Entire home/apt,10003.0,2.0,1,4,239,60.0
 3069996,7/27/2012,Bright & breezy 1 bdrm Chelsea,Manhattan,Apartment,85.0,Entire home/apt,10011.0,1.0,1,5,190,88.0
 3078168,7/27/2012,Chelsea quaint quiet garden Studio,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,3,175,
-3075102,7/27/2012,Unique space for shoots and event,Manhattan,Loft,,Entire home/apt,10003.0,1.0,1,0,"3,000",
+3075102,7/27/2012,Unique space for shoots and event,Manhattan,Loft,,Entire home/apt,10003.0,1.0,1,0,3000,
 3073291,7/27/2012,NYC/Queens 1 Bedroom Apartment,Queens,Apartment,,Entire home/apt,11106.0,1.0,1,0,175,
 3074904,7/27/2012,It's always sunny in Williamsburg!,Brooklyn,Apartment,95.0,Private room,11211.0,1.0,1,25,111,95.0
 3069794,7/27/2012,Historic Brownstone Parlor & Garden,Brooklyn,Apartment,100.0,Private room,11221.0,2.0,1,5,85,100.0
@@ -8506,7 +8506,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 3221034,8/10/2012,Brooklyn Heights Baroque Beauty,Brooklyn,Apartment,100.0,Entire home/apt,11201.0,1.0,1,1,150,100.0
 3220185,8/10/2012,"IBR, Bedford, Williamsburg Brooklyn",Brooklyn,Apartment,95.0,Entire home/apt,11211.0,1.0,1,5,160,99.0
 3221335,8/10/2012,BRAND NEW 1BDR APARTMENT.Manhattan.,Manhattan,Apartment,100.0,Entire home/apt,10002.0,2.0,1,3,180,100.0
-3219454,8/10/2012,Great 3 Bdrm Duplex apt w rooftop!,Manhattan,Apartment,,Entire home/apt,10009.0,3.0,1,0,"1,000",
+3219454,8/10/2012,Great 3 Bdrm Duplex apt w rooftop!,Manhattan,Apartment,,Entire home/apt,10009.0,3.0,1,0,1000,
 3221893,8/10/2012,Quiet Top Floor Studio in SOHO,Manhattan,Apartment,80.0,Entire home/apt,10012.0,1.0,1,1,185,80.0
 3222119,8/10/2012,Beautiful Stylish Loft - SOHO NY,Manhattan,Apartment,90.0,Entire home/apt,10012.0,1.0,1,3,249,94.0
 3221335,8/10/2012,Midtown West! 3 BDR Apartment. NYC,Manhattan,Apartment,90.0,Entire home/apt,10019.0,3.0,1,73,300,93.0
@@ -8662,7 +8662,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 3293368,8/17/2012,THE HEART OF ART IN THE HEART OF NY,Manhattan,Apartment,90.0,Entire home/apt,10019.0,1.0,1,46,150,93.0
 3285925,8/17/2012,Cool apartment in Upper Manhattan,Manhattan,Apartment,80.0,Entire home/apt,10029.0,1.0,1,5,159,84.0
 3294551,8/17/2012,Newly Renovated Modern 2bed Astoria,Queens,Apartment,90.0,Entire home/apt,11103.0,5.0,1,16,195,94.0
-3294551,8/17/2012,One of a Kind Pent-Loft - Events OK,Queens,Loft,,Entire home/apt,11103.0,2.0,1,0,"1,111",
+3294551,8/17/2012,One of a Kind Pent-Loft - Events OK,Queens,Loft,,Entire home/apt,11103.0,2.0,1,0,1111,
 3292129,8/17/2012,Private Bedroom in Brooklyn,Brooklyn,Apartment,80.0,Private room,11206.0,1.0,1,1,48,80.0
 3291955,8/17/2012,Large Comfortable One bedroom in BK,Brooklyn,Apartment,,Private room,11218.0,1.0,1,0,100,
 3292098,8/17/2012,Prospect park and subway in 1 block,Brooklyn,Apartment,85.0,Private room,11226.0,1.0,1,9,65,89.0
@@ -8701,7 +8701,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 3318161,8/20/2012,Loft with garden  - Williamsburg,Brooklyn,Apartment,,Entire home/apt,11211.0,2.0,1,0,195,
 3317183,8/20/2012,Secret Garden,Brooklyn,House,85.0,Entire home/apt,11216.0,5.0,1,53,85,88.0
 3317183,8/20/2012,Secret Garden Big and Comfortable,Brooklyn,House,90.0,Entire home/apt,11216.0,7.0,1,55,90,91.0
-3323488,8/20/2012,Photoshoot/Video- Historic Townhome,Brooklyn,House,,Entire home/apt,11216.0,3.0,1,0,"1,000",
+3323488,8/20/2012,Photoshoot/Video- Historic Townhome,Brooklyn,House,,Entire home/apt,11216.0,3.0,1,0,1000,
 3323488,8/20/2012,Chic Loft & Patio near Metro/Food,Brooklyn,Loft,90.0,Entire home/apt,11216.0,3.0,1,33,128,90.0
 3318387,8/20/2012,Spacious East Village 1BR,Manhattan,Apartment,95.0,Entire home/apt,10003.0,1.0,1,7,160,97.0
 3319410,8/20/2012,HEART OF NYC! Sunny furn 1 br wifi,Manhattan,Apartment,80.0,Entire home/apt,10003.0,1.0,1,48,99,83.0
@@ -9252,7 +9252,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 3646372,9/22/2012,Charming private room on UWS,Manhattan,Apartment,100.0,Private room,10025.0,1.0,1,5,115,100.0
 3646549,9/23/2012,Spacious Boho Apt. in Willliamsburg,Brooklyn,Apartment,85.0,Entire home/apt,11211.0,3.0,1,19,135,86.0
 3650005,9/23/2012,"Spacious, elegant home in Brooklyn",Brooklyn,House,,Entire home/apt,11205.0,2.0,1,0,150,
-3655542,9/23/2012,Clean & Comfy Modern Townhouse,Brooklyn,House,,Entire home/apt,11217.0,2.0,1,0,"1,000",
+3655542,9/23/2012,Clean & Comfy Modern Townhouse,Brooklyn,House,,Entire home/apt,11217.0,2.0,1,0,1000,
 3654647,9/23/2012,*NEW Apt by Madison Square Garden,Manhattan,Apartment,90.0,Entire home/apt,10001.0,3.0,1,21,225,90.0
 3652982,9/23/2012,Soho Luxury Apartment,Manhattan,Apartment,,Entire home/apt,10012.0,2.0,1,0,220,
 3654647,9/23/2012,*Brand NEW Apt by RockefellerCenter,Manhattan,Apartment,90.0,Entire home/apt,10036.0,3.0,1,60,225,92.0
@@ -9577,7 +9577,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 3870448,10/14/2012,Wow! 2bd Penthouse Duplex,Manhattan,Apartment,95.0,Entire home/apt,10003.0,2.0,1,4,579,95.0
 3868692,10/14/2012,Vibrant Manhattan Artist Loft,Manhattan,Apartment,95.0,Entire home/apt,10004.0,3.0,1,15,475,99.0
 3871786,10/14/2012,Beautiful 1 bedroom in Chelsea,Manhattan,Apartment,95.0,Entire home/apt,10011.0,1.0,1,13,195,97.0
-3871685,10/14/2012,Huge charming Artist loft Downtown,Manhattan,Apartment,100.0,Entire home/apt,10012.0,3.0,1,1,"1,174",100.0
+3871685,10/14/2012,Huge charming Artist loft Downtown,Manhattan,Apartment,100.0,Entire home/apt,10012.0,3.0,1,1,1174,100.0
 3871004,10/14/2012,Beautiful apartment in Harlem,Manhattan,Apartment,100.0,Entire home/apt,10027.0,2.0,1,1,140,100.0
 3868627,10/14/2012,Private room 5 mins walk to subway,Manhattan,Apartment,80.0,Entire home/apt,10035.0,1.0,1,11,59,82.0
 3870145,10/14/2012,Apartment in Manhattan,Manhattan,Apartment,80.0,Entire home/apt,10040.0,2.0,1,2,140,80.0
@@ -10236,7 +10236,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 4190796,11/19/2012,Charming Astoria Bedroom Available,Queens,Apartment,85.0,Private room,11103.0,1.0,1,6,80,88.0
 4192794,11/19/2012,Cozy house near Manhatten and park!,Staten Island,House,95.0,Private room,10301.0,1.0,1,14,47,97.0
 4191076,11/19/2012,Sofa bed for 1-2 in the trendy LES!,Manhattan,Apartment,90.0,Shared room,10002.0,1.0,1,106,78,94.0
-4204562,11/20/2012,"MOVIE SHOOTS! 14,000sf MANSION",Bronx,House,,Entire home/apt,10471.0,8.0,1,0,"4,000",
+4204562,11/20/2012,"MOVIE SHOOTS! 14,000sf MANSION",Bronx,House,,Entire home/apt,10471.0,8.0,1,0,4000,
 4201022,11/20/2012,Large Studio Apt on Prospect Park,Brooklyn,Apartment,95.0,Entire home/apt,,1.0,1,33,140,99.0
 4198285,11/20/2012,"Gorgeous, Sunny Artists Apartment",Brooklyn,Apartment,90.0,Entire home/apt,11222.0,2.0,1,17,149,91.0
 4196395,11/20/2012,Brooklyn Williamsburg Loft,Brooklyn,Loft,90.0,Entire home/apt,11206.0,3.0,1,9,150,93.0
@@ -10599,7 +10599,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 4358264,12/8/2012,Bright Beautiful Studio,Brooklyn,Apartment,90.0,Entire home/apt,11225.0,2.0,1,16,90,91.0
 4355837,12/8/2012,Bushwick Artist's Studio,Brooklyn,Apartment,90.0,Entire home/apt,11237.0,1.0,1,14,100,93.0
 4354335,12/8/2012,Lovely One Bedroom in Brooklyn,Brooklyn,Apartment,80.0,Entire home/apt,11238.0,1.0,1,2,160,80.0
-4358024,12/8/2012,Beautiful Penthouse Lower East Side,Manhattan,Apartment,100.0,Entire home/apt,10002.0,5.0,1,11,"1,100",100.0
+4358024,12/8/2012,Beautiful Penthouse Lower East Side,Manhattan,Apartment,100.0,Entire home/apt,10002.0,5.0,1,11,1100,100.0
 4358407,12/8/2012,Chic 1BR - Central Lower East Side,Manhattan,Apartment,90.0,Entire home/apt,10002.0,1.0,1,32,135,94.0
 4358407,12/8/2012,New Designer 2BR -- Lower East Side,Manhattan,Apartment,90.0,Entire home/apt,10002.0,3.0,1,33,299,91.0
 4358770,12/8/2012,Cheerful West Village Studio!!,Manhattan,Apartment,95.0,Entire home/apt,10014.0,1.0,1,13,200,97.0
@@ -11172,7 +11172,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 4699071,1/14/2013,Beautiful 1 BR in Harlem Brownstone,Manhattan,Apartment,,Shared room,10035.0,1.0,1,0,50,
 4718049,1/15/2013,Williamsburg BK Studio Luxury Bldg,Brooklyn,Apartment,,Entire home/apt,11211.0,1.0,1,0,150,
 4718231,1/15/2013,**Brooklyn Gem - Sleeps 4 to 6**,Brooklyn,Apartment,80.0,Entire home/apt,11230.0,1.0,1,17,80,84.0
-4716035,1/15/2013,Modern Oasis Heart of Williamsburg,Brooklyn,House,100.0,Entire home/apt,11249.0,3.0,1,1,"1,000",100.0
+4716035,1/15/2013,Modern Oasis Heart of Williamsburg,Brooklyn,House,100.0,Entire home/apt,11249.0,3.0,1,1,1000,100.0
 4716613,1/15/2013,Amazing light West Village Apt,Manhattan,Apartment,95.0,Entire home/apt,10014.0,2.0,1,2,325,99.0
 4716488,1/15/2013,Bright Apt/Central Location,Manhattan,Apartment,90.0,Entire home/apt,10016.0,1.0,1,54,109,91.0
 4718305,1/15/2013,Spacious 2BR Apt Ideal for Families,Manhattan,Apartment,90.0,Entire home/apt,10033.0,3.0,1,2,115,90.0
@@ -11226,7 +11226,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 4752735,1/18/2013,Sunny 1BR in LES w/ Elev and Balc!,Manhattan,Apartment,100.0,Entire home/apt,10002.0,1.0,1,10,225,100.0
 4756978,1/18/2013,Mid Town Studio near Grand Central,Manhattan,Apartment,90.0,Entire home/apt,10016.0,1.0,1,13,180,91.0
 4757838,1/18/2013,UNIQUE & CHIC IN HISTORICAL HARLEM,Manhattan,Apartment,85.0,Entire home/apt,10027.0,2.0,1,14,199,86.0
-4751930,1/18/2013,Spectacular Former Synagogue,Manhattan,Townhouse,85.0,Entire home/apt,10009.0,3.0,1,3,"2,500",87.0
+4751930,1/18/2013,Spectacular Former Synagogue,Manhattan,Townhouse,85.0,Entire home/apt,10009.0,3.0,1,3,2500,87.0
 4756424,1/18/2013,Private bedroom in cozy apartment,Brooklyn,Apartment,80.0,Private room,11215.0,1.0,1,1,70,80.0
 4765650,1/19/2013,Charming pre-war coop w/nursery,Brooklyn,Apartment,,Entire home/apt,11238.0,1.0,1,0,270,
 4769886,1/19/2013,Studio Apt | Heart of Bushwick!,Brooklyn,House,,Entire home/apt,11221.0,2.0,1,0,105,
@@ -11393,7 +11393,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 4897483,1/29/2013,Amazing ONE Bedroom In CHELSEA,Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,2,200,
 4892987,1/29/2013,GORGEOUS APT IN HEART OF SOHO!  1BD,Manhattan,Apartment,85.0,Entire home/apt,10012.0,1.0,1,17,179,88.0
 4888599,1/29/2013,HELL'S KITCHEN STUDIO for 2 or 3,Manhattan,Apartment,90.0,Entire home/apt,10019.0,1.0,1,61,179,90.0
-4892237,1/29/2013,"2 king bdrms w balcony 1,500 sq ft",Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,"1,000",
+4892237,1/29/2013,"2 king bdrms w balcony 1,500 sq ft",Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,1000,
 4893786,1/29/2013,Large sunny UWS studio w Queen bed,Manhattan,Apartment,95.0,Entire home/apt,10024.0,1.0,1,7,145,97.0
 4894720,1/29/2013,Charming NYC Studio Upper East Side,Manhattan,Apartment,,Entire home/apt,10028.0,1.0,1,0,145,
 4900009,1/29/2013,Beautiful NoHo Loft,Manhattan,Loft,100.0,Entire home/apt,10012.0,2.0,1,18,985,100.0
@@ -11520,7 +11520,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 4989542,2/6/2013,Massive Two Floor Studio in LES,Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,134,
 4994658,2/6/2013,East Village Apartment for up to 3,Manhattan,Apartment,100.0,Entire home/apt,10009.0,2.0,1,1,160,100.0
 4988480,2/6/2013,Your NY November begins here!,Manhattan,Apartment,85.0,Entire home/apt,10014.0,1.0,1,28,238,89.0
-4987820,2/6/2013,1Br Apartment for Super Bowl Week,Manhattan,Apartment,,Entire home/apt,10023.0,1.0,1,0,"1,500",
+4987820,2/6/2013,1Br Apartment for Super Bowl Week,Manhattan,Apartment,,Entire home/apt,10023.0,1.0,1,0,1500,
 4985608,2/6/2013,Bright Studio Apartment on the UES,Manhattan,Apartment,,Entire home/apt,10028.0,1.0,1,0,170,
 4990802,2/6/2013,Central Park View on Museum Mile,Manhattan,Apartment,100.0,Entire home/apt,10028.0,1.0,1,2,150,100.0
 4987882,2/6/2013,Bright room in loft in Williamsburg,Brooklyn,Apartment,90.0,Private room,11211.0,1.0,1,3,115,93.0
@@ -12383,7 +12383,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 5717105,4/1/2013,Big Studio d/t Manhattan NYC,Manhattan,Apartment,95.0,Entire home/apt,10038.0,1.0,1,9,215,98.0
 5713014,4/1/2013,Artist UES Studio w/Exposed Brick,Manhattan,Apartment,100.0,Entire home/apt,10128.0,1.0,1,1,198,100.0
 5720429,4/1/2013,"A huge, debonair loft in midtown",Manhattan,Loft,85.0,Entire home/apt,10016.0,5.0,1,6,425,87.0
-5720429,4/1/2013,"Gorgeous 3,000sf Loft/Event Space",Manhattan,Loft,95.0,Entire home/apt,10016.0,5.0,1,18,"1,400",96.0
+5720429,4/1/2013,"Gorgeous 3,000sf Loft/Event Space",Manhattan,Loft,95.0,Entire home/apt,10016.0,5.0,1,18,1400,96.0
 5720054,4/1/2013,Floating Cabin Houseboat Rockaway,Queens,Boat,95.0,Entire home/apt,11692.0,2.0,1,48,150,95.0
 5725903,4/1/2013,Private Rm+Roofdeck: Clean&Lovely,Brooklyn,Apartment,90.0,Private room,11206.0,1.0,1,38,80,93.0
 5719998,4/1/2013,Comfortable Room + Kitties + Food,Brooklyn,Apartment,95.0,Private room,11211.0,1.0,1,9,75,95.0
@@ -12578,7 +12578,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 5910738,4/13/2013,Spacious 1BR in great Harlem area,Manhattan,Apartment,90.0,Entire home/apt,,1.0,1,14,140,92.0
 5907327,4/13/2013,Manhattan Bright & Spacious Studio,Manhattan,Apartment,,Entire home/apt,10027.0,1.0,1,0,100,
 5903619,4/13/2013,Convenient & Comfy Midtown Home,Manhattan,Apartment,,Entire home/apt,10036.0,2.0,1,0,220,
-5907325,4/13/2013,"Luxury 6BR Townhouse, Upper East",Manhattan,House,100.0,Entire home/apt,10021.0,6.0,1,14,"2,520",100.0
+5907325,4/13/2013,"Luxury 6BR Townhouse, Upper East",Manhattan,House,100.0,Entire home/apt,10021.0,6.0,1,14,2520,100.0
 5912445,4/13/2013,Your Forest Hills Apt 20 Mins -NYC,Queens,Apartment,70.0,Entire home/apt,11375.0,2.0,1,1,139,74.0
 5912445,4/13/2013,Your Own Forest Hills Apt Very NICE,Queens,Apartment,85.0,Entire home/apt,11375.0,2.0,1,24,139,86.0
 5912445,4/13/2013,2 Bdrm Kew Gardens 22 Mins to NYC,Queens,Apartment,85.0,Entire home/apt,11415.0,2.0,1,7,99,86.0
@@ -12750,7 +12750,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6058621,4/23/2013,Charming Private Room in 2BR Apt!,Manhattan,Apartment,,Private room,10032.0,1.0,1,0,95,
 6072827,4/24/2013,spacious studio apartment,Brooklyn,Apartment,,Entire home/apt,11211.0,1.0,1,0,75,
 6072984,4/24/2013,LARGE 1br 1ba IN BED-STUY BROOKLYN,Brooklyn,Apartment,80.0,Entire home/apt,11216.0,1.0,1,1,100,80.0
-6071012,4/24/2013,Family-friendly Dream NYC Apartment,Manhattan,Apartment,90.0,Entire home/apt,10010.0,3.0,1,2,"1,000",90.0
+6071012,4/24/2013,Family-friendly Dream NYC Apartment,Manhattan,Apartment,90.0,Entire home/apt,10010.0,3.0,1,2,1000,90.0
 6067457,4/24/2013,Modern Duplex in the Heart of SoHo,Manhattan,Apartment,95.0,Entire home/apt,10012.0,2.0,1,7,179,97.0
 6074351,4/24/2013,Breath Taking Views/Location,Manhattan,Apartment,95.0,Entire home/apt,10016.0,1.0,1,7,275,97.0
 6074197,4/24/2013,Charming Central Park Artist Loft,Manhattan,Apartment,95.0,Entire home/apt,10023.0,1.0,1,7,175,97.0
@@ -12893,7 +12893,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6162041,4/30/2013,CHARMING APARTMENT NEAR A/J TRAINSx,Brooklyn,Apartment,90.0,Shared room,11416.0,1.0,1,36,85,93.0
 6176681,5/1/2013,Authentic Pencil Factory Loft,Brooklyn,Apartment,100.0,Entire home/apt,11222.0,1.0,1,12,200,100.0
 6182854,5/1/2013,Historic Clinton Hill Townhouse,Brooklyn,House,,Entire home/apt,11238.0,4.0,1,0,270,
-6177242,5/1/2013,3-Bdrm LES Modern Artist Compound,Manhattan,Apartment,90.0,Entire home/apt,10002.0,3.0,1,23,"1,000",90.0
+6177242,5/1/2013,3-Bdrm LES Modern Artist Compound,Manhattan,Apartment,90.0,Entire home/apt,10002.0,3.0,1,23,1000,90.0
 6181907,5/1/2013,Rustic Apartment in East Village,Manhattan,Apartment,100.0,Entire home/apt,10009.0,2.0,1,6,165,100.0
 6182487,5/1/2013,Charming 2BR in heart of Nolita,Manhattan,Apartment,,Entire home/apt,10013.0,2.0,1,0,190,
 6186712,5/1/2013,1Bd Apt 5 minutes from Times Square,Manhattan,Apartment,95.0,Entire home/apt,10036.0,1.0,1,12,180,96.0
@@ -12980,7 +12980,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6257567,5/6/2013,"Levite Alms' haven in Brooklyn, NY",Brooklyn,Apartment,95.0,Entire home/apt,11207.0,2.0,1,39,78,97.0
 6263312,5/6/2013,"Beautiful, Modern 2BR, Park Slope",Brooklyn,Apartment,95.0,Entire home/apt,11215.0,3.0,1,22,140,99.0
 6246248,5/6/2013,1.7k sq foot apt/3 blocks to train,Brooklyn,Apartment,90.0,Entire home/apt,11216.0,2.0,1,3,175,93.0
-6250301,5/6/2013,Amazing two floor Penthouse,Manhattan,Apartment,100.0,Entire home/apt,10006.0,3.0,1,1,"1,500",100.0
+6250301,5/6/2013,Amazing two floor Penthouse,Manhattan,Apartment,100.0,Entire home/apt,10006.0,3.0,1,1,1500,100.0
 6255954,5/6/2013,Very cute Flatiron apartment rental,Manhattan,Apartment,95.0,Entire home/apt,10010.0,,1,2,200,98.0
 6245806,5/6/2013,Amazing apartment in the Village,Manhattan,Apartment,100.0,Entire home/apt,10012.0,1.0,1,1,100,100.0
 6257145,5/6/2013,1BR Central Park - Columbus Circle,Manhattan,Apartment,90.0,Entire home/apt,10019.0,1.0,1,31,249,93.0
@@ -13164,7 +13164,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6414916,5/15/2013,Great One-Bed in the West Village,Manhattan,Apartment,95.0,Entire home/apt,10012.0,1.0,1,17,270,96.0
 6403693,5/15/2013,Charming 1BR Central to Manhattan,Manhattan,Apartment,70.0,Entire home/apt,10019.0,1.0,1,23,169,70.0
 6405642,5/15/2013,Beautiful Hell's Kitchen 1bd Apt,Manhattan,Apartment,95.0,Entire home/apt,10036.0,2.0,1,6,180,95.0
-6414296,5/15/2013,Spacious 2 bedroom near Times Sq,Manhattan,Apartment,,Entire home/apt,10036.0,2.0,1,0,"1,000",
+6414296,5/15/2013,Spacious 2 bedroom near Times Sq,Manhattan,Apartment,,Entire home/apt,10036.0,2.0,1,0,1000,
 6408950,5/15/2013,Beautiful 2-bedroom with  terrace,Queens,Apartment,100.0,Entire home/apt,11385.0,2.0,1,1,175,100.0
 6408331,5/15/2013,Beatiful room in Central Ft Greene,Brooklyn,Apartment,100.0,Private room,11201.0,1.0,1,1,85,100.0
 6408331,5/15/2013,Spacious Rm in Central Ft Greene,Brooklyn,Apartment,95.0,Private room,11201.0,1.0,1,16,85,96.0
@@ -13349,7 +13349,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6543650,5/23/2013,Historic Harlem: Sugar Hill,Manhattan,Apartment,95.0,Entire home/apt,10031.0,1.0,1,20,146,97.0
 6542088,5/23/2013,2br. Luxury Building in Upper East,Manhattan,Apartment,95.0,Entire home/apt,10128.0,3.0,1,9,300,96.0
 6546970,5/23/2013,Battery Park -Luxury apartment,Manhattan,Apartment,100.0,Entire home/apt,10280.0,2.0,1,1,270,100.0
-6539320,5/23/2013,GALLERY LOFT SPACE/ EVENT RENTAL,Manhattan,Other,100.0,Entire home/apt,10001.0,1.0,1,3,"1,200",100.0
+6539320,5/23/2013,GALLERY LOFT SPACE/ EVENT RENTAL,Manhattan,Other,100.0,Entire home/apt,10001.0,1.0,1,3,1200,100.0
 6548791,5/23/2013,Master bed room new luxury building,Brooklyn,Apartment,,Private room,11206.0,1.0,1,0,70,
 6542806,5/23/2013,Big Sunny Bdrm fits 3-4 in E W-burg,Brooklyn,Apartment,95.0,Private room,11211.0,2.0,1,53,65,95.0
 6545956,5/23/2013,Charming Brooklyn Apartment Room,Brooklyn,Apartment,100.0,Private room,11211.0,1.0,1,1,150,100.0
@@ -13474,7 +13474,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6674394,5/31/2013,FULLY FURNISHED 1 BED ROOM APART,Manhattan,Apartment,100.0,Entire home/apt,10028.0,1.0,1,2,185,100.0
 6669966,5/31/2013,"Cozy NYC Studio, Perfect for 2",Manhattan,Apartment,85.0,Entire home/apt,10030.0,1.0,1,5,99,88.0
 6676776,5/31/2013,Apartment overlooking marina,Manhattan,Apartment,,Entire home/apt,10280.0,1.0,1,0,400,
-6674364,5/31/2013,GREAT SOHO LOFT  - UNBEATABLE LOC.,Manhattan,Loft,,Entire home/apt,10012.0,2.0,1,0,"1,600",
+6674364,5/31/2013,GREAT SOHO LOFT  - UNBEATABLE LOC.,Manhattan,Loft,,Entire home/apt,10012.0,2.0,1,0,1600,
 6663990,5/31/2013,Large Astoria 1 bedroom w/balcony,Queens,Apartment,90.0,Entire home/apt,11102.0,1.0,1,6,85,92.0
 6667632,5/31/2013,"1bd, Greenpoint, Brooklyn.",Brooklyn,Apartment,95.0,Private room,11222.0,1.0,1,36,70,95.0
 6669730,5/31/2013,Cozy Bedroom in Bushwick,Brooklyn,Apartment,,Private room,11237.0,1.0,1,0,55,
@@ -13684,7 +13684,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6877794,6/12/2013,A beautiful Brownstone in Bed-Stuy.,Brooklyn,House,100.0,Entire home/apt,11221.0,3.0,1,2,175,100.0
 6875571,6/12/2013,Stylish and spacious 4 BR 2 BATH!,Manhattan,Apartment,,Entire home/apt,10001.0,4.0,1,0,750,
 6879512,6/12/2013,Huge Loft Style Greenwich Vill. Apt,Manhattan,Apartment,,Entire home/apt,10003.0,2.0,1,0,300,
-6876416,6/12/2013,Huge Clean Central 2 bed 2 bath,Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,0,"1,000",
+6876416,6/12/2013,Huge Clean Central 2 bed 2 bath,Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,0,1000,
 6867897,6/12/2013,1BR Prime Greenwich Village,Manhattan,Apartment,90.0,Entire home/apt,10012.0,1.0,1,82,209,90.0
 6873596,6/12/2013,Beautiful studio in Greenwich,Manhattan,Apartment,80.0,Entire home/apt,10012.0,1.0,1,1,130,80.0
 6875110,6/12/2013,Charming SoHo Studio,Manhattan,Apartment,100.0,Entire home/apt,10012.0,1.0,1,4,225,100.0
@@ -13744,7 +13744,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 6917906,6/14/2013,Homey Well-Located Apt!,Manhattan,Apartment,100.0,Entire home/apt,10003.0,1.0,1,4,169,100.0
 6918513,6/14/2013,Greenwich Village Gem!,Manhattan,Apartment,,Entire home/apt,10012.0,1.0,1,0,130,
 6913314,6/14/2013,Heart of West Village One Bed,Manhattan,Apartment,100.0,Entire home/apt,10014.0,1.0,1,1,190,100.0
-6914968,6/14/2013,Columbus Circle and Park Views,Manhattan,Apartment,,Entire home/apt,10019.0,3.0,1,0,"2,695",
+6914968,6/14/2013,Columbus Circle and Park Views,Manhattan,Apartment,,Entire home/apt,10019.0,3.0,1,0,2695,
 6909310,6/14/2013,"Spacious 1 BR, Lincoln Center!",Manhattan,Apartment,85.0,Entire home/apt,10023.0,1.0,1,23,169,88.0
 6912781,6/14/2013,Amazing Central Park 1 Bedroom Apt!,Manhattan,Apartment,100.0,Entire home/apt,10023.0,1.0,1,5,250,100.0
 6909310,6/14/2013,"Sunny, spacious apartment on UWS",Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,150,
@@ -14499,7 +14499,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 7678072,7/23/2013,Your Own Bathroom in a Private Room,Manhattan,Apartment,100.0,Private room,10030.0,1.0,1,2,85,100.0
 7695355,7/24/2013,Bed-Stuy Beauty - 1Br Apartment,Brooklyn,Apartment,95.0,Entire home/apt,11216.0,1.0,1,7,160,97.0
 7702759,7/24/2013,Entire Waterfront Loft; City Views,Brooklyn,Loft,90.0,Entire home/apt,11211.0,2.0,1,78,202,94.0
-7696034,7/24/2013,Spacious true 3BD in Gramercy,Manhattan,Apartment,,Entire home/apt,10003.0,3.0,1,0,"1,300",
+7696034,7/24/2013,Spacious true 3BD in Gramercy,Manhattan,Apartment,,Entire home/apt,10003.0,3.0,1,0,1300,
 7708495,7/24/2013,Loft apt with terrace in east Villa,Manhattan,Apartment,80.0,Entire home/apt,10009.0,2.0,1,16,285,80.0
 7701992,7/24/2013,Sunny Jewel In Historic Harlem,Manhattan,Apartment,,Entire home/apt,10031.0,1.0,1,0,130,
 7689009,7/24/2013,Sunny Studio on the Upper East Side,Manhattan,Apartment,,Entire home/apt,10075.0,1.0,1,0,179,
@@ -14590,7 +14590,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 7774440,7/28/2013,Private Space -Amazing Neighborhood,Brooklyn,Apartment,95.0,Private room,11231.0,1.0,1,20,89,95.0
 7771782,7/28/2013,Beautiful Brownstone Room,Brooklyn,Apartment,75.0,Private room,11233.0,2.0,1,8,70,78.0
 7771782,7/28/2013,Beautiful Halsey Street Room,Brooklyn,House,90.0,Private room,11233.0,2.0,1,6,70,92.0
-7787979,7/29/2013,Brownstone in BK close to the A&C,Brooklyn,Apartment,,Entire home/apt,11216.0,3.0,1,0,"1,000",
+7787979,7/29/2013,Brownstone in BK close to the A&C,Brooklyn,Apartment,,Entire home/apt,11216.0,3.0,1,0,1000,
 7797824,7/29/2013,Penthouse w Balcony & City View,Brooklyn,Apartment,95.0,Entire home/apt,11249.0,3.0,1,11,300,95.0
 7809835,7/29/2013,Sunny Williamsburg Apartment,Brooklyn,Apartment,90.0,Entire home/apt,11249.0,2.0,1,7,210,91.0
 7797690,7/29/2013,Modern Apt - Vibrant Neighborhood!,Brooklyn,House,95.0,Entire home/apt,11225.0,3.0,1,19,130,98.0
@@ -14816,7 +14816,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8055051,8/9/2013,Room #3 in Basement Apartment,Brooklyn,House,90.0,Entire home/apt,11225.0,1.0,1,8,50,90.0
 8055709,8/9/2013,Cozy Chelsea Apartment - Sleeps 5,Manhattan,Apartment,100.0,Entire home/apt,10001.0,1.0,1,4,199,100.0
 8054895,8/9/2013,Lovely East Village Flat!,Manhattan,Apartment,95.0,Entire home/apt,10009.0,1.0,1,23,200,97.0
-8040427,8/9/2013,Amazing 2800 sqf Tribeca Loft,Manhattan,Apartment,100.0,Entire home/apt,10013.0,6.0,1,1,"2,295",100.0
+8040427,8/9/2013,Amazing 2800 sqf Tribeca Loft,Manhattan,Apartment,100.0,Entire home/apt,10013.0,6.0,1,1,2295,100.0
 8046151,8/9/2013,Charming West Village Studio!,Manhattan,Apartment,95.0,Entire home/apt,10014.0,1.0,1,7,150,97.0
 8052095,8/9/2013,Perfect 1BD in the heart of NYC,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,225,
 8055069,8/9/2013,A residence-style Boutique Hotel,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,375,
@@ -14998,10 +14998,10 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8265050,8/19/2013,Quiet Williamsburg apartment,Brooklyn,Apartment,95.0,Entire home/apt,11206.0,2.0,1,67,159,95.0
 8265050,8/19/2013,Sunlit apartment in Williamsburg,Brooklyn,Apartment,95.0,Entire home/apt,11206.0,2.0,1,80,149,95.0
 8265283,8/19/2013,Charming 1Bedrm at Grand Army Plaza,Brooklyn,Apartment,100.0,Entire home/apt,11238.0,1.0,1,1,149,100.0
-8252773,8/19/2013,2350 sq.ft West Chelsea High Line,Manhattan,Apartment,100.0,Entire home/apt,10001.0,2.0,1,8,"1,065",100.0
+8252773,8/19/2013,2350 sq.ft West Chelsea High Line,Manhattan,Apartment,100.0,Entire home/apt,10001.0,2.0,1,8,1065,100.0
 8261145,8/19/2013,Nexus of the Universe!,Manhattan,Apartment,90.0,Entire home/apt,10002.0,1.0,1,38,185,93.0
 8261602,8/19/2013,"Prime, spacious West Village studio",Manhattan,Apartment,100.0,Entire home/apt,10014.0,2.0,1,9,199,100.0
-8258307,8/19/2013,Lower Park Avenue Pre War,Manhattan,Apartment,,Entire home/apt,10016.0,3.0,1,0,"2,000",
+8258307,8/19/2013,Lower Park Avenue Pre War,Manhattan,Apartment,,Entire home/apt,10016.0,3.0,1,0,2000,
 8245564,8/19/2013,Luxury Waterview Corner Glass Apt,Manhattan,Apartment,95.0,Entire home/apt,10018.0,1.0,1,3,350,95.0
 8257324,8/19/2013,"NYC, UES  apt.",Manhattan,Apartment,,Entire home/apt,10021.0,1.0,1,0,200,
 8267873,8/19/2013,Cozy UWS Studio with a View,Manhattan,Apartment,,Entire home/apt,10024.0,1.0,1,0,300,
@@ -15180,7 +15180,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8502290,8/28/2013,Apartment Studio in Upper West Side,Manhattan,Apartment,90.0,Entire home/apt,10025.0,2.0,1,2,125,90.0
 8483626,8/28/2013,UES Garden Apartment close to Park,Manhattan,Apartment,85.0,Entire home/apt,10028.0,3.0,1,7,215,86.0
 8493490,8/28/2013,2BD Luxury Wall St Gem w/Rooftop,Manhattan,Apartment,90.0,Entire home/apt,10286.0,2.0,1,15,295,93.0
-8503180,8/28/2013,East Village Townhouse,Manhattan,House,100.0,Entire home/apt,10003.0,4.0,1,3,"3,000",100.0
+8503180,8/28/2013,East Village Townhouse,Manhattan,House,100.0,Entire home/apt,10003.0,4.0,1,3,3000,100.0
 8491935,8/28/2013,Private Floor in Garden Apartment,Brooklyn,Apartment,,Private room,11216.0,1.0,1,0,100,
 8491935,8/28/2013,Quiet Room in Garden Apartment!,Brooklyn,Apartment,,Private room,11216.0,1.0,1,0,75,
 8491935,8/28/2013,Sunny Room in Garden Apartment,Brooklyn,Apartment,100.0,Private room,11216.0,1.0,1,1,85,100.0
@@ -15204,7 +15204,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8520430,8/29/2013,Quaint room in artist's apartment.,Brooklyn,Apartment,90.0,Private room,11215.0,1.0,1,3,65,93.0
 8511981,8/29/2013,"Private Room in Sunny, Spacious Apt",Brooklyn,Apartment,90.0,Private room,11222.0,1.0,1,3,86,93.0
 8521063,8/29/2013,Room in heart of the West Village!,Manhattan,Apartment,95.0,Private room,10014.0,1.0,1,13,100,95.0
-8523023,8/29/2013,Room with a gorgeous view/ times sq,Manhattan,Apartment,,Private room,10036.0,1.0,1,0,"2,000",
+8523023,8/29/2013,Room with a gorgeous view/ times sq,Manhattan,Apartment,,Private room,10036.0,1.0,1,0,2000,
 8540968,8/30/2013,"Classic Brownstone Beauty, Sleeps 4",Brooklyn,Apartment,90.0,Entire home/apt,11216.0,3.0,1,82,198,90.0
 8540968,8/30/2013,"Cute Skylit Studio, tree-lined St",Brooklyn,Apartment,95.0,Entire home/apt,11216.0,1.0,1,91,115,95.0
 8536366,8/30/2013,Amazing 2 BR Furnished unit - UWS,Manhattan,Apartment,95.0,Entire home/apt,10025.0,4.0,1,4,250,95.0
@@ -15231,7 +15231,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8552208,8/31/2013,New York Crash Pad for $24,Brooklyn,Apartment,,Shared room,11213.0,1.0,1,0,24,
 8552208,8/31/2013,SightSee NYC for only $24 a Night,Brooklyn,Apartment,85.0,Shared room,11213.0,1.0,1,3,24,87.0
 8568401,9/1/2013,Bushwick Brooklyn One Bedroom,Brooklyn,Apartment,90.0,Entire home/apt,11237.0,2.0,1,2,120,90.0
-8575310,9/1/2013,6 BR Loft - Broadway - Super Bowl,Manhattan,Apartment,,Entire home/apt,10003.0,6.0,1,0,"2,000",
+8575310,9/1/2013,6 BR Loft - Broadway - Super Bowl,Manhattan,Apartment,,Entire home/apt,10003.0,6.0,1,0,2000,
 8573489,9/1/2013,Incredible Apt.  w/ Park Views!,Manhattan,Apartment,100.0,Entire home/apt,10009.0,2.0,1,2,289,100.0
 8568952,9/1/2013,Beautiful Manhattan Apartment,Manhattan,Apartment,90.0,Entire home/apt,10019.0,1.0,1,2,189,90.0
 8571843,9/1/2013,A Studio Alcove w Character-Midtown,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,225,
@@ -15257,7 +15257,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8618374,9/3/2013,Modern and Cozy Duplex,Brooklyn,Apartment,100.0,Entire home/apt,11222.0,1.0,1,2,189,100.0
 8597464,9/3/2013,Gorgeous exposed brick in SoHo area,Manhattan,Apartment,85.0,Entire home/apt,10003.0,1.0,1,20,214,89.0
 8597778,9/3/2013,West Village 2BD w/outdoor patio,Manhattan,Apartment,95.0,Entire home/apt,10014.0,2.0,1,4,225,95.0
-8617411,9/3/2013,Brand new in the heart of Tribeca,Manhattan,Apartment,,Private room,10013.0,1.0,1,0,"1,500",
+8617411,9/3/2013,Brand new in the heart of Tribeca,Manhattan,Apartment,,Private room,10013.0,1.0,1,0,1500,
 8597585,9/3/2013,Great Bedroom in West Village Loft,Manhattan,Apartment,,Private room,10014.0,1.0,1,0,225,
 8608664,9/3/2013,Penthouse Master BR in Murray Hil,Manhattan,Apartment,80.0,Private room,10016.0,1.0,1,3,178,80.0
 8613342,9/3/2013,Private BR in Murray Hill Duplex,Manhattan,Apartment,,Private room,10016.0,1.0,1,0,325,
@@ -15385,7 +15385,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 8773106,9/11/2013,Bright 1 Bdrm In Heart of LES,Manhattan,Apartment,100.0,Entire home/apt,10002.0,1.0,1,2,170,100.0
 8775389,9/11/2013,ONE BEDROOM APARTMENT - PARK VIEWS,Manhattan,Apartment,,Entire home/apt,10002.0,2.0,1,0,295,
 8775389,9/11/2013,THE BEST STUDIO IN LOWER MANHATTAN,Manhattan,Apartment,100.0,Entire home/apt,10002.0,2.0,1,2,195,100.0
-8778889,9/11/2013,"4BD, 2 Bath Apt Flatiron on 6th Ave",Manhattan,Apartment,,Entire home/apt,10010.0,4.0,1,0,"1,200",
+8778889,9/11/2013,"4BD, 2 Bath Apt Flatiron on 6th Ave",Manhattan,Apartment,,Entire home/apt,10010.0,4.0,1,0,1200,
 8780729,9/11/2013,Cozy Chelsea Studio,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,1,108,
 8777531,9/11/2013,Little Italy - Nolita - 2 Bdrm Apt,Manhattan,Apartment,,Entire home/apt,10013.0,2.0,1,0,249,
 8772693,9/11/2013,"West Village: Cozy, Quiet 1BR Apt",Manhattan,Apartment,90.0,Entire home/apt,10014.0,1.0,1,16,190,91.0
@@ -15632,7 +15632,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 9056986,9/25/2013,One-Of-A-Kind West Village Studio,Manhattan,Apartment,100.0,Entire home/apt,10014.0,1.0,1,1,225,100.0
 9056596,9/25/2013,New York on the Park 3 BR 2 BATH,Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,400,
 9051298,9/25/2013,One Stop to TimesSQ Vacation Apt,Manhattan,Apartment,85.0,Entire home/apt,10027.0,1.0,1,29,100,87.0
-9056494,9/25/2013,Super football SB weekend deal.,Manhattan,Apartment,,Entire home/apt,10040.0,2.0,1,0,"5,000",
+9056494,9/25/2013,Super football SB weekend deal.,Manhattan,Apartment,,Entire home/apt,10040.0,2.0,1,0,5000,
 9052422,9/25/2013,Privet space in Williamsburg!,Brooklyn,Apartment,100.0,Private room,11206.0,1.0,1,1,100,100.0
 9059102,9/25/2013,Bedroom with magnificent view,Brooklyn,Apartment,95.0,Private room,11238.0,1.0,1,25,60,98.0
 9053519,9/25/2013,Cozy Room in a Tribeca Loft,Manhattan,Apartment,95.0,Private room,10013.0,1.0,1,21,190,98.0
@@ -15883,7 +15883,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 9339714,10/9/2013,Gorgeous Williamsburg LUX Apartment,Brooklyn,Apartment,95.0,Entire home/apt,11211.0,4.0,1,4,150,95.0
 9339714,10/9/2013,NEW! 2brm Williamsburg Prime Loc!,Brooklyn,Apartment,,Entire home/apt,11211.0,3.0,1,0,175,
 9337322,10/9/2013,***HEAVEN ON EARTH 2***,Brooklyn,Apartment,80.0,Entire home/apt,11221.0,3.0,1,6,200,80.0
-9324146,10/9/2013,1000 square feet 1 bedroom apt!,Manhattan,Apartment,,Entire home/apt,10003.0,1.0,1,0,"1,368",
+9324146,10/9/2013,1000 square feet 1 bedroom apt!,Manhattan,Apartment,,Entire home/apt,10003.0,1.0,1,0,1368,
 9339714,10/9/2013,BEST Manhattan Downtown Location!!,Manhattan,Apartment,85.0,Entire home/apt,10003.0,2.0,1,30,199,89.0
 9339714,10/9/2013,East Village Comfortable 1 bdrm!,Manhattan,Apartment,90.0,Entire home/apt,10003.0,2.0,1,2,199,90.0
 9337953,10/9/2013,WALL ST-MANHATTAN - STUDIO -LUXURY,Manhattan,Apartment,100.0,Entire home/apt,10005.0,1.0,1,1,200,100.0
@@ -15929,7 +15929,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 9360658,10/11/2013,june,Manhattan,Apartment,,Private room,10029.0,1.0,1,0,73,
 9372538,10/11/2013,In the Heart of Manhattan,Manhattan,Apartment,95.0,Private room,10036.0,1.0,1,18,149,98.0
 9388573,10/12/2013,Big 1BR apartment near Manhattan,Brooklyn,Apartment,90.0,Entire home/apt,11225.0,2.0,1,21,135,93.0
-9383475,10/12/2013,New York City Apt. for Super Bowl,Manhattan,Apartment,,Entire home/apt,10013.0,2.0,1,0,"1,000",
+9383475,10/12/2013,New York City Apt. for Super Bowl,Manhattan,Apartment,,Entire home/apt,10013.0,2.0,1,0,1000,
 9389685,10/12/2013,Studio Apartment on 35th and 3rd,Manhattan,Apartment,95.0,Entire home/apt,10016.0,1.0,1,11,175,95.0
 9383485,10/12/2013,1 Bed luxury loft studio,Manhattan,Apartment,,Private room,10024.0,1.0,1,0,250,
 9387262,10/12/2013,Huge Washigton Height Apt Room,Manhattan,Apartment,80.0,Shared room,10033.0,1.0,1,2,55,80.0
@@ -15968,7 +15968,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 9442045,10/15/2013,Stay in the heart of Prospect Hts!,Brooklyn,Apartment,85.0,Entire home/apt,11238.0,3.0,1,25,150,88.0
 9442045,10/15/2013,Entire Park Slope Brownstone,Brooklyn,House,90.0,Entire home/apt,11217.0,6.0,1,17,650,94.0
 9449275,10/15/2013,Modern Luxury Studio in Midtown,Manhattan,Apartment,80.0,Entire home/apt,10018.0,1.0,1,6,200,84.0
-9451697,10/15/2013,PERFECT SUPERBOWL STAY,Manhattan,Apartment,,Entire home/apt,10018.0,2.0,1,0,"1,500",
+9451697,10/15/2013,PERFECT SUPERBOWL STAY,Manhattan,Apartment,,Entire home/apt,10018.0,2.0,1,0,1500,
 9443861,10/15/2013,Luxury 2 Bed Hi-Rise with Terrace,Manhattan,Apartment,85.0,Entire home/apt,10019.0,3.0,1,30,425,86.0
 9453400,10/15/2013,Huuuge Sunny Central Park 1 bedroom,Manhattan,Apartment,85.0,Entire home/apt,10019.0,3.0,1,11,350,85.0
 9450663,10/15/2013,Cozy Upper East Side Escape in NYC,Manhattan,Apartment,100.0,Entire home/apt,10128.0,1.0,1,7,150,100.0
@@ -16344,7 +16344,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 9852787,11/6/2013,1BR in HARLEM...SUNNY & SPACIOUS,Manhattan,Apartment,90.0,Entire home/apt,10030.0,2.0,1,27,115,91.0
 9850320,11/6/2013,Summer Studio- Breakfast Included!!,Manhattan,Apartment,90.0,Entire home/apt,10037.0,1.0,1,34,75,93.0
 9847713,11/6/2013,Apt in the heart of New York,Manhattan,Apartment,85.0,Entire home/apt,10065.0,1.0,1,12,150,88.0
-9854191,11/6/2013,Harlem Getaway Mansion,Manhattan,House,100.0,Entire home/apt,10027.0,8.0,1,1,"1,000",100.0
+9854191,11/6/2013,Harlem Getaway Mansion,Manhattan,House,100.0,Entire home/apt,10027.0,8.0,1,1,1000,100.0
 9852589,11/6/2013,1 Bedroom Apartment in Astoria,Queens,Apartment,100.0,Entire home/apt,11106.0,1.0,1,1,95,100.0
 9850849,11/6/2013,Spacious Air Conditioned Room,Brooklyn,Apartment,90.0,Private room,11205.0,1.0,1,9,60,91.0
 9841659,11/6/2013,Bright Private Studio Dtwn Brooklyn,Brooklyn,Other,65.0,Private room,11201.0,2.0,1,7,95,69.0
@@ -16674,7 +16674,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10200803,11/22/2013,Private BR in Luxury Apt (Wall St),Manhattan,Apartment,100.0,Private room,10005.0,1.0,1,1,78,100.0
 10194688,11/22/2013,Central Park-Lincoln Center,Manhattan,Apartment,95.0,Private room,10023.0,2.0,1,24,140,96.0
 10193030,11/22/2013,Private room in luxury doorman bldg,Manhattan,Apartment,100.0,Private room,10039.0,1.0,1,2,85,100.0
-10196579,11/22/2013,"Great Event Space in Chelsea, NYC",Manhattan,Loft,,Private room,10001.0,1.0,1,0,"1,500",
+10196579,11/22/2013,"Great Event Space in Chelsea, NYC",Manhattan,Loft,,Private room,10001.0,1.0,1,0,1500,
 10194688,11/22/2013,"Astoria, New York",Queens,House,85.0,Private room,11103.0,1.0,1,21,60,85.0
 10194688,11/22/2013,Large and Quiet bedroom,Queens,House,100.0,Private room,11103.0,1.0,1,11,50,100.0
 10196259,11/22/2013,Artistic & Cozy Times Square Studio,Manhattan,Apartment,85.0,Shared room,10036.0,1.0,1,32,84,87.0
@@ -16781,7 +16781,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10312394,11/28/2013,"2-bdrm, real Willamsburg / Brooklyn",Brooklyn,Apartment,85.0,Entire home/apt,11211.0,3.0,1,13,149,86.0
 10312377,11/28/2013,Sunny apm. with a beautiful view,Brooklyn,Apartment,80.0,Entire home/apt,11226.0,1.0,1,5,96,80.0
 10321180,11/28/2013,New 2 Bedroom Apartment in NoLiTa,Manhattan,Apartment,100.0,Entire home/apt,10012.0,2.0,1,2,525,100.0
-10317189,11/28/2013,UWS MANHATTAN APT FOR SUPERBOWL WE,Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,"1,000",
+10317189,11/28/2013,UWS MANHATTAN APT FOR SUPERBOWL WE,Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,1000,
 10307753,11/28/2013,Gorgeous Apt in the Heart of Harlem,Manhattan,Apartment,100.0,Entire home/apt,10027.0,2.0,1,1,110,100.0
 10322739,11/28/2013,UES studio 5mins from Central Park,Manhattan,Apartment,70.0,Entire home/apt,10028.0,1.0,1,4,125,70.0
 10315755,11/28/2013,"Cobble Hill, Brooklyn, townhouse BR",Brooklyn,Apartment,90.0,Private room,11201.0,1.0,1,10,150,90.0
@@ -16825,7 +16825,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10362675,12/1/2013,Stylish 1 BD in best area of NYC,Manhattan,Apartment,95.0,Entire home/apt,10003.0,1.0,1,5,199,99.0
 10372065,12/1/2013,Designer Decorated Studio,Manhattan,Apartment,95.0,Entire home/apt,10005.0,1.0,1,20,195,98.0
 10359397,12/1/2013,Ben & Prachi's Beautiful 1BR,Manhattan,Apartment,100.0,Entire home/apt,10009.0,1.0,1,2,170,100.0
-10367443,12/1/2013,Heart of Soho,Manhattan,Apartment,85.0,Entire home/apt,10012.0,2.0,1,3,"1,000",87.0
+10367443,12/1/2013,Heart of Soho,Manhattan,Apartment,85.0,Entire home/apt,10012.0,2.0,1,3,1000,87.0
 10373126,12/1/2013,W Village Luxury Apt. (Super Bowl),Manhattan,Apartment,,Entire home/apt,10014.0,1.0,1,0,850,
 10372674,12/1/2013,"UWS: Entire 1 bdrm apt, sleeps 4-6",Manhattan,Apartment,100.0,Entire home/apt,10023.0,1.0,1,3,175,100.0
 10371008,12/1/2013,Luxury Building with Beautiful View,Manhattan,Apartment,,Entire home/apt,10075.0,1.0,1,0,160,
@@ -16842,7 +16842,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10383481,12/2/2013,Artist Loft Style  Steiner Studios,Brooklyn,Apartment,90.0,Entire home/apt,11205.0,2.0,1,29,95,94.0
 10384362,12/2/2013,Charming 1BR Apt in Williamsburg!,Brooklyn,Apartment,90.0,Entire home/apt,11211.0,1.0,1,3,126,93.0
 10393911,12/2/2013,Sunny Spot in Heart of Williamsburg,Brooklyn,Apartment,95.0,Entire home/apt,11211.0,2.0,1,30,230,97.0
-10392778,12/2/2013,Super Bowl Week: Classic Luxury!,Brooklyn,Apartment,,Entire home/apt,11217.0,3.0,1,0,"1,250",
+10392778,12/2/2013,Super Bowl Week: Classic Luxury!,Brooklyn,Apartment,,Entire home/apt,11217.0,3.0,1,0,1250,
 10392778,12/2/2013,Super Bowl Week: Upper Duplex..!,Brooklyn,Apartment,,Entire home/apt,11217.0,3.0,1,0,850,
 10375342,12/2/2013,Big and Sunny Brooklyn Home,Brooklyn,Apartment,95.0,Entire home/apt,11231.0,1.0,1,16,155,99.0
 10387090,12/2/2013,"Large Space, Great for large Groups",Brooklyn,Apartment,,Entire home/apt,11233.0,4.0,1,0,150,
@@ -16891,7 +16891,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10408402,12/3/2013,Modern Loft Apt in Williamsburg,Brooklyn,Apartment,90.0,Entire home/apt,11206.0,4.0,1,52,249,91.0
 10413922,12/3/2013,Top Floor of Historic Brownstone!,Brooklyn,Apartment,100.0,Entire home/apt,11216.0,1.0,1,3,175,100.0
 10412936,12/3/2013,Beautiful New Apt in Trendy BK Area,Brooklyn,Apartment,95.0,Entire home/apt,11222.0,3.0,1,4,250,95.0
-10416706,12/3/2013,brooklyn 14 bedroom gated community,Brooklyn,House,,Entire home/apt,11224.0,16.0,1,0,"1,350",
+10416706,12/3/2013,brooklyn 14 bedroom gated community,Brooklyn,House,,Entire home/apt,11224.0,16.0,1,0,1350,
 10408424,12/3/2013,Large 2 bedroom in heart of LES!,Manhattan,Apartment,100.0,Entire home/apt,10002.0,2.0,1,6,250,100.0
 10397804,12/3/2013,Bright studio in the heart of NYC,Manhattan,Apartment,,Entire home/apt,10003.0,1.0,1,0,199,
 10410130,12/3/2013,Large 1 BR Apt - Park Ave & 22nd st,Manhattan,Apartment,,Entire home/apt,10003.0,1.0,1,0,220,
@@ -17040,7 +17040,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10548889,12/10/2013,Cozy Bohemian Studio - Chelsea,Manhattan,Apartment,95.0,Entire home/apt,10011.0,2.0,1,11,165,96.0
 10545523,12/10/2013,1200sqft artsy loft SOHO/NOLITA gem,Manhattan,Apartment,90.0,Entire home/apt,10012.0,2.0,1,6,385,90.0
 10547610,12/10/2013,West Village Apt steps to Path,Manhattan,Apartment,,Entire home/apt,10014.0,1.0,1,0,800,
-10554969,12/10/2013,2BR Apt - Murray Hill for Superbowl,Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,"2,000",
+10554969,12/10/2013,2BR Apt - Murray Hill for Superbowl,Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,2000,
 10546136,12/10/2013,Uptown Utopia,Manhattan,Apartment,95.0,Entire home/apt,10021.0,2.0,1,11,150,98.0
 10544301,12/10/2013,By Central Park with Balcony & View,Manhattan,Apartment,90.0,Entire home/apt,10025.0,4.0,1,2,275,90.0
 10543286,12/10/2013,Face on the Metropolitan Museum.,Manhattan,Apartment,,Entire home/apt,10028.0,2.0,1,0,150,
@@ -17104,7 +17104,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10577999,12/12/2013,SPACIOUS BR EAST VILLAGE APT,Manhattan,Apartment,90.0,Private room,10009.0,1.0,1,2,120,90.0
 10585694,12/12/2013,Almost fully private huge apartment,Manhattan,Apartment,,Private room,10022.0,1.0,1,0,80,
 10588982,12/12/2013,A cozy room during the holiday!,Manhattan,Apartment,,Private room,10030.0,1.0,1,0,90,
-10581520,12/12/2013,SUPERBOWL IN NYC!!! NEAR ALL SITES,Manhattan,Other,,Private room,10019.0,2.0,1,0,"1,200",
+10581520,12/12/2013,SUPERBOWL IN NYC!!! NEAR ALL SITES,Manhattan,Other,,Private room,10019.0,2.0,1,0,1200,
 10604652,12/13/2013,Private Two Room Studio By A Train,Brooklyn,Apartment,90.0,Entire home/apt,11216.0,1.0,1,4,65,90.0
 10606002,12/13/2013,Charming loft in Carroll Gardens,Brooklyn,Loft,100.0,Entire home/apt,11231.0,2.0,1,1,160,100.0
 10603767,12/13/2013,Loft in Brooklyn w/AC!!! JULY SALE,Brooklyn,Loft,90.0,Entire home/apt,11237.0,1.0,1,41,150,92.0
@@ -17141,11 +17141,11 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10638353,12/15/2013,Charming 2 bedroom apartment,Manhattan,Apartment,90.0,Entire home/apt,10011.0,2.0,1,4,400,90.0
 10644779,12/15/2013,Cozy Quiet Apt overlooking Gardens!,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,195,
 10642609,12/15/2013,Large Stylish 1.5 BR Noho/Nolita,Manhattan,Apartment,95.0,Entire home/apt,10012.0,2.0,1,7,255,97.0
-10636508,12/15/2013,Tribeca Loft for Superbowl Wknd,Manhattan,Apartment,,Entire home/apt,10013.0,1.0,1,0,"1,500",
+10636508,12/15/2013,Tribeca Loft for Superbowl Wknd,Manhattan,Apartment,,Entire home/apt,10013.0,1.0,1,0,1500,
 10640487,12/15/2013,"Freshly renovated, exposed brick!",Manhattan,Apartment,90.0,Entire home/apt,10016.0,1.0,1,30,199,92.0
 10643341,12/15/2013,BEAUTIFUL 1BR APT ON THE UPPER WEST,Manhattan,Apartment,95.0,Entire home/apt,10025.0,2.0,1,14,150,96.0
 10634286,12/15/2013,"TIMES SQUARE, Inexpensive, Central",Manhattan,Apartment,90.0,Entire home/apt,10036.0,3.0,1,9,180,93.0
-10641243,12/15/2013,Luxury 1 Bedroom in Downtown NYC,Manhattan,Apartment,,Entire home/apt,10280.0,1.0,1,0,"1,250",
+10641243,12/15/2013,Luxury 1 Bedroom in Downtown NYC,Manhattan,Apartment,,Entire home/apt,10280.0,1.0,1,0,1250,
 10643230,12/15/2013,Spacious 1 bdrm 20 min to Manhattan,Queens,Apartment,90.0,Entire home/apt,11104.0,1.0,1,2,80,90.0
 10644235,12/15/2013,"Serene, Industrial Chic Apt",Brooklyn,Apartment,100.0,Private room,11205.0,1.0,1,1,88,100.0
 10643087,12/15/2013,Sunny Apartment in East WB,Brooklyn,Apartment,100.0,Private room,11206.0,1.0,1,1,59,100.0
@@ -17260,7 +17260,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10751107,12/21/2013,A COZY PRIVATE ROOM IN WEST HARLEM,Manhattan,Apartment,80.0,Private room,10030.0,1.0,1,1,65,80.0
 10751661,12/21/2013,Amazing Private Room in Manhattan!,Manhattan,Apartment,90.0,Private room,10031.0,1.0,1,9,65,93.0
 10746968,12/21/2013,Spacious Room in New Building,Queens,Apartment,,Private room,11385.0,1.0,1,0,74,
-10767841,12/22/2013,Amazing panoramic view loft,Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,"1,200",
+10767841,12/22/2013,Amazing panoramic view loft,Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,1200,
 10753903,12/22/2013,Nolita Walkup,Manhattan,Apartment,100.0,Entire home/apt,10012.0,2.0,1,3,250,100.0
 10761330,12/22/2013,Charming WV Carriage House Studio,Manhattan,Apartment,100.0,Entire home/apt,10014.0,1.0,1,5,175,100.0
 10764467,12/22/2013,Beautiful Mid Town Studio,Manhattan,Apartment,95.0,Entire home/apt,10017.0,2.0,1,41,180,97.0
@@ -17321,7 +17321,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10833246,12/26/2013,Prime 2 bd. UWS Apt. w/ Roof Deck!,Manhattan,Apartment,80.0,Entire home/apt,10023.0,3.0,1,1,299,80.0
 10819398,12/26/2013,Exposed brick duplex 1br w/ terrace,Manhattan,Apartment,90.0,Entire home/apt,10025.0,2.0,1,2,199,90.0
 10830347,12/26/2013,Unique Studio Gem with Park View,Manhattan,Apartment,95.0,Entire home/apt,10040.0,1.0,1,6,85,95.0
-10834960,12/26/2013,Luxury Executive Apartment,Manhattan,Apartment,,Entire home/apt,10065.0,2.0,1,0,"1,000",
+10834960,12/26/2013,Luxury Executive Apartment,Manhattan,Apartment,,Entire home/apt,10065.0,2.0,1,0,1000,
 10831035,12/26/2013,Cozy Place for Super Bowl Week,Manhattan,Apartment,,Entire home/apt,10128.0,1.0,1,0,350,
 10824691,12/26/2013,1 bed 1 block from Bedford L subway,Brooklyn,Apartment,80.0,Private room,11211.0,1.0,1,1,75,80.0
 10832128,12/26/2013,Big Cozy Room 2 Blocks From Trains,Brooklyn,Apartment,,Private room,11220.0,1.0,1,0,40,
@@ -17330,11 +17330,11 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10828833,12/26/2013,Private Suite in Midtown/Times sq.,Manhattan,Apartment,100.0,Private room,10036.0,1.0,1,15,145,100.0
 10842335,12/27/2013,1BR Doorman Bldg Boerum Hill BK,Brooklyn,Apartment,,Entire home/apt,11201.0,1.0,1,0,135,
 10837710,12/27/2013,Corner House:,Brooklyn,House,,Entire home/apt,11215.0,2.0,1,0,250,
-10849612,12/27/2013,NYC 2 Bed. Apt. Super Bowl Weekend,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,"1,800",
+10849612,12/27/2013,NYC 2 Bed. Apt. Super Bowl Weekend,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,1800,
 10855877,12/27/2013,Charming 1BR in UWS Brownstone,Manhattan,Apartment,85.0,Entire home/apt,10024.0,2.0,1,3,190,87.0
 10848772,12/27/2013,1-2 bedroom on Upper East Side,Manhattan,Apartment,95.0,Entire home/apt,10029.0,1.0,1,5,125,96.0
 10854661,12/27/2013,Beautiful Apartment for Stay/Shoots,Queens,Apartment,100.0,Entire home/apt,11101.0,2.0,1,2,300,100.0
-10854661,12/27/2013,Extraordinary Space,Queens,Other,,Entire home/apt,11101.0,1.0,1,0,"4,000",
+10854661,12/27/2013,Extraordinary Space,Queens,Other,,Entire home/apt,11101.0,1.0,1,0,4000,
 10853553,12/27/2013,A bit of Europe in Parkchester,Bronx,Apartment,,Private room,10462.0,2.0,1,0,75,
 10837778,12/27/2013,Huge private room in a 2br apartmen,Brooklyn,Apartment,20.0,Private room,11211.0,1.0,1,1,60,20.0
 10855832,12/27/2013,Room in a Two Bedroom Bushwick,Brooklyn,House,80.0,Private room,11237.0,1.0,1,4,40,80.0
@@ -17428,7 +17428,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10971751,1/2/2014,1 BR apt in Atlantic Avenue,Brooklyn,Apartment,100.0,Entire home/apt,11217.0,1.0,1,1,119,100.0
 10975987,1/2/2014,Restored 1910 Brooklyn Loft Studio,Brooklyn,House,90.0,Entire home/apt,11207.0,1.0,1,18,128,94.0
 10973455,1/2/2014,Super Cute Chelsea One Bedroom,Manhattan,Apartment,85.0,Entire home/apt,10001.0,1.0,1,12,180,87.0
-10967533,1/2/2014,LES 3BR Duplex w/ Private Backyard,Manhattan,Apartment,,Entire home/apt,10002.0,3.0,1,0,"4,000",
+10967533,1/2/2014,LES 3BR Duplex w/ Private Backyard,Manhattan,Apartment,,Entire home/apt,10002.0,3.0,1,0,4000,
 10963050,1/2/2014,3BR Luxury Apartment in SoHo,Manhattan,Apartment,,Entire home/apt,10012.0,3.0,1,0,999,
 10962595,1/2/2014,Beautiful  Manhattan Studio!,Manhattan,Apartment,90.0,Entire home/apt,10019.0,2.0,1,58,190,90.0
 10962595,1/2/2014,Luxury Manhattan Studio!,Manhattan,Apartment,90.0,Entire home/apt,10019.0,1.0,1,56,250,91.0
@@ -17462,10 +17462,10 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 10995060,1/3/2014,Cozy Sofabed 1 Minute From Subway,Brooklyn,Apartment,100.0,Shared room,11225.0,1.0,1,3,75,100.0
 11012377,1/4/2014,Great 1bdrm in Cobble Hill,Brooklyn,Apartment,,Entire home/apt,11201.0,1.0,1,0,200,
 11010680,1/4/2014,"Space Just For Guests, Park Slope",Brooklyn,Apartment,85.0,Entire home/apt,11217.0,1.0,1,45,89,87.0
-11015793,1/4/2014,SuperBowl rental-1 block from penn,Manhattan,Apartment,,Entire home/apt,10001.0,1.0,1,0,"3,000",
+11015793,1/4/2014,SuperBowl rental-1 block from penn,Manhattan,Apartment,,Entire home/apt,10001.0,1.0,1,0,3000,
 11021180,1/4/2014,Studio Apartment East Village,Manhattan,Apartment,95.0,Entire home/apt,10003.0,2.0,1,56,185,97.0
 11012889,1/4/2014,Luxury NYC Studio for Super Bowl 48,Manhattan,Apartment,,Entire home/apt,10005.0,2.0,1,0,575,
-11026037,1/4/2014,Beautiful 2br/2bath 1300 sq ft apt,Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,"4,500",
+11026037,1/4/2014,Beautiful 2br/2bath 1300 sq ft apt,Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,4500,
 11013095,1/4/2014,Elegant studio in the UES,Manhattan,Apartment,,Entire home/apt,10075.0,1.0,1,0,180,
 11024818,1/4/2014,Private Room. Quiet. Comfortable.,Brooklyn,Apartment,,Private room,11211.0,1.0,1,0,90,
 11022524,1/4/2014,"Cozy, Charming Room",Brooklyn,Apartment,,Private room,11221.0,1.0,1,0,60,
@@ -17481,11 +17481,11 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11050387,1/5/2014,Gracious Duplex w/Landscaped Garden,Brooklyn,House,,Entire home/apt,11238.0,1.0,1,0,275,
 11051696,1/5/2014,Chelsea 3BD,Manhattan,Apartment,,Entire home/apt,10011.0,3.0,1,0,750,
 11051009,1/5/2014,Wow! 3-level-- 1 Bdr in Meatpack/WV,Manhattan,Apartment,95.0,Entire home/apt,10014.0,1.0,1,6,189,97.0
-11052635,1/5/2014,L BIG STUDIO WITH TERRACE,Manhattan,Apartment,,Entire home/apt,10014.0,1.0,1,0,"3,200",
+11052635,1/5/2014,L BIG STUDIO WITH TERRACE,Manhattan,Apartment,,Entire home/apt,10014.0,1.0,1,0,3200,
 11050337,1/5/2014,Midtown East Side Studio,Manhattan,Apartment,95.0,Entire home/apt,10022.0,2.0,1,16,225,99.0
 11045090,1/5/2014,W80 2BR IN THE HEART OF THE UWS!,Manhattan,Apartment,100.0,Entire home/apt,10024.0,3.0,1,3,385,100.0
 11039665,1/5/2014,1 Large Bedrm Apt- ALL yours,Manhattan,Apartment,90.0,Entire home/apt,10036.0,2.0,1,11,219,90.0
-11049035,1/5/2014,"3 Bedroom, 3 Bath, Upper East Side",Manhattan,Apartment,,Entire home/apt,10128.0,3.0,1,0,"2,000",
+11049035,1/5/2014,"3 Bedroom, 3 Bath, Upper East Side",Manhattan,Apartment,,Entire home/apt,10128.0,3.0,1,0,2000,
 11045090,1/5/2014,DESIGNER W58 2BR BY CENTRAL PARK!,Manhattan,Condominium,100.0,Entire home/apt,10019.0,2.0,1,2,495,100.0
 11045090,1/5/2014,DESIGNER W86 1BR+ BY CENTRAL PARK!,Manhattan,Condominium,100.0,Entire home/apt,10024.0,2.0,1,1,295,100.0
 11045090,1/5/2014,DESIGNER W71 2BR WITH RIVER VIEWS!,Manhattan,Condominium,,Entire home/apt,10069.0,2.0,1,0,595,
@@ -17510,7 +17510,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11055472,1/6/2014,Stay like home in West Midtown,Manhattan,Apartment,80.0,Entire home/apt,10019.0,1.0,1,1,169,80.0
 11068935,1/6/2014,Upper West Side one bedroom,Manhattan,Apartment,80.0,Entire home/apt,10023.0,1.0,1,1,145,80.0
 11065910,1/6/2014,Sunny One bedroom Apartment/balcony,Manhattan,Apartment,95.0,Entire home/apt,10024.0,2.0,1,14,200,95.0
-11063707,1/6/2014,Super Bowl Condo 2 bedroom 2 bath,Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,"1,000",
+11063707,1/6/2014,Super Bowl Condo 2 bedroom 2 bath,Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,1000,
 11066509,1/6/2014,Cozy 1- BR apt next to Columbia,Manhattan,Apartment,,Entire home/apt,10027.0,2.0,1,0,85,
 11077437,1/6/2014,Spacious 1 bedroom in Bushwick!,Brooklyn,Apartment,95.0,Private room,11207.0,1.0,1,4,65,95.0
 11064558,1/6/2014,"Bed-Stuy, Brooklyn: Private Room",Brooklyn,Apartment,,Private room,11216.0,1.0,1,0,50,
@@ -17533,13 +17533,13 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11105949,1/7/2014,Cozy & Clean in Williamsburg,Brooklyn,Apartment,100.0,Entire home/apt,11249.0,1.0,1,6,179,100.0
 11106339,1/7/2014,QUEEN+FULL Bed in Spacious Loft,Brooklyn,Loft,100.0,Entire home/apt,11237.0,2.0,1,10,200,100.0
 11094296,1/7/2014,Great Soho Appt for Super Bowl Week,Manhattan,Apartment,,Entire home/apt,10012.0,2.0,1,0,600,
-11108775,1/7/2014,Gorgeous 2bdrm West Village Apt,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,"2,000",
+11108775,1/7/2014,Gorgeous 2bdrm West Village Apt,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,2000,
 11084962,1/7/2014,2 Bed Penthouse in Heart of NYC,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,400,
 11093477,1/7/2014,"10 min ride to Times SQ, Sleeps 7!",Manhattan,Apartment,75.0,Entire home/apt,10029.0,3.0,1,38,195,79.0
 11093477,1/7/2014,10 min train to Times Sq. Sleeps 5!,Manhattan,Apartment,75.0,Entire home/apt,10029.0,2.0,1,11,200,76.0
 11093477,1/7/2014,10 mins train to Times SQ! Sleeps 7,Manhattan,Apartment,80.0,Entire home/apt,10029.0,2.0,1,33,220,80.0
 11098420,1/7/2014,New York City Like Never Before ! !,Manhattan,Apartment,90.0,Entire home/apt,10075.0,1.0,1,31,130,91.0
-11102615,1/7/2014,Exclusive Superbowl weekend!,Staten Island,House,,Entire home/apt,10302.0,4.0,1,0,"1,500",
+11102615,1/7/2014,Exclusive Superbowl weekend!,Staten Island,House,,Entire home/apt,10302.0,4.0,1,0,1500,
 11085990,1/7/2014,Perfect Space in Bronx Apt,Bronx,Apartment,,Private room,10468.0,2.0,1,0,95,
 11091997,1/7/2014,Zimmer in Brooklyn Crown Heights,Brooklyn,Apartment,,Private room,11213.0,1.0,1,0,52,
 11107448,1/7/2014,Large Sunny Room in Williamsburg!,Brooklyn,Apartment,,Private room,11222.0,1.0,1,0,60,
@@ -17561,7 +17561,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11122784,1/8/2014,"Apt 3BR, UWS, near Central Park",Manhattan,Apartment,90.0,Entire home/apt,10023.0,3.0,1,3,300,93.0
 11128943,1/8/2014,Lovely UWS-Central Park Brownstone!,Manhattan,Apartment,90.0,Entire home/apt,10025.0,1.0,1,8,200,93.0
 11130668,1/8/2014,1 bedroom Apartment in Times Square,Manhattan,Apartment,,Entire home/apt,10036.0,1.0,1,0,500,
-11130498,1/8/2014,SUPERBOWL WKND LUXURY 2 BR APT!!!,Manhattan,Apartment,,Entire home/apt,10065.0,2.0,1,0,"1,000",
+11130498,1/8/2014,SUPERBOWL WKND LUXURY 2 BR APT!!!,Manhattan,Apartment,,Entire home/apt,10065.0,2.0,1,0,1000,
 11111521,1/8/2014,Lovely Duplex Fireplace UES,Manhattan,Apartment,85.0,Entire home/apt,10075.0,2.0,1,5,240,87.0
 11131161,1/8/2014,Large Room in Prospect Heights,Brooklyn,Apartment,,Private room,11238.0,1.0,1,0,60,
 11112131,1/8/2014,Best location in Williamsburg !,Brooklyn,Apartment,,Private room,11249.0,2.0,1,1,70,
@@ -17693,7 +17693,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11308402,1/14/2014,Sunny Brownstone 2 Bdr Apartment,Brooklyn,Apartment,85.0,Entire home/apt,11221.0,3.0,1,36,139,85.0
 11294476,1/14/2014,Large FiDi Studio (Clean+Elegant),Manhattan,Apartment,,Entire home/apt,10004.0,1.0,1,0,200,
 11298242,1/14/2014,"Bright, Spacious, East Village",Manhattan,Apartment,,Entire home/apt,10009.0,1.0,1,0,135,
-11312158,1/14/2014,"226 E 29th St, NY - Super Bowl",Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,"1,500",
+11312158,1/14/2014,"226 E 29th St, NY - Super Bowl",Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,1500,
 11309858,1/14/2014,Handsome Pre-War Apartment (1BR),Manhattan,Apartment,95.0,Entire home/apt,10018.0,2.0,1,1,200,97.0
 11297009,1/14/2014,SWEET2 BR APT by Central Park!!!,Manhattan,Apartment,90.0,Entire home/apt,10024.0,3.0,1,21,209,90.0
 11280333,1/14/2014,Amazing Harlem apt with Backyard!!!,Manhattan,House,90.0,Entire home/apt,10037.0,3.0,1,10,90,90.0
@@ -17707,11 +17707,11 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11313849,1/15/2014,700 Sq Ft Luxe Loft Floor + Kitchen,Brooklyn,Apartment,95.0,Entire home/apt,11238.0,1.0,1,52,125,98.0
 11325427,1/15/2014,1BR LES NYC BRIGHT DUPLEX- OUTDOOR,Manhattan,Apartment,95.0,Entire home/apt,10002.0,1.0,1,8,220,95.0
 11345061,1/15/2014,Great Studio in Great Location -LES,Manhattan,Apartment,100.0,Entire home/apt,10002.0,1.0,1,4,170,100.0
-11347144,1/15/2014,Furnished 2BR-1BA SuperBowl rental,Manhattan,Apartment,,Entire home/apt,10002.0,3.0,1,0,"2,500",
+11347144,1/15/2014,Furnished 2BR-1BA SuperBowl rental,Manhattan,Apartment,,Entire home/apt,10002.0,3.0,1,0,2500,
 11330638,1/15/2014,XTRA LARGE 1 Bedroom Gramercy Apt,Manhattan,Apartment,,Entire home/apt,10010.0,1.0,1,0,749,
-11344768,1/15/2014,Ultra-Modern TriBeCa/Soho 3br Loft,Manhattan,Apartment,95.0,Entire home/apt,10013.0,3.0,1,31,"1,100",98.0
-11339193,1/15/2014,Large 1-BR Apt w/Fireplace & Patio,Manhattan,Apartment,,Entire home/apt,10016.0,1.0,1,0,"1,000",
-11346729,1/15/2014,Great Apt in MurrayHill!!!,Manhattan,Apartment,,Entire home/apt,10016.0,4.0,1,0,"1,050",
+11344768,1/15/2014,Ultra-Modern TriBeCa/Soho 3br Loft,Manhattan,Apartment,95.0,Entire home/apt,10013.0,3.0,1,31,1100,98.0
+11339193,1/15/2014,Large 1-BR Apt w/Fireplace & Patio,Manhattan,Apartment,,Entire home/apt,10016.0,1.0,1,0,1000,
+11346729,1/15/2014,Great Apt in MurrayHill!!!,Manhattan,Apartment,,Entire home/apt,10016.0,4.0,1,0,1050,
 11344768,1/15/2014,Chic Contemporary Seaport Loft,Manhattan,Apartment,95.0,Entire home/apt,10038.0,1.0,1,13,350,95.0
 11327495,1/15/2014,Lovely House for Rent!!,Staten Island,House,80.0,Entire home/apt,10303.0,3.0,1,4,300,80.0
 11342593,1/15/2014,Haus of Taylor (Bronx Prohibition),Bronx,Apartment,100.0,Private room,10468.0,2.0,1,7,75,100.0
@@ -17728,7 +17728,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11369454,1/16/2014,4bd Townhouse/Brownstone/Prospect P,Brooklyn,Townhouse,85.0,Entire home/apt,11226.0,5.0,1,5,210,87.0
 11366961,1/16/2014,Downtown NY Apt - SuperBowl Weekend,Manhattan,Apartment,,Entire home/apt,10010.0,2.0,1,0,650,
 11371978,1/16/2014,Super Bowl 2014,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,750,
-11353287,1/16/2014,AWESOME TWO FL. APT SUPER BOWL WK!!,Manhattan,Apartment,,Entire home/apt,10024.0,3.0,1,0,"1,650",
+11353287,1/16/2014,AWESOME TWO FL. APT SUPER BOWL WK!!,Manhattan,Apartment,,Entire home/apt,10024.0,3.0,1,0,1650,
 11360902,1/16/2014,Stunning Furnished 2 Bedrooom UWS,Manhattan,Apartment,60.0,Entire home/apt,10025.0,2.0,1,2,170,60.0
 11347531,1/16/2014,"Clean,QUIET, modern in Midtown West",Manhattan,Apartment,100.0,Entire home/apt,10036.0,1.0,1,4,128,100.0
 11360525,1/16/2014,BEST DEAL!  15 MIN. FROM MIDTOWN!!,Queens,Apartment,,Entire home/apt,11104.0,1.0,1,0,90,
@@ -17759,7 +17759,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11401019,1/17/2014,Wooden Fairy Room 5 mins from L,Brooklyn,Loft,90.0,Private room,11237.0,1.0,1,9,64,93.0
 11391788,1/17/2014,"Private Music Production Studio, BK",Brooklyn,Other,,Private room,11211.0,1.0,1,0,119,
 11402818,1/17/2014,Large bedroom by Central Park,Manhattan,Apartment,70.0,Private room,10023.0,1.0,1,10,110,72.0
-11385753,1/17/2014,An Accomodating Apartment on Wall,Manhattan,Apartment,,Shared room,10005.0,2.0,1,0,"1,000",
+11385753,1/17/2014,An Accomodating Apartment on Wall,Manhattan,Apartment,,Shared room,10005.0,2.0,1,0,1000,
 11418790,1/18/2014,Spacious Sunny Park Slope Penthouse,Brooklyn,Apartment,95.0,Entire home/apt,11215.0,2.0,1,22,200,98.0
 11430355,1/18/2014,Huge Duplex in South Slope,Brooklyn,Apartment,90.0,Entire home/apt,11215.0,5.0,1,11,290,90.0
 11413580,1/18/2014,Large Studio Apt in Carroll Gardens,Brooklyn,Apartment,,Entire home/apt,11231.0,3.0,1,0,200,
@@ -17767,7 +17767,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11427795,1/18/2014,East Village Apartment,Manhattan,Apartment,90.0,Entire home/apt,10003.0,1.0,1,15,125,92.0
 11417462,1/18/2014,Spacious 2BD in Upper West Side NY,Manhattan,Apartment,,Entire home/apt,10023.0,2.0,1,0,175,
 11418701,1/18/2014,GREAT 1BR steps from Central Park!,Manhattan,Apartment,95.0,Entire home/apt,10024.0,2.0,1,25,129,98.0
-11415824,1/18/2014,Manhattan Duplex with Backyard,Manhattan,Apartment,,Entire home/apt,10027.0,4.0,1,0,"1,200",
+11415824,1/18/2014,Manhattan Duplex with Backyard,Manhattan,Apartment,,Entire home/apt,10027.0,4.0,1,0,1200,
 11427964,1/18/2014,"Comfortable clean, furnished studio",Manhattan,Apartment,95.0,Entire home/apt,10028.0,2.0,1,6,137,96.0
 11424459,1/18/2014,Super Bowl Weekend Getaway,Manhattan,Apartment,,Entire home/apt,10033.0,1.0,1,0,550,
 11406105,1/18/2014,Room: Private Bathroom and Balcony,Brooklyn,Apartment,,Private room,11211.0,1.0,1,0,100,
@@ -17782,10 +17782,10 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11440598,1/19/2014,Huge One Bedroom near Prospect Park,Brooklyn,Apartment,100.0,Entire home/apt,11226.0,1.0,1,1,110,100.0
 11461792,1/19/2014,Sunny Bohemian Bushwick Loft,Brooklyn,Loft,90.0,Entire home/apt,11237.0,1.0,1,3,175,93.0
 11440643,1/19/2014,Chelsea Studio for Super Bowl!,Manhattan,Apartment,,Entire home/apt,10001.0,1.0,1,0,395,
-11459436,1/19/2014,SUPERBOWL RENTAL,Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,"1,000",
-11461854,1/19/2014,Superbowl in the West Village,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,"1,500",
+11459436,1/19/2014,SUPERBOWL RENTAL,Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,1000,
+11461854,1/19/2014,Superbowl in the West Village,Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,1500,
 11457317,1/19/2014,Sunny & Luxury 2 BR apartment,Manhattan,Apartment,100.0,Entire home/apt,10023.0,4.0,1,3,380,100.0
-11460768,1/19/2014,Super Bowl New York City Apartment,Manhattan,Apartment,,Entire home/apt,10025.0,4.0,1,0,"1,500",
+11460768,1/19/2014,Super Bowl New York City Apartment,Manhattan,Apartment,,Entire home/apt,10025.0,4.0,1,0,1500,
 11452219,1/19/2014,"Beautiful, modern Manhattan studio!",Manhattan,Apartment,100.0,Entire home/apt,10026.0,2.0,1,6,110,100.0
 11439758,1/19/2014,Staten Island Cozy Garden Apt,Staten Island,Apartment,95.0,Entire home/apt,10301.0,2.0,1,4,120,95.0
 11461751,1/19/2014,Gorgeous room in Williamsburg loft,Brooklyn,Apartment,90.0,Private room,11211.0,1.0,1,7,95,91.0
@@ -17798,15 +17798,15 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11495235,1/20/2014,Spacious Loft with Spiral Staircase,Brooklyn,Apartment,100.0,Entire home/apt,11237.0,2.0,1,1,150,100.0
 11494077,1/20/2014,Private 3 Floor Whole Hse/Garden,Brooklyn,House,90.0,Entire home/apt,11231.0,3.0,1,3,360,93.0
 11489372,1/20/2014,Typical NYC Flat in Lower East Side,Manhattan,Apartment,,Entire home/apt,10002.0,2.0,1,0,150,
-11492501,1/20/2014,Spacious/New 3 Bedroom East Village,Manhattan,Apartment,,Entire home/apt,10003.0,3.0,1,0,"1,500",
+11492501,1/20/2014,Spacious/New 3 Bedroom East Village,Manhattan,Apartment,,Entire home/apt,10003.0,3.0,1,0,1500,
 11474678,1/20/2014,SUPERBOWLREADY! 1000SF Chelsea Loft,Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,0,750,
 11479731,1/20/2014,Cozy Garden Chelsea Apt,Manhattan,Apartment,90.0,Entire home/apt,10011.0,1.0,1,22,155,92.0
-11483903,1/20/2014,Luxury 1 Bedroom Condo,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,"1,000",
+11483903,1/20/2014,Luxury 1 Bedroom Condo,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,1000,
 11495153,1/20/2014,West Village Studio/Outdoor Space,Manhattan,Apartment,90.0,Entire home/apt,10011.0,1.0,1,43,199,93.0
 11494286,1/20/2014,Luxury 2bd Condo on Bleecker,Manhattan,Apartment,80.0,Entire home/apt,10012.0,3.0,1,16,250,83.0
 11495153,1/20/2014,Amazing Soho Location,Manhattan,Apartment,90.0,Entire home/apt,10012.0,2.0,1,2,199,90.0
 11495251,1/20/2014,West Village apt - 2 Bedroom,Manhattan,Apartment,80.0,Entire home/apt,10014.0,2.0,1,1,200,80.0
-11490872,1/20/2014,"Huge 3BR Penthouse, Private Roof!",Manhattan,Apartment,,Entire home/apt,10016.0,3.0,1,0,"1,550",
+11490872,1/20/2014,"Huge 3BR Penthouse, Private Roof!",Manhattan,Apartment,,Entire home/apt,10016.0,3.0,1,0,1550,
 11478478,1/20/2014,One-BR in Midtown / Hell's Kitchen,Manhattan,Apartment,85.0,Entire home/apt,10019.0,1.0,1,3,155,87.0
 11490187,1/20/2014,NICE & COZY 1BD APT IN MIDTOWN WEST,Manhattan,Apartment,60.0,Entire home/apt,10019.0,1.0,1,1,225,60.0
 11485962,1/20/2014,Cozy Place in Manhattan,Manhattan,Apartment,90.0,Entire home/apt,10023.0,1.0,1,12,150,90.0
@@ -17826,13 +17826,13 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11501945,1/21/2014,1 bedroom apt 20 min from midtown,Brooklyn,Apartment,,Entire home/apt,11218.0,2.0,1,0,120,
 11522880,1/21/2014,"2 bedrooms, near DRNQ subway train",Brooklyn,Apartment,70.0,Entire home/apt,11232.0,3.0,1,24,85,74.0
 11505404,1/21/2014,Renovated Luxury building,Brooklyn,Apartment,,Entire home/apt,11233.0,3.0,1,0,189,
-11518846,1/21/2014,Spacious 4 Bedroom 2 Bath Sleeps 8!,Manhattan,Apartment,,Entire home/apt,10003.0,4.0,1,0,"1,200",
+11518846,1/21/2014,Spacious 4 Bedroom 2 Bath Sleeps 8!,Manhattan,Apartment,,Entire home/apt,10003.0,4.0,1,0,1200,
 11513275,1/21/2014,Superbowl Weekend - Studio Apt.,Manhattan,Apartment,,Entire home/apt,10006.0,1.0,1,0,500,
 11516219,1/21/2014,Adorable West Village Studio,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,500,
 11523254,1/21/2014,Spacious 1BR Chelsea Apt. for SB 48,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,750,
-11513199,1/21/2014,Unique 3BD w/ Private Patio & Brick,Manhattan,Apartment,,Entire home/apt,10014.0,3.0,1,0,"2,500",
+11513199,1/21/2014,Unique 3BD w/ Private Patio & Brick,Manhattan,Apartment,,Entire home/apt,10014.0,3.0,1,0,2500,
 11510234,1/21/2014,3BR-2 Full Bath Superbowl Wknd Apt,Manhattan,Apartment,,Entire home/apt,10016.0,3.0,1,0,975,
-11514032,1/21/2014,NYC SUPERBOWL - Spacious 3 BR Condo,Manhattan,Apartment,,Entire home/apt,10019.0,3.0,1,0,"1,250",
+11514032,1/21/2014,NYC SUPERBOWL - Spacious 3 BR Condo,Manhattan,Apartment,,Entire home/apt,10019.0,3.0,1,0,1250,
 11526081,1/21/2014,"Big NYC Apt, Midtown Manhattan",Manhattan,Apartment,95.0,Entire home/apt,10019.0,10.0,1,13,975,98.0
 11526231,1/21/2014,Super Bowl Rental,Manhattan,Apartment,,Entire home/apt,10022.0,1.0,1,0,550,
 11512908,1/21/2014,"Private Studio Apt, Luxury Building",Manhattan,Apartment,,Entire home/apt,10028.0,1.0,1,0,400,
@@ -17850,31 +17850,31 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11557140,1/22/2014,"Semi-furn 1bdrm Apt. Fordham,Bronx",Bronx,Apartment,100.0,Entire home/apt,10458.0,1.0,1,1,95,100.0
 11555234,1/22/2014,Spacious and Lovely One-Bedroom,Brooklyn,Apartment,90.0,Entire home/apt,11225.0,1.0,1,3,125,93.0
 11538132,1/22/2014,Prime SuperBowl Furnished Studio,Manhattan,Apartment,,Entire home/apt,10001.0,2.0,1,0,800,
-11540028,1/22/2014,Spacious 2 BR in North Chelsea,Manhattan,Apartment,,Entire home/apt,10001.0,2.0,1,0,"1,000",
+11540028,1/22/2014,Spacious 2 BR in North Chelsea,Manhattan,Apartment,,Entire home/apt,10001.0,2.0,1,0,1000,
 11538076,1/22/2014,Luxury Building Huge Studio,Manhattan,Apartment,,Entire home/apt,10004.0,1.0,1,0,425,
-11541574,1/22/2014,SuperBowl Rental Tribeca 5Room2Bath,Manhattan,Apartment,,Entire home/apt,10007.0,5.0,1,0,"3,000",
+11541574,1/22/2014,SuperBowl Rental Tribeca 5Room2Bath,Manhattan,Apartment,,Entire home/apt,10007.0,5.0,1,0,3000,
 11538802,1/22/2014,Cool & Cozy Apt in Fun East Village,Manhattan,Apartment,90.0,Entire home/apt,10009.0,1.0,1,22,150,93.0
 11548401,1/22/2014,SUPERBOWL WKND- PRIME WEST VILLAGE,Manhattan,Apartment,,Entire home/apt,10014.0,1.0,1,0,600,
 11555627,1/22/2014,BOOK NOW! West Village Apartment!!!,Manhattan,Apartment,85.0,Entire home/apt,10014.0,1.0,1,8,210,88.0
 11528411,1/22/2014,Spacious Studio w amazing view inNY,Manhattan,Apartment,80.0,Entire home/apt,10016.0,1.0,1,5,140,84.0
 11557572,1/22/2014,Large 1 bedroom,Manhattan,Apartment,,Entire home/apt,10016.0,1.0,1,0,449,
-11540949,1/22/2014,"4 Bd, 2 Ba - kitchen & living room",Manhattan,Apartment,,Entire home/apt,10022.0,4.0,1,0,"1,000",
+11540949,1/22/2014,"4 Bd, 2 Ba - kitchen & living room",Manhattan,Apartment,,Entire home/apt,10022.0,4.0,1,0,1000,
 11555627,1/22/2014,HUGE Apartment Near Central Park!!!,Manhattan,Apartment,85.0,Entire home/apt,10025.0,2.0,1,49,260,87.0
 11530621,1/22/2014,TIMES SQUARE SANCTUARY!!,Manhattan,Apartment,100.0,Entire home/apt,10036.0,1.0,1,2,172,100.0
-11549174,1/22/2014,Superbowl Weekend Three Bedroom,Manhattan,Apartment,,Entire home/apt,10128.0,3.0,1,0,"1,000",
+11549174,1/22/2014,Superbowl Weekend Three Bedroom,Manhattan,Apartment,,Entire home/apt,10128.0,3.0,1,0,1000,
 11539130,1/22/2014,Awesome Sunnyside Studio!,Queens,Apartment,80.0,Entire home/apt,11104.0,1.0,1,3,75,80.0
 11552512,1/22/2014,spacious bright 1 bdrm. apt,Queens,Apartment,100.0,Entire home/apt,11104.0,2.0,1,3,100,100.0
 11553899,1/22/2014,"Bright, Comfy 2BR in Williamsburg",Brooklyn,Apartment,90.0,Private room,11211.0,1.0,1,2,97,90.0
 11555258,1/22/2014,Large room in 3 bdrm apt available,Brooklyn,Apartment,95.0,Private room,11218.0,1.0,1,4,55,95.0
 11545485,1/22/2014,PRIVATE BEDROOM in 4 bedroom home,Brooklyn,House,,Private room,11221.0,1.0,1,0,75,
-11542120,1/22/2014,SUPER LOCATION 4 SUPER BOWL WKEND!!,Manhattan,Apartment,,Private room,10011.0,1.0,1,0,"1,250",
+11542120,1/22/2014,SUPER LOCATION 4 SUPER BOWL WKEND!!,Manhattan,Apartment,,Private room,10011.0,1.0,1,0,1250,
 11540207,1/22/2014,A Gem of a Room.,Manhattan,Apartment,,Private room,10040.0,1.0,1,0,60,
 11581609,1/23/2014,Sunny 1BR in Williamsburg,Brooklyn,Apartment,90.0,Entire home/apt,11211.0,2.0,1,31,165,94.0
 11586472,1/23/2014,Spacious New Williamsburg Studio,Brooklyn,Apartment,,Entire home/apt,11211.0,1.0,1,0,500,
 11574643,1/23/2014,New Luxury 2-Bed Apt In Brooklyn!,Brooklyn,Apartment,90.0,Entire home/apt,11220.0,1.0,1,43,125,90.0
 11587869,1/23/2014,Monstrous Greenpoint 1 BR Apartment,Brooklyn,Apartment,100.0,Entire home/apt,11222.0,1.0,1,9,170,100.0
 11576459,1/23/2014,Studio Apt 15 minutes to Manhattan,Brooklyn,House,80.0,Entire home/apt,11232.0,1.0,1,4,75,80.0
-11583584,1/23/2014,Beautiful Luxury 3Bed in Chelsea,Manhattan,Apartment,,Entire home/apt,10001.0,3.0,1,0,"2,500",
+11583584,1/23/2014,Beautiful Luxury 3Bed in Chelsea,Manhattan,Apartment,,Entire home/apt,10001.0,3.0,1,0,2500,
 11559667,1/23/2014,"Spacious Studio, NOLITA / LES",Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,190,
 11571997,1/23/2014,New studio in the heart of LES,Manhattan,Apartment,95.0,Entire home/apt,10002.0,1.0,1,8,175,95.0
 11570607,1/23/2014,Large 3bdrm - EASY SUBWAY ACCESS!!!,Manhattan,Apartment,,Entire home/apt,10005.0,3.0,1,0,900,
@@ -17884,7 +17884,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11567532,1/23/2014,West Village Studio w/ Backyard,Manhattan,Apartment,,Entire home/apt,10011.0,2.0,1,0,650,
 11584103,1/23/2014,Large Studio - E.34th and 2nd ave,Manhattan,Apartment,,Entire home/apt,10016.0,1.0,1,0,500,
 11586042,1/23/2014,Fantastic Murray Hill Studio!,Manhattan,Apartment,95.0,Entire home/apt,10016.0,1.0,1,14,195,95.0
-11571360,1/23/2014,amazing super bowl weekend apt,Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,"2,000",
+11571360,1/23/2014,amazing super bowl weekend apt,Manhattan,Apartment,,Entire home/apt,10022.0,2.0,1,0,2000,
 11583052,1/23/2014,One bedroom off CPW,Manhattan,Apartment,60.0,Entire home/apt,10024.0,2.0,1,1,299,60.0
 11580610,1/23/2014,Full Floor of Manhattan Brownstone,Manhattan,Apartment,90.0,Entire home/apt,10027.0,3.0,1,6,169,93.0
 11580610,1/23/2014,Perfect Manhattan Studio Apartment,Manhattan,Apartment,90.0,Entire home/apt,10027.0,2.0,1,10,129,90.0
@@ -17899,18 +17899,18 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11577594,1/23/2014,Precious Jewel in the city Center!,Manhattan,Apartment,90.0,Private room,10019.0,1.0,1,11,125,93.0
 11612872,1/24/2014,Greenpoint Beautiful Apartment,Brooklyn,Apartment,100.0,Entire home/apt,11222.0,1.0,1,4,125,100.0
 11607949,1/24/2014,Bondtastic: Fabulous in Brooklyn.,Brooklyn,Apartment,95.0,Entire home/apt,11231.0,1.0,1,15,120,95.0
-11598359,1/24/2014,SUPER BOWL Brooklyn Duplex Apt!!,Brooklyn,Apartment,,Entire home/apt,11238.0,4.0,1,0,"6,500",
+11598359,1/24/2014,SUPER BOWL Brooklyn Duplex Apt!!,Brooklyn,Apartment,,Entire home/apt,11238.0,4.0,1,0,6500,
 11600360,1/24/2014,Gramercy Park 4 Bedroom Apartment,Manhattan,Apartment,,Entire home/apt,10010.0,5.0,1,0,800,
 11603608,1/24/2014,Sunny Spacious West Village 1BR,Manhattan,Apartment,90.0,Entire home/apt,10011.0,1.0,1,8,199,93.0
 11601390,1/24/2014,1 bedroom in the heart of SOHO,Manhattan,Apartment,,Entire home/apt,10012.0,1.0,1,0,650,
 11610137,1/24/2014,Gramercy Luxury Boutique Apartment,Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,520,
-11610321,1/24/2014,3 Bedroom Apartment,Manhattan,Apartment,,Entire home/apt,10016.0,3.0,1,0,"2,750",
+11610321,1/24/2014,3 Bedroom Apartment,Manhattan,Apartment,,Entire home/apt,10016.0,3.0,1,0,2750,
 11610137,1/24/2014,Entire Apart Luxury Building,Manhattan,Apartment,,Entire home/apt,10018.0,2.0,1,0,585,
 11607164,1/24/2014,Midtown West SUPER BOWL APARTMENT!!,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,900,
 11610137,1/24/2014,Huge Beautiful Apt. NYC,Manhattan,Apartment,85.0,Entire home/apt,10019.0,3.0,1,41,895,87.0
 11601610,1/24/2014,STUDIO IN NYC,Manhattan,Apartment,80.0,Entire home/apt,10023.0,1.0,1,1,135,80.0
 11599506,1/24/2014,Little Heaven  Upper West Side,Manhattan,Apartment,90.0,Entire home/apt,10024.0,1.0,1,35,150,91.0
-11605408,1/24/2014,"Spacious UWS 1BD, block from CP",Manhattan,Apartment,,Entire home/apt,10024.0,1.0,1,0,"1,500",
+11605408,1/24/2014,"Spacious UWS 1BD, block from CP",Manhattan,Apartment,,Entire home/apt,10024.0,1.0,1,0,1500,
 11602485,1/24/2014,Super Bowl Weekend Manhattan Studio,Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,400,
 11610137,1/24/2014,DUPLEX Midtown Entire Apartment,Manhattan,Apartment,,Entire home/apt,10036.0,2.0,1,0,520,
 11601961,1/24/2014,Spacious sunny bedroom,Brooklyn,Apartment,100.0,Private room,11226.0,1.0,1,6,50,100.0
@@ -17935,11 +17935,11 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11653908,1/26/2014,Artsy studio apartment in Bushwick!,Brooklyn,Apartment,90.0,Entire home/apt,11237.0,1.0,1,40,103,93.0
 11661027,1/26/2014,Spacious East Village Triplex Apt!!,Manhattan,Apartment,95.0,Entire home/apt,10003.0,2.0,1,4,225,95.0
 11659093,1/26/2014,Tribeca Apt with Lofted Ceilings,Manhattan,Apartment,,Entire home/apt,10007.0,2.0,1,0,750,
-11660771,1/26/2014,3 BEDROOM RENTAL SUPERBOWL WEEKEND,Manhattan,Apartment,,Entire home/apt,10011.0,3.0,1,0,"2,000",
+11660771,1/26/2014,3 BEDROOM RENTAL SUPERBOWL WEEKEND,Manhattan,Apartment,,Entire home/apt,10011.0,3.0,1,0,2000,
 11673513,1/26/2014,Newly Renovated SOHO 1 bedroom,Manhattan,Apartment,95.0,Entire home/apt,10012.0,1.0,1,12,320,97.0
-11664089,1/26/2014,"SUPER BOWL 2BR 1.5 BATH ~1,200 SQFT",Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,"2,499",
+11664089,1/26/2014,"SUPER BOWL 2BR 1.5 BATH ~1,200 SQFT",Manhattan,Apartment,,Entire home/apt,10014.0,2.0,1,0,2499,
 11653306,1/26/2014,1bedroom apartment upper east side,Manhattan,Apartment,,Entire home/apt,10021.0,1.0,1,0,500,
-11668649,1/26/2014,MANHATTAN SUPERBOWL ACCOMODATION,Manhattan,Apartment,,Entire home/apt,10021.0,4.0,1,0,"1,600",
+11668649,1/26/2014,MANHATTAN SUPERBOWL ACCOMODATION,Manhattan,Apartment,,Entire home/apt,10021.0,4.0,1,0,1600,
 11648566,1/26/2014,UWS 1 Bedroom Penthouse,Manhattan,Apartment,100.0,Entire home/apt,10023.0,3.0,1,1,750,100.0
 11661107,1/26/2014,Stylish Manhattan Apartment,Manhattan,Apartment,100.0,Entire home/apt,10025.0,2.0,1,4,195,100.0
 11673696,1/26/2014,Large Sunny UES Studio! Oct 1-9!,Manhattan,Apartment,100.0,Entire home/apt,10028.0,2.0,1,2,175,100.0
@@ -17953,11 +17953,11 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11670284,1/26/2014,Private room Manhattan UES,Manhattan,Apartment,,Private room,10021.0,1.0,1,0,75,
 11672284,1/26/2014,Upper East Side cosy room,Manhattan,Apartment,,Private room,10028.0,1.0,1,0,89,
 11708474,1/27/2014,Clean Cozy Apt on FL2 in Brownstone,Brooklyn,Apartment,,Entire home/apt,11221.0,1.0,1,0,85,
-11704098,1/27/2014,Beautiful Apartment right Penn Stat,Manhattan,Apartment,,Entire home/apt,10001.0,3.0,1,0,"1,500",
+11704098,1/27/2014,Beautiful Apartment right Penn Stat,Manhattan,Apartment,,Entire home/apt,10001.0,3.0,1,0,1500,
 11674535,1/27/2014,East Village/Union Square Apt,Manhattan,Apartment,,Entire home/apt,10003.0,1.0,1,0,550,
 11711258,1/27/2014,Luxury High Rise Apartment,Manhattan,Apartment,,Entire home/apt,10006.0,1.0,1,0,199,
 11674823,1/27/2014,SUPER BOWL RENTAL NYC LOW PRICE,Manhattan,Apartment,,Entire home/apt,10024.0,1.0,1,0,750,
-11708656,1/27/2014,SuperBowl Weekend Rental! 3 BR/1ba,Manhattan,Apartment,,Entire home/apt,10028.0,3.0,1,0,"1,000",
+11708656,1/27/2014,SuperBowl Weekend Rental! 3 BR/1ba,Manhattan,Apartment,,Entire home/apt,10028.0,3.0,1,0,1000,
 11702175,1/27/2014,Large 1 bedroom apt - can sleep 4,Manhattan,Apartment,85.0,Entire home/apt,10029.0,2.0,1,3,170,87.0
 11687702,1/27/2014,Charming Studio/loft in NYC,Manhattan,Apartment,,Entire home/apt,10036.0,1.0,1,0,160,
 11710466,1/27/2014,Instant NYC,Manhattan,Apartment,100.0,Entire home/apt,10128.0,1.0,1,2,135,100.0
@@ -17978,14 +17978,14 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11728509,1/28/2014,Luxury SuperBowl Rental + Backyard!,Brooklyn,Apartment,,Entire home/apt,11222.0,3.0,1,0,750,
 11741577,1/28/2014,Convenient Midtown Studio Loft!,Manhattan,Apartment,90.0,Entire home/apt,10001.0,1.0,1,3,160,90.0
 11740479,1/28/2014,Fantastic Apt. Amazing LES Location,Manhattan,Apartment,100.0,Entire home/apt,10002.0,2.0,1,4,265,100.0
-11740791,1/28/2014,Tribeca Apartment; Skyline Views,Manhattan,Apartment,,Entire home/apt,10013.0,2.0,1,0,"1,400",
+11740791,1/28/2014,Tribeca Apartment; Skyline Views,Manhattan,Apartment,,Entire home/apt,10013.0,2.0,1,0,1400,
 11727118,1/28/2014,"Amazing location, amazing apartment",Manhattan,Apartment,,Entire home/apt,10014.0,1.0,1,0,230,
 11734360,1/28/2014,Quiet West Village 1 bdrm,Manhattan,Apartment,100.0,Entire home/apt,10014.0,1.0,1,2,200,100.0
 11728020,1/28/2014,"1,400 Sq Ft Midtown East Apt",Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,800,
 11734436,1/28/2014,Upper West 19th FL Windows Wonder,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,130,
-11741427,1/28/2014,Perfect for SB - UES apt for 4 ppl,Manhattan,Apartment,,Entire home/apt,10021.0,2.0,1,0,"1,500",
+11741427,1/28/2014,Perfect for SB - UES apt for 4 ppl,Manhattan,Apartment,,Entire home/apt,10021.0,2.0,1,0,1500,
 11732381,1/28/2014,2 Bedrdoom Apartment,Manhattan,Apartment,,Entire home/apt,10022.0,3.0,1,0,175,
-11732741,1/28/2014,2BD/2BA Manhattan Apt,Manhattan,Apartment,,Entire home/apt,10038.0,2.0,1,0,"1,000",
+11732741,1/28/2014,2BD/2BA Manhattan Apt,Manhattan,Apartment,,Entire home/apt,10038.0,2.0,1,0,1000,
 11714217,1/28/2014,Amazing big and cozy apt in Astoria,Queens,Apartment,,Entire home/apt,11101.0,1.0,1,1,50,
 11722972,1/28/2014,NYC Apt - Close to Metro & Mnhtn,Queens,Apartment,100.0,Entire home/apt,11374.0,7.0,1,7,300,100.0
 11743520,1/28/2014,Private 1 Bedroom Apartment,Staten Island,Apartment,80.0,Entire home/apt,10314.0,2.0,1,9,99,82.0
@@ -18025,7 +18025,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11792833,1/30/2014,Cosy apt in the heart of Brooklyn,Brooklyn,Apartment,90.0,Entire home/apt,11217.0,1.0,1,5,180,92.0
 11778114,1/30/2014,Midwood Aerie - Bright  & Private!,Brooklyn,House,95.0,Entire home/apt,11210.0,1.0,1,20,140,97.0
 11802654,1/30/2014,Centrally located apt in Chelsea,Manhattan,Apartment,100.0,Entire home/apt,10001.0,2.0,1,1,255,100.0
-11786734,1/30/2014,Stunning 2600ft full floor LOFT,Manhattan,Apartment,100.0,Entire home/apt,10011.0,3.0,1,1,"1,850",100.0
+11786734,1/30/2014,Stunning 2600ft full floor LOFT,Manhattan,Apartment,100.0,Entire home/apt,10011.0,3.0,1,1,1850,100.0
 11793333,1/30/2014,Huge Loft heart of Upper West Side,Manhattan,Apartment,100.0,Entire home/apt,10024.0,4.0,1,24,650,100.0
 11803390,1/30/2014,Modern Studio Near Central Park,Manhattan,Apartment,,Entire home/apt,10025.0,1.0,1,0,200,
 11790239,1/30/2014,Harlem cosy renovated unit for two,Manhattan,Apartment,,Entire home/apt,10030.0,1.0,1,0,77,
@@ -18060,7 +18060,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 11845040,2/1/2014,Charming Upper East Side NYC apt,Manhattan,Apartment,90.0,Private room,10128.0,1.0,1,9,132,93.0
 11843789,2/1/2014,Inviting Modern Room in Cozy Home,Queens,House,90.0,Private room,11377.0,2.0,1,14,120,92.0
 11865651,2/2/2014,Brooklyn brownstone apartment,Brooklyn,Apartment,85.0,Entire home/apt,11221.0,1.0,1,3,95,87.0
-11875004,2/2/2014,Beautiful Studio in the heart of EV,Manhattan,Apartment,,Entire home/apt,10009.0,1.0,1,0,"2,250",
+11875004,2/2/2014,Beautiful Studio in the heart of EV,Manhattan,Apartment,,Entire home/apt,10009.0,1.0,1,0,2250,
 11878036,2/2/2014,Amazing 1 bedroom suite in Chelsea,Manhattan,Apartment,80.0,Entire home/apt,10011.0,2.0,1,14,260,84.0
 11873530,2/2/2014,Cute studio in great location UWS,Manhattan,Apartment,,Entire home/apt,10023.0,1.0,1,0,150,
 11884842,2/2/2014,Partially Furnished 3BR - UES,Manhattan,Apartment,,Entire home/apt,10028.0,1.0,1,0,150,
@@ -18198,7 +18198,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 12127044,2/10/2014,Downtown One Bedroom with views NYC,Manhattan,Apartment,90.0,Entire home/apt,10280.0,1.0,1,6,255,93.0
 12115582,2/10/2014,Luxury Soho Loft,Manhattan,Loft,,Entire home/apt,10012.0,1.0,1,0,725,
 12115582,2/10/2014,Sunny Top Floor Soho Loft,Manhattan,Loft,95.0,Entire home/apt,10012.0,2.0,1,79,875,98.0
-12116715,2/10/2014,Culinary Event and Meeting Space,Manhattan,Loft,100.0,Entire home/apt,10013.0,1.0,1,1,"2,500",100.0
+12116715,2/10/2014,Culinary Event and Meeting Space,Manhattan,Loft,100.0,Entire home/apt,10013.0,1.0,1,1,2500,100.0
 12132619,2/10/2014,3 BR APT-15 min to Times Square,Queens,Apartment,90.0,Entire home/apt,11104.0,5.0,1,46,220,92.0
 12132619,2/10/2014,Small 1BR Apt-15 min Times Square,Queens,Apartment,85.0,Entire home/apt,11104.0,2.0,1,23,118,87.0
 12132619,2/10/2014,3 BR APT-10 min to Times Square,Queens,House,100.0,Entire home/apt,11104.0,5.0,1,1,235,100.0
@@ -18854,7 +18854,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 13520796,3/25/2014,Cobble Hill/Columbia Water Front,Brooklyn,Apartment,100.0,Private room,11201.0,1.0,1,4,68,100.0
 13544233,3/25/2014,"Good Morning, Brooklyn!",Brooklyn,Apartment,,Private room,11238.0,1.0,1,0,75,
 13544929,3/25/2014,Lovely Bedroom for Two in New York,Queens,Apartment,80.0,Private room,11377.0,1.0,1,1,60,80.0
-13541481,3/25/2014,let's make a deal...,Queens,House,,Shared room,11418.0,2.0,1,0,"2,500",
+13541481,3/25/2014,let's make a deal...,Queens,House,,Shared room,11418.0,2.0,1,0,2500,
 13571025,3/26/2014,Beautiful and Bright Studio,Brooklyn,Apartment,100.0,Entire home/apt,11222.0,1.0,1,6,110,100.0
 13555958,3/26/2014,Charming Ft Greene Garden Apartment,Brooklyn,Apartment,95.0,Entire home/apt,11238.0,2.0,1,22,135,95.0
 13583128,3/26/2014,Luxury 2 Bedroom in FiDi,Manhattan,Apartment,100.0,Entire home/apt,10005.0,2.0,1,2,233,100.0
@@ -18900,7 +18900,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 13649613,3/28/2014,Huge airy room perfect for two!,Bronx,House,90.0,Private room,10453.0,1.0,1,10,65,90.0
 13636138,3/28/2014,Sunny Room W/ Private Bathroom,Brooklyn,Apartment,90.0,Private room,11201.0,1.0,1,4,110,90.0
 13625960,3/28/2014,Spacious Private Room ard Columbia,Manhattan,Apartment,80.0,Private room,10027.0,1.0,1,1,40,80.0
-13646181,3/28/2014,Female Summer Sublet Near CUMC,Manhattan,Apartment,,Private room,10032.0,1.0,1,0,"1,100",
+13646181,3/28/2014,Female Summer Sublet Near CUMC,Manhattan,Apartment,,Private room,10032.0,1.0,1,0,1100,
 13631524,3/28/2014,Spacious 1BD in Upper East Side,Manhattan,Apartment,100.0,Private room,10035.0,1.0,1,4,85,100.0
 13631524,3/28/2014,Sun-drenched 1BD in Upper East Side,Manhattan,Apartment,90.0,Private room,10035.0,1.0,1,33,70,91.0
 13621509,3/28/2014,"New York City, NYC, Big Apple",Queens,Apartment,80.0,Private room,11374.0,1.0,1,3,70,80.0
@@ -19221,7 +19221,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 14318669,4/15/2014,Lower East Side Apartment,Manhattan,Apartment,,Entire home/apt,10002.0,2.0,1,0,200,
 14314393,4/15/2014,Cozy Private Studio,Manhattan,Apartment,90.0,Entire home/apt,10010.0,2.0,1,12,200,90.0
 14305428,4/15/2014,Beautiful Bright Soho Studio,Manhattan,Apartment,,Entire home/apt,10012.0,1.0,1,0,163,
-14323194,4/15/2014,FURNISHED UPPER EAST SIDE STUDIO,Manhattan,Apartment,,Entire home/apt,10021.0,1.0,1,0,"1,900",
+14323194,4/15/2014,FURNISHED UPPER EAST SIDE STUDIO,Manhattan,Apartment,,Entire home/apt,10021.0,1.0,1,0,1900,
 14337132,4/15/2014,"Peaceful, beautiful home away",Manhattan,Apartment,100.0,Entire home/apt,10026.0,2.0,1,6,175,100.0
 14337598,4/15/2014,NYC 1 Bedroom - Morningside Heights,Manhattan,Apartment,,Entire home/apt,10027.0,2.0,1,0,138,
 14341408,4/15/2014,AMAZING 1BD MANHATTAN SKYLINE VIEW,Queens,Apartment,95.0,Entire home/apt,11109.0,1.0,1,18,250,99.0
@@ -19371,12 +19371,12 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 14588919,4/22/2014,A Little Haven in Brooklyn,Brooklyn,Apartment,85.0,Entire home/apt,11216.0,2.0,1,28,100,87.0
 14588919,4/22/2014,A Little Haven in Brooklyn Deux,Brooklyn,Apartment,80.0,Entire home/apt,11216.0,3.0,1,23,100,83.0
 14601436,4/22/2014,"Modern Loft, Large Private Terrace.",Manhattan,Apartment,100.0,Entire home/apt,10002.0,2.0,1,1,225,100.0
-14607896,4/22/2014,Lux Penthouse Duplex over 4000SF,Manhattan,Apartment,,Entire home/apt,10003.0,6.0,1,0,"1,750",
+14607896,4/22/2014,Lux Penthouse Duplex over 4000SF,Manhattan,Apartment,,Entire home/apt,10003.0,6.0,1,0,1750,
 14578100,4/22/2014,Great one bedroom in luxury bld,Manhattan,Apartment,,Entire home/apt,10023.0,2.0,1,0,230,
 14586567,4/22/2014,Studio in UWS- Manhattan,Manhattan,Apartment,,Entire home/apt,10025.0,1.0,1,0,150,
 14567234,4/22/2014,2 Rooms Apt. Upper East Side,Manhattan,Apartment,,Entire home/apt,10028.0,1.0,1,0,130,
 14592414,4/22/2014,BIG STUDIO IN AN ELEVATOR BUILDING,Manhattan,Apartment,95.0,Entire home/apt,10075.0,1.0,1,9,225,98.0
-14584680,4/22/2014,Federal townhouse West Village,Manhattan,House,80.0,Entire home/apt,10014.0,4.0,1,2,"1,000",80.0
+14584680,4/22/2014,Federal townhouse West Village,Manhattan,House,80.0,Entire home/apt,10014.0,4.0,1,2,1000,80.0
 14600914,4/22/2014,Beautiful Large Room near L train,Brooklyn,Apartment,85.0,Private room,11211.0,1.0,1,4,75,85.0
 14588407,4/22/2014,Fashion Studio w/designer bedroom,Brooklyn,Apartment,,Private room,11221.0,1.0,1,1,103,
 14600783,4/22/2014,Cozy bedroom in Clinton Hill,Brooklyn,Apartment,70.0,Private room,11238.0,1.0,1,3,70,73.0
@@ -19692,7 +19692,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 15269739,5/8/2014,Garden Level Apartment,Brooklyn,Apartment,,Entire home/apt,11215.0,1.0,1,0,500,
 15270760,5/8/2014,My Beautiful 1 Bedroom Apartment,Brooklyn,Apartment,100.0,Entire home/apt,11216.0,1.0,1,1,136,100.0
 15271110,5/8/2014,Sun filled 2BR in BedStuy Townhouse,Brooklyn,House,90.0,Entire home/apt,11233.0,3.0,1,76,135,94.0
-15269739,5/8/2014,Lovely landmark Italian Limestone,Brooklyn,Villa,,Entire home/apt,11215.0,4.0,1,0,"1,500",
+15269739,5/8/2014,Lovely landmark Italian Limestone,Brooklyn,Villa,,Entire home/apt,11215.0,4.0,1,0,1500,
 15287426,5/8/2014,1 Bedroom in the LES,Manhattan,Apartment,85.0,Entire home/apt,10002.0,1.0,1,45,180,89.0
 15286211,5/8/2014,Luxury in the East Village,Manhattan,Apartment,,Entire home/apt,10009.0,2.0,1,0,350,
 15271615,5/8/2014,Enchanting Home Huge Private Patio,Manhattan,Apartment,75.0,Entire home/apt,10016.0,5.0,1,6,450,76.0
@@ -20387,7 +20387,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 16628935,6/10/2014,"Cozy 2 Bedroom, Heart of the LES",Manhattan,Apartment,85.0,Entire home/apt,10002.0,2.0,1,11,355,85.0
 16598048,6/10/2014,specious 1bd apt on Saint Marks Pl,Manhattan,Apartment,100.0,Entire home/apt,10003.0,2.0,1,1,220,100.0
 16622685,6/10/2014,Oasis in the heart of New York,Manhattan,Apartment,95.0,Entire home/apt,10013.0,1.0,1,12,349,96.0
-16621164,6/10/2014,Your home in the Heart of NYC!,Manhattan,Apartment,100.0,Entire home/apt,10017.0,6.0,1,2,"1,000",100.0
+16621164,6/10/2014,Your home in the Heart of NYC!,Manhattan,Apartment,100.0,Entire home/apt,10017.0,6.0,1,2,1000,100.0
 16598065,6/10/2014,Luxury Park Dream,Manhattan,Apartment,100.0,Entire home/apt,10025.0,1.0,1,1,450,100.0
 16641806,6/10/2014,Stylish 2BR! 2 min to Central Park!,Manhattan,Apartment,100.0,Entire home/apt,10029.0,2.0,1,2,195,100.0
 16598550,6/10/2014,Roomy and quiet 2BR in Manhattan!,Manhattan,Apartment,80.0,Entire home/apt,10033.0,2.0,1,2,200,80.0
@@ -20556,8 +20556,8 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 16910147,6/17/2014,"MIDTOWN 2 BEDROOM, THREE STORY APT",Manhattan,Apartment,85.0,Entire home/apt,10022.0,3.0,1,22,390,89.0
 16908803,6/17/2014,Cozy 1 bedroom apartment in Harlem,Manhattan,Apartment,85.0,Entire home/apt,10026.0,2.0,1,7,100,89.0
 16903170,6/17/2014,Gorgeous Apartment in Townhouse!!!,Manhattan,Apartment,100.0,Entire home/apt,10028.0,4.0,1,3,400,100.0
-16903170,6/17/2014,Best Mansion in NYC - Sleeps 16 +,Manhattan,House,,Entire home/apt,10028.0,11.0,1,1,"1,350",
-16903170,6/17/2014,Super Luxury Townhouse-Sleeps 16!!,Manhattan,House,95.0,Entire home/apt,10028.0,16.0,1,48,"1,500",96.0
+16903170,6/17/2014,Best Mansion in NYC - Sleeps 16 +,Manhattan,House,,Entire home/apt,10028.0,11.0,1,1,1350,
+16903170,6/17/2014,Super Luxury Townhouse-Sleeps 16!!,Manhattan,House,95.0,Entire home/apt,10028.0,16.0,1,48,1500,96.0
 16926880,6/17/2014,Furnished 1 bedroom with backyard,Queens,Apartment,90.0,Entire home/apt,11101.0,2.0,1,4,135,90.0
 16905443,6/17/2014,"Beautiful, Central Astoria Getaway",Queens,Apartment,95.0,Entire home/apt,11106.0,1.0,1,30,100,95.0
 16929791,6/17/2014,"1br w/full ba,spacious and private",Brooklyn,Apartment,,Private room,11231.0,1.0,1,0,90,
@@ -21329,7 +21329,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 18139037,7/15/2014,2 bedroom 1 blck from Central Park,Manhattan,Apartment,90.0,Entire home/apt,10026.0,4.0,1,3,199,93.0
 18164440,7/15/2014,Sunny Spacious 1br Apt-NEXT TO MALL,Manhattan,Apartment,100.0,Entire home/apt,10035.0,2.0,1,1,139,100.0
 18145241,7/15/2014,Charming 1BD on Central Park,Manhattan,Apartment,100.0,Entire home/apt,10128.0,1.0,1,3,175,100.0
-18138075,7/15/2014,ST REGIS 2 bed CONDO - luxe 1/2 off,Manhattan,Other,,Entire home/apt,10022.0,2.0,1,0,"2,500",
+18138075,7/15/2014,ST REGIS 2 bed CONDO - luxe 1/2 off,Manhattan,Other,,Entire home/apt,10022.0,2.0,1,0,2500,
 18167085,7/15/2014,Artist Loft 15min from Williamsburg,Queens,Apartment,,Entire home/apt,11385.0,1.0,1,0,100,
 18160580,7/15/2014,Beautiful waterfront home!,Queens,House,100.0,Entire home/apt,11357.0,4.0,1,2,279,100.0
 18165291,7/15/2014,A place to stay,Bronx,Apartment,,Private room,10460.0,2.0,1,0,86,
@@ -21736,7 +21736,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 19132761,7/29/2014,Hell's Kitchen 1 bed,Manhattan,Apartment,95.0,Entire home/apt,10036.0,1.0,1,6,150,96.0
 19135506,7/29/2014,Bright and beautiful 1 bedroom Apt.,Manhattan,Apartment,100.0,Entire home/apt,10069.0,1.0,1,1,150,100.0
 19104296,7/29/2014,State of the art winnebago vista 32,Manhattan,Camper/RV,,Entire home/apt,10003.0,7.0,1,0,325,
-19117618,7/29/2014,Incredible 2 Story Maisonette,Manhattan,Townhouse,100.0,Entire home/apt,10021.0,5.0,1,1,"1,200",100.0
+19117618,7/29/2014,Incredible 2 Story Maisonette,Manhattan,Townhouse,100.0,Entire home/apt,10021.0,5.0,1,1,1200,100.0
 19109608,7/29/2014,Charming 1BD- 10 min to Manhattan,Queens,Apartment,90.0,Entire home/apt,11106.0,3.0,1,16,124,94.0
 19138757,7/29/2014,Spacious&Beautiful Room Boerum Hill,Brooklyn,Apartment,,Private room,11217.0,1.0,1,0,90,
 19124621,7/29/2014,Spacious Apartment w/ Private Room,Brooklyn,Apartment,100.0,Private room,11233.0,2.0,1,1,75,100.0
@@ -21822,7 +21822,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 19272564,8/1/2014,Beautiful Hip Prime Williamsburg,Brooklyn,Apartment,90.0,Entire home/apt,11211.0,1.0,1,12,225,93.0
 19282518,8/1/2014,"Beautiful,cozy apt in Bensonhurst",Brooklyn,Apartment,85.0,Entire home/apt,11214.0,2.0,1,7,110,89.0
 19299915,8/1/2014,Sunny 2BR PRIME Williamsburg w/VIEW,Brooklyn,Apartment,95.0,Entire home/apt,11249.0,2.0,1,44,200,97.0
-19285185,8/1/2014,Party/Event Loft 3000SQ FT Brooklyn,Brooklyn,Loft,100.0,Entire home/apt,11205.0,3.0,1,10,"1,499",100.0
+19285185,8/1/2014,Party/Event Loft 3000SQ FT Brooklyn,Brooklyn,Loft,100.0,Entire home/apt,11205.0,3.0,1,10,1499,100.0
 19274392,8/1/2014,Large 1BR in Chelsea/village border,Manhattan,Apartment,95.0,Entire home/apt,10011.0,2.0,1,29,240,98.0
 19284362,8/1/2014,Comfy Greenwich Village 1 Bedroom,Manhattan,Apartment,100.0,Entire home/apt,10012.0,1.0,1,2,225,100.0
 19263941,8/1/2014,Entire Apartment Near Columbia Univ,Manhattan,Apartment,,Entire home/apt,10027.0,2.0,1,0,130,
@@ -22305,7 +22305,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 20324827,8/20/2014,Large Retro Style Pre-War Studio,Brooklyn,Apartment,100.0,Entire home/apt,11226.0,1.0,1,1,85,100.0
 20312973,8/20/2014,Spacious  South Slope apartment,Brooklyn,Apartment,90.0,Entire home/apt,11232.0,1.0,1,2,119,90.0
 20311036,8/20/2014,Beautiful 2 bed apt in Brooklyn,Brooklyn,Apartment,95.0,Entire home/apt,11233.0,3.0,1,14,189,97.0
-20318233,8/20/2014,New York I Love You 7 Bedrooms,Brooklyn,House,95.0,Entire home/apt,11216.0,10.0,1,24,"1,050",95.0
+20318233,8/20/2014,New York I Love You 7 Bedrooms,Brooklyn,House,95.0,Entire home/apt,11216.0,10.0,1,24,1050,95.0
 20320155,8/20/2014,Ocean Hill - Beautiful 3 Bedroom,Brooklyn,House,100.0,Entire home/apt,11233.0,3.0,1,2,185,100.0
 20312979,8/20/2014,1 BD East Village w/ Natural Light,Manhattan,Apartment,,Entire home/apt,10003.0,2.0,1,0,200,
 20293260,8/20/2014,East Village Spacious 3 Bed 2 Bath,Manhattan,Apartment,80.0,Entire home/apt,10009.0,4.0,1,13,499,83.0
@@ -23066,7 +23066,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 21706559,9/23/2014,West Village 2 bedroom with terrace,Manhattan,Apartment,,Entire home/apt,10014.0,3.0,1,0,330,
 21671443,9/23/2014,Studio Apartment in Hell's Kitchen,Manhattan,Apartment,85.0,Entire home/apt,10019.0,1.0,1,6,99,87.0
 21703397,9/23/2014,Luxury 1 BR apartment with a view,Manhattan,Apartment,100.0,Entire home/apt,10128.0,2.0,1,3,180,100.0
-21704441,9/23/2014,Auberge 347,Manhattan,House,95.0,Entire home/apt,10065.0,8.0,1,26,"1,200",97.0
+21704441,9/23/2014,Auberge 347,Manhattan,House,95.0,Entire home/apt,10065.0,8.0,1,26,1200,97.0
 21663531,9/23/2014,Spacious and clean home.,Queens,Apartment,,Entire home/apt,11385.0,3.0,1,0,100,
 21699608,9/23/2014,"1 BR, Cozy Bay Ridge Suite",Brooklyn,Apartment,90.0,Private room,11209.0,1.0,1,7,45,91.0
 21699608,9/23/2014,"Roomy Bay Ridge Suite, 1 BR",Brooklyn,Apartment,100.0,Private room,11209.0,1.0,1,1,60,100.0
@@ -23498,7 +23498,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 22452303,10/12/2014,Charming 1-BR in Upper East Side,Manhattan,Apartment,,Entire home/apt,10021.0,1.0,1,0,189,
 22459073,10/12/2014,1 BDR Upper East side,Manhattan,Apartment,,Entire home/apt,10021.0,2.0,1,0,200,
 22437497,10/12/2014,Cozy 1RB Close to Park and Subway,Manhattan,Apartment,,Entire home/apt,10128.0,1.0,1,0,220,
-22443451,10/12/2014,26th Fl Manhattan Dream Apartment,Manhattan,Apartment,100.0,Entire home/apt,10128.0,2.0,1,1,"1,750",100.0
+22443451,10/12/2014,26th Fl Manhattan Dream Apartment,Manhattan,Apartment,100.0,Entire home/apt,10128.0,2.0,1,1,1750,100.0
 22459182,10/12/2014,"Lovely, Clean, Comfy w/River Views!",Manhattan,Apartment,,Entire home/apt,10128.0,1.0,1,0,210,
 22462356,10/12/2014,UES Big 1 Bedroom Apartment,Manhattan,Apartment,,Entire home/apt,10128.0,1.0,1,0,160,
 22456370,10/12/2014,Charming King Size 1 Bedroom Apt,Queens,Apartment,,Entire home/apt,11375.0,1.0,1,0,90,
@@ -23559,7 +23559,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 22591213,10/15/2014,Authentic loft with private deck,Brooklyn,Loft,,Entire home/apt,11222.0,1.0,1,0,156,
 22563071,10/15/2014,Cozy 1br in East Village,Manhattan,Apartment,95.0,Entire home/apt,10003.0,3.0,1,21,160,98.0
 22570294,10/15/2014,1 BR / 1 BA Apartment in E. Village,Manhattan,Apartment,80.0,Entire home/apt,10009.0,2.0,1,7,250,80.0
-22568643,10/15/2014,NY Duplex Apartment in Flatiron,Manhattan,Apartment,,Entire home/apt,10010.0,2.0,1,0,"2,000",
+22568643,10/15/2014,NY Duplex Apartment in Flatiron,Manhattan,Apartment,,Entire home/apt,10010.0,2.0,1,0,2000,
 22585892,10/15/2014,Spacious 1 Bed in heart of Midtown,Manhattan,Apartment,85.0,Entire home/apt,10017.0,1.0,1,4,280,87.0
 22571268,10/15/2014,Great apt in the perfect location,Manhattan,Apartment,90.0,Entire home/apt,10019.0,1.0,1,13,175,93.0
 22584722,10/15/2014,Studio in Midtown East,Manhattan,Apartment,65.0,Entire home/apt,10022.0,1.0,1,9,91,67.0
@@ -23926,7 +23926,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 23249630,11/2/2014,B's Suite,Brooklyn,Apartment,95.0,Entire home/apt,11216.0,3.0,1,8,125,95.0
 23231352,11/2/2014,Gorgeous Union Sq Garden Loft,Manhattan,Apartment,100.0,Entire home/apt,10003.0,1.0,1,2,180,100.0
 23252685,11/2/2014,Doorman West Village Studio,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,250,
-23248648,11/2/2014,NO LONGER BOOKING RESERVATIONS,Manhattan,Apartment,95.0,Entire home/apt,10025.0,2.0,1,21,"10,000",95.0
+23248648,11/2/2014,NO LONGER BOOKING RESERVATIONS,Manhattan,Apartment,95.0,Entire home/apt,10025.0,2.0,1,21,10000,95.0
 23257217,11/2/2014,Cozy One-Bedroom: Great Location!,Manhattan,Apartment,100.0,Entire home/apt,10025.0,2.0,1,1,170,100.0
 23267314,11/2/2014,Sun-drenched 1 BDRM apt The Real NY,Manhattan,Apartment,100.0,Entire home/apt,10029.0,2.0,1,1,157,100.0
 23230065,11/2/2014,Cozy Modern 1BR with Exposed Brick!,Manhattan,Apartment,90.0,Entire home/apt,10030.0,1.0,1,14,132,94.0
@@ -24135,8 +24135,8 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 23585305,11/10/2014,Artist Loft in Williamsburg.,Brooklyn,Loft,90.0,Entire home/apt,11249.0,3.0,1,14,175,94.0
 23579940,11/10/2014,Modern2bed RM Place in East Village,Manhattan,Apartment,90.0,Entire home/apt,10003.0,2.0,1,24,260,90.0
 23592301,11/10/2014,Charming West Village 1BR,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,160,
-23564279,11/10/2014,Breathtaking 2-Story Soho Penthouse,Manhattan,Apartment,,Entire home/apt,10013.0,3.0,1,0,"5,000",
-23564279,11/10/2014,Stunning Soho loft,Manhattan,Apartment,100.0,Entire home/apt,10013.0,2.0,1,1,"1,600",100.0
+23564279,11/10/2014,Breathtaking 2-Story Soho Penthouse,Manhattan,Apartment,,Entire home/apt,10013.0,3.0,1,0,5000,
+23564279,11/10/2014,Stunning Soho loft,Manhattan,Apartment,100.0,Entire home/apt,10013.0,2.0,1,1,1600,100.0
 23564231,11/10/2014,Charismatic Studio in Midtown West,Manhattan,Apartment,100.0,Entire home/apt,10019.0,1.0,1,10,149,100.0
 23568182,11/10/2014,2Bed/2Bath Apt in Hell's Kitchen,Manhattan,Apartment,85.0,Entire home/apt,10019.0,2.0,1,27,270,88.0
 23586344,11/10/2014,Gorgeous Upper West Side 1B Hi-Rise,Manhattan,Apartment,,Entire home/apt,10023.0,1.0,1,0,199,
@@ -25043,7 +25043,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 24863421,12/15/2014,Private room in large apartment,Manhattan,Apartment,100.0,Private room,10025.0,1.0,1,1,50,100.0
 24864295,12/15/2014,Upper West Side/Central Park North,Manhattan,Apartment,90.0,Private room,10025.0,1.0,1,4,90,90.0
 24875845,12/15/2014,"Prime Access to subway A,B,C,D,3",Manhattan,Apartment,,Private room,10039.0,1.0,1,0,125,
-24859393,12/15/2014,"Private Movie, Party Space",Manhattan,Loft,,Private room,10119.0,1.0,1,0,"1,500",
+24859393,12/15/2014,"Private Movie, Party Space",Manhattan,Loft,,Private room,10119.0,1.0,1,0,1500,
 24860409,12/15/2014,Big private room for rent in NY,Queens,House,,Private room,11101.0,1.0,1,0,80,
 24864004,12/15/2014,Place to Crash East Village-SHARED,Manhattan,Apartment,90.0,Shared room,10009.0,1.0,1,19,65,91.0
 24864671,12/15/2014,Best location - Shared room,Manhattan,Apartment,40.0,Shared room,10016.0,1.0,1,1,54,40.0
@@ -25143,7 +25143,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 25065304,12/21/2014,"Very Cool Loft, Trendy Hood",Brooklyn,Apartment,100.0,Entire home/apt,11221.0,2.0,1,1,110,100.0
 25074312,12/21/2014,Light-filled spacious 1BR in W'burg,Brooklyn,Apartment,,Entire home/apt,11249.0,1.0,1,1,140,
 25052740,12/21/2014,2 Bdrms in 3 Bdrm Lovely Brownstone,Brooklyn,House,100.0,Entire home/apt,11206.0,2.0,1,3,100,100.0
-25067295,12/21/2014,East Village / Gramercy Park 2 BR,Manhattan,Apartment,,Entire home/apt,10003.0,2.0,1,0,"1,000",
+25067295,12/21/2014,East Village / Gramercy Park 2 BR,Manhattan,Apartment,,Entire home/apt,10003.0,2.0,1,0,1000,
 25075066,12/21/2014,Beautiful 1BR - Heart of W. Village,Manhattan,Apartment,100.0,Entire home/apt,10014.0,1.0,1,2,235,100.0
 25076498,12/21/2014,2 bedroom apartment in Manhattan,Manhattan,Apartment,80.0,Entire home/apt,10027.0,2.0,1,1,175,80.0
 25074344,12/21/2014,Cozy studio on the upper east side!,Manhattan,Apartment,100.0,Entire home/apt,10028.0,1.0,1,6,135,100.0
@@ -25185,7 +25185,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 25146314,12/23/2014,Bohemian Studio in Heart of SOHO,Manhattan,Apartment,90.0,Entire home/apt,10012.0,1.0,1,7,225,94.0
 25133209,12/23/2014,Gorgeous Studio in Flatiron,Manhattan,Apartment,90.0,Entire home/apt,10016.0,1.0,1,3,150,90.0
 25138109,12/23/2014,Large Murray Hill One Bedroom,Manhattan,Apartment,95.0,Entire home/apt,10016.0,1.0,1,6,325,97.0
-25145042,12/23/2014,CENTRAL PARK VIEWS! 5 star Hotel!,Manhattan,Apartment,100.0,Entire home/apt,10019.0,2.0,1,1,"1,195",100.0
+25145042,12/23/2014,CENTRAL PARK VIEWS! 5 star Hotel!,Manhattan,Apartment,100.0,Entire home/apt,10019.0,2.0,1,1,1195,100.0
 25117665,12/23/2014,2 bedroom apt 2 bathrooms 6 people,Manhattan,Apartment,100.0,Entire home/apt,10023.0,6.0,1,3,248,100.0
 25142304,12/23/2014,Large Apt With Private Backyard,Manhattan,Apartment,,Entire home/apt,10027.0,1.0,1,0,100,
 25134906,12/23/2014,High rise building. On 5th Avenue.,Manhattan,Apartment,,Entire home/apt,10029.0,2.0,1,0,295,
@@ -25224,7 +25224,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 25230336,12/26/2014,HOME SWEET HOME - VISIT NYC!,Brooklyn,Apartment,,Entire home/apt,11238.0,4.0,1,0,300,
 25226934,12/26/2014,Spacious & Modern Chinatown Apt,Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,150,
 25228952,12/26/2014,Large 1 bedroom in heart of Chelsea,Manhattan,Apartment,100.0,Entire home/apt,10011.0,1.0,1,3,285,100.0
-25214283,12/26/2014,Stunning Penthouse at Leonard St.,Manhattan,Apartment,,Entire home/apt,10013.0,3.0,1,0,"1,500",
+25214283,12/26/2014,Stunning Penthouse at Leonard St.,Manhattan,Apartment,,Entire home/apt,10013.0,3.0,1,0,1500,
 25217501,12/26/2014,TimesSquare Area: NEW Dream Apt W/D,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,219,
 25221215,12/26/2014,Beautiful Manhattan Apartment-UES,Manhattan,Apartment,,Entire home/apt,10021.0,1.0,1,0,300,
 25237492,12/26/2014,*AEGEAN* 2 BR in Charming Townhouse,Manhattan,Apartment,100.0,Entire home/apt,10023.0,3.0,1,2,350,100.0
@@ -25833,7 +25833,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 26900762,1/29/2015,NYC Group Special!,Brooklyn,Apartment,,Entire home/apt,11238.0,5.0,1,0,700,
 26900762,1/29/2015,Experience Nyc $95/USD Group Stays,Brooklyn,Bed & Breakfast,80.0,Entire home/apt,11205.0,10.0,1,4,95,80.0
 26900762,1/29/2015,$700 PVT. 4 BR/2BA (up to 19 guest),Brooklyn,House,90.0,Entire home/apt,11205.0,10.0,1,3,700,93.0
-26900762,1/29/2015,Large Groups/7BR/4BA Home/$1500/USD,Brooklyn,House,100.0,Entire home/apt,11205.0,16.0,1,2,"1,500",100.0
+26900762,1/29/2015,Large Groups/7BR/4BA Home/$1500/USD,Brooklyn,House,100.0,Entire home/apt,11205.0,16.0,1,2,1500,100.0
 26899122,1/29/2015,Sunny 1bedroom with yard,Brooklyn,Townhouse,,Entire home/apt,11215.0,2.0,1,0,85,
 26917813,1/29/2015,"Quite, Large, Comfortable Studio",Manhattan,Apartment,80.0,Entire home/apt,10003.0,1.0,1,1,135,80.0
 26909538,1/29/2015,Cozy apartment in Chelsea,Manhattan,Apartment,90.0,Entire home/apt,10011.0,2.0,1,2,300,90.0
@@ -26504,7 +26504,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 29345363,3/14/2015,Cute 1Bdr Apt by MSG & The Highline,Manhattan,Apartment,,Entire home/apt,10001.0,1.0,1,0,180,
 29339547,3/14/2015,Luxe Studio Apt in The LES,Manhattan,Apartment,100.0,Entire home/apt,10002.0,1.0,1,3,225,100.0
 29332408,3/14/2015,1 bedroom East Village nook,Manhattan,Apartment,60.0,Entire home/apt,10009.0,2.0,1,2,117,60.0
-29344790,3/14/2015,Massive Full Floor 4Bedroom Loft,Manhattan,Apartment,,Entire home/apt,10011.0,4.0,1,0,"1,000",
+29344790,3/14/2015,Massive Full Floor 4Bedroom Loft,Manhattan,Apartment,,Entire home/apt,10011.0,4.0,1,0,1000,
 29321107,3/14/2015,Tribeca/FabViews/Doorman/,Manhattan,Apartment,,Entire home/apt,10013.0,2.0,1,0,500,
 29338351,3/14/2015,Great New York City location,Manhattan,Apartment,,Entire home/apt,10022.0,1.0,1,0,130,
 29329735,3/14/2015,Quiet and cozy studio in W Harlem!!,Manhattan,Apartment,90.0,Entire home/apt,10030.0,1.0,1,13,125,90.0
@@ -27087,7 +27087,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 31480564,4/18/2015,Sunny apt in the Lower East Side,Manhattan,Apartment,,Entire home/apt,10002.0,1.0,1,0,184,
 31452474,4/18/2015,Chelsea charming apt,Manhattan,Apartment,,Entire home/apt,10011.0,1.0,1,0,160,
 31482763,4/18/2015,Clean and new SoHo studio!!,Manhattan,Apartment,100.0,Entire home/apt,10012.0,1.0,1,2,195,100.0
-31433828,4/18/2015,1.5 month lease near Lincoln Center,Manhattan,Apartment,100.0,Entire home/apt,10023.0,1.0,1,1,"3,500",100.0
+31433828,4/18/2015,1.5 month lease near Lincoln Center,Manhattan,Apartment,100.0,Entire home/apt,10023.0,1.0,1,1,3500,100.0
 31463196,4/18/2015,Private room in NY -Close to subway,Brooklyn,Apartment,95.0,Private room,,1.0,1,4,75,95.0
 31458100,4/18/2015,Brooklyn Brownstone Master Bedroom,Brooklyn,Apartment,85.0,Private room,11216.0,1.0,1,6,58,87.0
 31463196,4/18/2015,Dorm in New York - close to subway,Brooklyn,Apartment,80.0,Private room,11216.0,1.0,1,13,75,80.0
@@ -27487,7 +27487,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 32790033,5/6/2015,TIME SQRE! 2 BDRM/1.5  bath BRKFST,Manhattan,Apartment,70.0,Entire home/apt,10018.0,3.0,1,6,200,70.0
 32762797,5/6/2015,"Clean & fresh, unbeatable location!",Manhattan,Apartment,85.0,Entire home/apt,10019.0,1.0,1,8,199,88.0
 32764337,5/6/2015,A charming and clean one bedroom.,Manhattan,Apartment,100.0,Entire home/apt,10021.0,1.0,1,2,250,100.0
-32756420,5/6/2015,SEE POPE IN NYC! (HOME SLEEPS FOUR),Manhattan,Apartment,,Entire home/apt,10023.0,2.0,1,0,"2,500",
+32756420,5/6/2015,SEE POPE IN NYC! (HOME SLEEPS FOUR),Manhattan,Apartment,,Entire home/apt,10023.0,2.0,1,0,2500,
 32724264,5/6/2015,Newly renovated 1 bdrm in L.I.C,Queens,Apartment,,Entire home/apt,11101.0,1.0,1,0,150,
 32768816,5/6/2015,Sunny room in bushwick,Brooklyn,Apartment,,Private room,11206.0,1.0,1,0,70,
 32787416,5/6/2015,MEDIUM SIZE BEDROOM AVAILABLE,Brooklyn,Apartment,,Private room,11238.0,1.0,1,0,100,
@@ -27703,7 +27703,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 33447308,5/15/2015,New! 2BR 2BA in Theatre District!,Manhattan,Apartment,95.0,Entire home/apt,10019.0,2.0,1,12,375,95.0
 33433635,5/15/2015,Modern 1BR Next To Central Park,Manhattan,Apartment,100.0,Entire home/apt,10026.0,1.0,1,1,170,100.0
 33438428,5/15/2015,Lovely 1 bdr Manhat. 121st and Lex.,Manhattan,Apartment,100.0,Entire home/apt,10035.0,2.0,1,3,110,100.0
-33448247,5/15/2015,3 bed 3 bath apt in luxury condo,Manhattan,Apartment,,Entire home/apt,10065.0,3.0,1,0,"1,700",
+33448247,5/15/2015,3 bed 3 bath apt in luxury condo,Manhattan,Apartment,,Entire home/apt,10065.0,3.0,1,0,1700,
 33459378,5/15/2015,2 Bdrm in Luxury Condo on Hudson,Manhattan,Apartment,80.0,Entire home/apt,10280.0,3.0,1,2,175,80.0
 33443274,5/15/2015,"Spacious, sunny 1 bd near #1 train",Manhattan,Apartment,90.0,Entire home/apt,10463.0,1.0,1,3,110,93.0
 33463732,5/15/2015,"????,?????",Manhattan,Condominium,40.0,Entire home/apt,10013.0,3.0,1,1,180,40.0
@@ -27904,7 +27904,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 33970775,5/22/2015,Upper East Side 1 bedroom apartment,Manhattan,Apartment,100.0,Entire home/apt,10065.0,1.0,1,2,120,100.0
 33987530,5/22/2015,UES Serenity & Midtown Convenience,Manhattan,Apartment,90.0,Entire home/apt,10065.0,2.0,1,7,150,91.0
 33972850,5/22/2015,Upper East Side-One Bedroom,Manhattan,Apartment,100.0,Entire home/apt,10128.0,1.0,1,2,120,100.0
-33987946,5/22/2015,Entire Townhouse in LOWER MANHATTAN,Manhattan,House,80.0,Entire home/apt,10002.0,9.0,1,1,"1,050",80.0
+33987946,5/22/2015,Entire Townhouse in LOWER MANHATTAN,Manhattan,House,80.0,Entire home/apt,10002.0,9.0,1,1,1050,80.0
 34006518,5/22/2015,Full Floor Loft Flatiron/Gramercy,Manhattan,Loft,100.0,Entire home/apt,10010.0,2.0,1,1,275,100.0
 33949643,5/22/2015,Warm and Cozy in Astoria,Queens,Apartment,100.0,Entire home/apt,11105.0,2.0,1,1,140,100.0
 34001749,5/22/2015,1 bedroom in a 4 bedroom apt,Brooklyn,Apartment,90.0,Private room,11213.0,1.0,1,2,40,90.0
@@ -28732,7 +28732,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 36436020,6/22/2015,Private Room in Charming 2 bed,Queens,Apartment,70.0,Private room,11106.0,1.0,1,2,38,70.0
 36539736,6/23/2015,Perfect 2BR for a family!,Brooklyn,Apartment,100.0,Entire home/apt,11201.0,2.0,1,1,150,100.0
 36534042,6/23/2015,A huge apartment near Manhattan,Brooklyn,Apartment,100.0,Entire home/apt,11209.0,2.0,1,1,120,100.0
-36538690,6/23/2015,Park Slope Brooklyn for July,Brooklyn,Apartment,100.0,Entire home/apt,11215.0,3.0,1,1,"3,100",100.0
+36538690,6/23/2015,Park Slope Brooklyn for July,Brooklyn,Apartment,100.0,Entire home/apt,11215.0,3.0,1,1,3100,100.0
 36557846,6/23/2015,Furnished studio in New York City,Brooklyn,Apartment,,Entire home/apt,11231.0,1.0,1,0,70,
 36540470,6/23/2015,2bd Apt w/ Massive Private Garden,Brooklyn,Apartment,100.0,Entire home/apt,11237.0,2.0,1,1,199,100.0
 36531150,6/23/2015,Prospect Heights garden apartment,Brooklyn,Apartment,90.0,Entire home/apt,11238.0,3.0,1,2,164,90.0
@@ -28947,12 +28947,12 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 37176329,6/30/2015,Sunny Bushwick apartment near L&J,Brooklyn,Apartment,,Entire home/apt,11221.0,1.0,1,0,125,
 37191929,6/30/2015,NYC Brooklyn Rooftop Full Apartment,Brooklyn,Apartment,,Entire home/apt,11238.0,2.0,1,0,125,
 37138645,6/30/2015,Large historic loft style apartment,Manhattan,Apartment,,Entire home/apt,1003.0,1.0,1,0,275,
-37155810,6/30/2015,Upper West Side Highrise : 113201,Manhattan,Apartment,,Entire home/apt,10007.0,2.0,1,0,"2,486",
+37155810,6/30/2015,Upper West Side Highrise : 113201,Manhattan,Apartment,,Entire home/apt,10007.0,2.0,1,0,2486,
 37148871,6/30/2015,"AMAZING studio, INCREDIBLE building",Manhattan,Apartment,,Entire home/apt,10010.0,1.0,1,0,120,
-37155810,6/30/2015,Midtown Retreat Penthouse : 115333,Manhattan,Apartment,,Entire home/apt,10018.0,3.0,1,0,"2,486",
-37155810,6/30/2015,Central Park Luxury : 115916,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,"3,390",
-37155810,6/30/2015,Central Park South Place : 112756,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,"1,356",
-37155810,6/30/2015,Central Park South Views : 112754,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,"2,599",
+37155810,6/30/2015,Midtown Retreat Penthouse : 115333,Manhattan,Apartment,,Entire home/apt,10018.0,3.0,1,0,2486,
+37155810,6/30/2015,Central Park Luxury : 115916,Manhattan,Apartment,,Entire home/apt,10019.0,2.0,1,0,3390,
+37155810,6/30/2015,Central Park South Place : 112756,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,1356,
+37155810,6/30/2015,Central Park South Views : 112754,Manhattan,Apartment,,Entire home/apt,10019.0,1.0,1,0,2599,
 37138251,6/30/2015,Upper West Side Perfection,Manhattan,Apartment,80.0,Entire home/apt,10024.0,2.0,1,2,250,80.0
 37138145,6/30/2015,Upper West Side 2 bedroom/1 bath,Manhattan,Apartment,,Entire home/apt,10025.0,2.0,1,0,195,
 37179425,6/30/2015,Studio upper west side,Manhattan,Apartment,90.0,Entire home/apt,10025.0,1.0,1,7,130,94.0
@@ -28984,7 +28984,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 37253141,7/1/2015,sunny 1-bedroom oasis on the park,Brooklyn,Apartment,100.0,Entire home/apt,11238.0,1.0,1,1,120,100.0
 37229098,7/1/2015,Beautiful huge Fort Green 2 BR loft,Brooklyn,Loft,100.0,Entire home/apt,11217.0,3.0,1,1,125,100.0
 37245440,7/1/2015,"Financial District Oasis, New York",Manhattan,Apartment,,Entire home/apt,10004.0,2.0,1,0,240,
-37241813,7/1/2015,VERY Spacious 3BR in East Village,Manhattan,Apartment,,Entire home/apt,10009.0,3.0,1,0,"2,000",
+37241813,7/1/2015,VERY Spacious 3BR in East Village,Manhattan,Apartment,,Entire home/apt,10009.0,3.0,1,0,2000,
 37245296,7/1/2015,Quiet apartment w/terrace,Manhattan,Apartment,80.0,Entire home/apt,10010.0,1.0,1,1,205,80.0
 37278783,7/1/2015,2AA GREAT 2BR APT IN NEW YOUR CITY,Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,299,
 37278783,7/1/2015,4NN GREAT 1 BR APT IN THE CITY N.Y,Manhattan,Apartment,,Entire home/apt,10016.0,2.0,1,0,275,
@@ -30280,7 +30280,7 @@ Host Id,Host Since,Name,Neighbourhood ,Property Type,Review Scores Rating (bin),
 41968365,8/20/2015,Nice,Queens,Apartment,,Private room,11370.0,1.0,1,0,57,
 42072876,8/20/2015,Upper East Side Couch :),Manhattan,Apartment,,Shared room,10021.0,1.0,1,0,100,
 42024580,8/20/2015,Charming 1 Bedroom Apartment,Manhattan,Apartment,,Shared room,10065.0,1.0,1,0,129,
-42160989,8/21/2015,Luxury Duplex for Pope Visit,Brooklyn,Apartment,,Entire home/apt,11211.0,4.0,1,0,"2,000",
+42160989,8/21/2015,Luxury Duplex for Pope Visit,Brooklyn,Apartment,,Entire home/apt,11211.0,4.0,1,0,2000,
 42159979,8/21/2015,Immaculate Historic Brownstone Apt,Brooklyn,Apartment,,Entire home/apt,11221.0,3.0,1,0,120,
 42137049,8/21/2015,"1 Bedroom Apt, great neighborhood",Brooklyn,Apartment,,Entire home/apt,11231.0,2.0,1,0,150,
 42153002,8/21/2015,Luxury Flat in Historic Brownstone,Brooklyn,Apartment,,Entire home/apt,11233.0,1.0,1,0,135,
